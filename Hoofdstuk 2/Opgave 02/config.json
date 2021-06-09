@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hoofdstuk 2 - Opgave 2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "access": "private",
+  "internals": {
+    "token": "AUE9rhrQAV2r2wI_6w3jsn3gjnf9ptXqM_fjFf_TG2p-4CEwjpTSDzGsupK8Yfaz",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

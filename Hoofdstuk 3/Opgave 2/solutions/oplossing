@@ -1,0 +1,45 @@
+from random import randint, uniform
+import math
+import csv
+
+def BMI(m,l):
+  bmi = m/(l**2)
+  return(bmi)
+
+# wis alle gegevens in in.csv
+f = open("0.in", "w")
+f.truncate()
+f.close()
+# wis alle gegevens in out.csv
+f = open("0.out", "w")
+f.truncate()
+f.close()
+
+for j in range(100): 
+  l = randint(150, 200)/100
+  m = math.floor(l**2*uniform(15,40))
+  bmi = BMI(m,l)
+  uitvoer1 = "Je BMI is " + str(bmi) + "."
+  if(bmi < 18.5):
+    uitvoer2 = "Je hebt ondergewicht."
+  elif(18.5 <= bmi < 25):
+    uitvoer2 = "Je hebt een normaal gewicht."
+  elif(25 <= bmi < 27):
+    uitvoer2 = "Je hebt licht overgewicht."
+  elif(27 <= bmi < 30):
+    uitvoer2 = "Je hebt matig overgewicht."
+  elif(30 <= bmi < 40):
+    uitvoer2 = "Je hebt ernstig overgewicht."
+  elif(40 <= bmi):
+    uitvoer2 = "Je hebt ziekelijk overgewicht."
+
+  with open('0.in', 'a') as f:
+    f.write(str(l))
+    f.write("\n")
+    f.write(str(m))
+    f.write("\n")
+  with open('0.out', 'a') as f:
+    f.write(uitvoer1)
+    f.write("\n")
+    f.write(uitvoer2)
+    f.write("\n")

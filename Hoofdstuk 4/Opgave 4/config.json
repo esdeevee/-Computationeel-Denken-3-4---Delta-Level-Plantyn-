@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hoofdstuk 4 - Opgave 4"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "access": "private",
+  "internals": {
+    "token": "aFJiw7ghwVwJHdFYZxJuXMMpJxNYzB7hTyfTjYWaaK-9K_kTRbYYDQrquDxCmWZy",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

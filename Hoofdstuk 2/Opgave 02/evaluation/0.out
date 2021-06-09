@@ -1,0 +1,13 @@
+De omtrek van deze rechthoek is 21.0 cm.
+De oppervlakte van deze rechthoek is 22.5 cm2.
+De omtrek van deze rechthoek is 36 cm.
+De oppervlakte van deze rechthoek is 80 cm2.
+De omtrek van deze rechthoek is 25.2 cm.
+De oppervlakte van deze rechthoek is 36.08 cm2.
+---------------------------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: 2
+blockwise execution: true
+continue upon wrong answer: false

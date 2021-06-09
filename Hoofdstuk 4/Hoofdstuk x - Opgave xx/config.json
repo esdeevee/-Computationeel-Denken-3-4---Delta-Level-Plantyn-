@@ -1,0 +1,25 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Hoofdstuk 2 - Opgave 1"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "handler": "python",
+    "image": "dodona/dodona-python",
+    "time_limit": 10,
+    "memory_limit": 10000000,
+    "network_enabled": true
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "7EizyeAdbDjMyyx_dCPn6CSV3D344eTqxECG-RENq3fvpaeSedFRzFRpNmmuZJs_",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

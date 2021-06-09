@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Evaluatie 10/5/2021 - Opgave 1"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "access": "private",
+  "internals": {
+    "token": "F5P8kzGpnn7Fwunnt6QQQ5XXzE2SA3b9TIIIznRuRQRYWVAYJquNHmZcaU9YZe8v",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

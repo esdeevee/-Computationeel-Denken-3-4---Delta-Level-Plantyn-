@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "en": "Echo",
+      "nl": "Echo"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "eUyq3PNkyYr8Wx2DbX3_A7KXhYhE_SSfIEytaQIHYgqTuzCIrEvGzzmFMkJXu69-",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}
