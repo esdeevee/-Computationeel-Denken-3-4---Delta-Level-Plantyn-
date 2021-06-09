@@ -1,5 +1,5 @@
 {
-  "visibility": "private",
+  "visibility": "public",
   "evaluation": {
     "handler": "python",
     "time_limit": 15,
