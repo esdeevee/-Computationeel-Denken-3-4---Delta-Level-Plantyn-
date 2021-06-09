@@ -1,0 +1,29 @@
+from random import randint
+import csv
+
+def even(x):
+  if x%2 == 0:
+    return(" is even.")
+  else:
+    return(" is oneven.")
+
+# wis alle gegevens in in.csv
+f = open("0.in", "w")
+f.truncate()
+f.close()
+# wis alle gegevens in out.csv
+f = open("0.out", "w")
+f.truncate()
+f.close()
+
+for j in range(10):
+  for i in range(10):
+    #print(i) 
+    getal = randint(1, 10**(j+1))
+    uitvoer = str(getal) + even(getal)
+    with open('0.in', 'a') as f:
+      f.write(str(getal))
+      f.write("\n")
+    with open('0.out', 'a') as f:
+      f.write(uitvoer)
+      f.write("\n")

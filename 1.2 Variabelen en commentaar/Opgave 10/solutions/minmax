@@ -1,0 +1,56 @@
+"""
+from random import randint
+
+# wis alle gegevens in in.csv
+f = open("in.csv", "w")
+f.truncate()
+f.close()
+# wis alle gegevens in out.csv
+f = open("out.csv", "w")
+f.truncate()
+f.close()
+
+stop = False
+
+aantal = 0
+while aantal < 100:
+  if stop:
+    getal_of_stop = 2
+  else:
+    getal_of_stop = randint(1,10)
+  if getal_of_stop == 1:
+    aantal += 1
+    with open('in.csv', 'a') as f:
+      f.write("STOP")
+      f.write("\n")
+    stop = True
+  else:
+    getal = randint(-1000000, 1000000)
+    with open('in.csv', 'a') as f:
+      f.write(str(getal))
+      f.write("\n")
+    stop = False
+"""
+
+i = 0
+
+with open('in.csv', 'r') as fp:
+  while True:
+      getal = fp.readline()
+      kleinste = eval(getal)
+      grootste = eval(getal)
+      while True:
+        if getal == "STOP\n":
+          break
+        getal = eval(getal)
+        #print(getal)
+        if getal < kleinste:
+          kleinste = getal
+        if getal > grootste:
+          grootste = getal
+        getal = fp.readline()
+      i += 1
+      print("Het kleinste getal is " + str(kleinste) + ".")
+      print("Het grootste getal is " + str(grootste) + ".")
+
+      

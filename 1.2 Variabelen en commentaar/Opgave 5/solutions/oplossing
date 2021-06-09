@@ -1,0 +1,52 @@
+from random import randint
+from math import sqrt
+import csv
+
+def schrikkeljaar(jaar):
+  if jaar % 400 == 0:
+    schrikkel = "29"
+  elif jaar % 100 == 0:
+    schrikkel = "28"
+  elif jaar % 4 == 0:
+    schrikkel = "29"
+  else:
+    schrikkel = "28"
+  return(schrikkel)
+
+# wis alle gegevens in in.csv
+f = open("0.in", "w")
+f.truncate()
+f.close()
+# wis alle gegevens in out.csv
+f = open("0.out", "w")
+f.truncate()
+f.close()
+
+maanden = ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
+
+
+for j in range(1000): 
+  i = randint(0, 11)
+  maand = maanden[i]
+  t = randint(0, 10)
+  if t == 1:
+    jaar = randint(4, 10)*400
+  elif t ==2:
+    jaar = randint(16, 40)*100
+  else:
+    jaar = randint(1582, 4000)
+  if maand in ["januari", "maart", "mei", "juli", "augustus", "oktober", "december"]:
+    uitvoer = maand + " " + str(jaar) + " heeft 31 dagen."
+  elif maand == "februari":
+    uitvoer = "februari " + str(jaar) + " heeft " + schrikkeljaar(jaar) + " dagen."
+  else:
+    uitvoer = maand + " " + str(jaar) + " heeft 30 dagen."
+
+  with open('0.in', 'a') as f:
+    f.write(str(jaar))
+    f.write("\n")
+    f.write(str(maand))
+    f.write("\n")
+  with open('0.out', 'a') as f:
+    f.write(uitvoer)
+    f.write("\n")

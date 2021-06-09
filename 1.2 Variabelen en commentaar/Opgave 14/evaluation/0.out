@@ -1,0 +1,47 @@
+Heel naïeve benadering van pi: 3.1415914216620995
+Afwijking t.o.v. pi: 1.2319276936345602e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.14159265359048
+Afwijking t.o.v. pi: 6.870060076380469e-13
+Heel naïeve benadering van pi: 3.14159390500851
+Afwijking t.o.v. pi: 1.251418717096442e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.141592653588931
+Afwijking t.o.v. pi: 8.619771563189715e-13
+Heel naïeve benadering van pi: 3.141595697850282
+Afwijking t.o.v. pi: 3.04426048902684e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.141592653585145
+Afwijking t.o.v. pi: 4.648281759500605e-12
+Heel naïeve benadering van pi: 3.1415915165619825
+Afwijking t.o.v. pi: 1.137027810571567e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.1415926535903926
+Afwijking t.o.v. pi: 5.995204332975845e-13
+Heel naïeve benadering van pi: 3.1415958425788553
+Afwijking t.o.v. pi: 3.188989062152814e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.141592653584712
+Afwijking t.o.v. pi: 5.0812687391044165e-12
+Heel naïeve benadering van pi: 3.1415907216929133
+Afwijking t.o.v. pi: 1.9318968798032188e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.1415926535915544
+Afwijking t.o.v. pi: 1.7612578062653483e-12
+Heel naïeve benadering van pi: 3.1415940539165192
+Afwijking t.o.v. pi: 1.400326726130885e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.1415926535887024
+Afwijking t.o.v. pi: 1.0906830993917538e-12
+Heel naïeve benadering van pi: 3.1415799558220163
+Afwijking t.o.v. pi: 1.2697767776792546e-05
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.141592653670366
+Afwijking t.o.v. pi: 8.057288169993626e-11
+Heel naïeve benadering van pi: 3.1415892269372963
+Afwijking t.o.v. pi: 3.426652496862914e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.14159265359567
+Afwijking t.o.v. pi: 5.877076603155729e-12
+Heel naïeve benadering van pi: 3.1415905957732853
+Afwijking t.o.v. pi: 2.0578165078610766e-06
+Iets minder maar nog steeds erg naïeve benadering van pi: 3.1415926535918124
+Afwijking t.o.v. pi: 2.0192736371882347e-12
+---------------------------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 4
+blockwise execution: true
+continue upon wrong answer: true

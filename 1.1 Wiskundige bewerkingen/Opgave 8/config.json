@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hoofdstuk 3 - Opgave 8"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "access": "private",
+  "internals": {
+    "token": "NYQuD2p9VMUUJ5k4s3cwv_t6t-7mjjYxhjf4BruFGvVBrsB7ZQXiduDhWKRqc2Ny",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

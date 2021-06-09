@@ -1,0 +1,52 @@
+from random import randint
+from math import sqrt
+import csv
+
+def VKV(a,b,c):
+  D= b**2 - 4*a*c
+  if D > 0:
+    x1 = (-b + sqrt(D))/(2*a)
+    x2 = (-b - sqrt(D))/(2*a)
+    uitvoer = "x1 = " + str(x1) + " en x2 = " + str(x2) + "."
+  elif D == 0:
+    x1 = -b/(2*a)
+    uitvoer = "x1 = " + str(x1) + "."
+  else:
+    uitvoer = "De vergelijking heeft geen reële oplossingen."
+  return(uitvoer)
+
+# wis alle gegevens in in.csv
+f = open("0.in", "w")
+f.truncate()
+f.close()
+# wis alle gegevens in out.csv
+f = open("0.out", "w")
+f.truncate()
+f.close()
+
+for j in range(100): 
+  t = randint(0, 10)
+  if t == 1:
+    a = 0
+    while a == 0:
+      a = randint(-200, 200)/10
+    b = randint(-200, 200)/10
+    c = b**2 / (4*a)
+  else:
+    a = 0
+    while a == 0:
+      a = randint(-200, 200)/10
+    b = randint(-200, 200)/10
+    c = randint(-200, 200)/10
+  uitvoer = VKV(a,b,c)
+
+  with open('0.in', 'a') as f:
+    f.write(str(a))
+    f.write("\n")
+    f.write(str(b))
+    f.write("\n")
+    f.write(str(c))
+    f.write("\n")
+  with open('0.out', 'a') as f:
+    f.write(uitvoer)
+    f.write("\n")

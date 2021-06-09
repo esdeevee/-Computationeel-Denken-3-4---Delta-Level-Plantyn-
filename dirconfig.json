@@ -1,0 +1,11 @@
+{
+  "visibility": "private",
+  "evaluation": {
+    "handler": "python",
+    "time_limit": 15,
+    "memory_limit": 1000000000
+  },
+  "programming_language": "python",
+  "author": "Stijn De Vusser <sdevusser@sint-jan-brussel.be>",
+  "contact": "sdevusser@sint-jan-brussel.be"
+}
