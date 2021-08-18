@@ -1,8 +1,9 @@
 370.0
----------------------------------------------------------
+----------------------------------------
+tab name: feedback
 python input without prompt: true
-block count: first line
-input block size: first line
-output block size: 1
-blockwise execution: true
-continue upon wrong answer: true
+block count: one
+<DEFINITION>
+def customEvaluate(expected_output, generated_output):
+    return bool(generated_output)
+</DEFINITION>
