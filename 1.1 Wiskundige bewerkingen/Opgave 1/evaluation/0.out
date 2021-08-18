@@ -1,6 +1,6 @@
 370.0
 ---------------------------------------------------------
-python input without prompt: false
+python input without prompt: true
 block count: first line
 input block size: first line
 output block size: 1
