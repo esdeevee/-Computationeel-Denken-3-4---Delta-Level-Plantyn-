@@ -1,8 +1,8 @@
 370.0
 ---------------------------------------------------------
 python input without prompt: true
-block count: multi
-input block size: 0
+block count: first line
+input block size: 1
 output block size: 1
 blockwise execution: true
 continue upon wrong answer: true
