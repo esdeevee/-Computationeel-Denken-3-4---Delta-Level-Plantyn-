@@ -1,19 +1,19 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 3 - Opgave 2"
+      "nl": "Hoofdstuk 1.1 - Opgave 2"
     }
   },
   "evaluation": {
-    "pythia_judge": "output",
+	"pythia_judge": "output",
     "memory_limit": 500000000
   },
   "labels": [
 
   ],
-  "access": "private",
+  "access": "public",
   "internals": {
-    "token": "dPRdN9QKZ2s-hIxvkaxptUi2nDV2TkQSuE3GmeSm84E3c3nXT8Q7iYnjUQrjCsGz",
+    "token": "dgN2_jRWnS8rKAppGqnYzusvqQX5mVZrWQQfcdsS-776DYhc_3xZTZ83BJFsJ-ts",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
