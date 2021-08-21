@@ -2,7 +2,9 @@
 
 De formule voor het verband tussen een temperatuur C in graden Celsius en een temperatuur F in graden Fahrenheit is:
 
+<center>
 <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_cm&space;F&space;=&space;\frac{9}{5}&space;\cdot&space;C&space;&plus;&space;32" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_cm&space;F&space;=&space;\frac{9}{5}&space;\cdot&space;C&space;&plus;&space;32" title="F = \frac{9}{5} \cdot C + 32" /></a>
+</center>
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
