@@ -4,8 +4,9 @@ Pasen valt op de eerste zondag na de eerste volle maan van de lente. In zijn boe
 
 Schematisch ziet het er uit als volgt:
 
+<center>
 | Deel                  | door | (gehele) quotiënt | rest |
-|:------------------------:|:-------:|:--------------------:|:-------:|
+|:---------------------:|:----:|:-----------------:|:----:|
 | het jaartal x         | 19   | /                 | a    |
 | het jaartal x         | 100  | b                 | c    |
 | b                     | 4    | d                 | e    |
@@ -16,5 +17,6 @@ Schematisch ziet het er uit als volgt:
 | 32 + 2e + 2i - h - k  | 7    | /                 | l    |
 | a + 11h + 22l         | 451  | m                 | /    |
 | h + l - 7m + 114      | 31   | n                 | p    |
+</center>
 
 De waarde van n die je zo bekomt, is gelijk aan de maand waarin Pasen valt in het jaar x (3 = maart, 4 = april). De dag waarop Pasen valt, is gelijk aan p + 1. Implementeer dit algoritme in Python. Bereken de datum van Pasen in 2022. Als uitvoer geeft het programma de paasdatum in de vorm 12 4 2020.
