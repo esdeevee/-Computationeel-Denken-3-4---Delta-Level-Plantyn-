@@ -15,4 +15,4 @@ door 97. Het getal dat je zo bekomt, is het tweede controlegetal.
 
 Met de twee controlegetallen kan snel gecontroleerd worden of een ingevoerd rekeningnummer wel geldig is. Als je een cijfer verkeerd ingeeft, zal dat dankzij deze controlegetallen altijd gedetecteerd worden. Zo verkleint de kans dat je per ongeluk geld overschrijft naar een verkeerd rekeningnummer.
 
-Schrijf een programma waarmee je de twee controlegetallen berekent voor het rekeningnummer 135-7924680. Als uitvoer geeft het programma het volledige IBANnummer in de vorm BE 69 7331234567 78. Schrijf minstens één lijn commentaar en gebruik minstens drie variabelen.
+Schrijf een programma waarmee je de twee controlegetallen berekent voor het rekeningnummer 135-7924680. Als uitvoer geeft het programma het volledige IBAN-nummer in de vorm BE 69 7331234567 78. Schrijf minstens één lijn commentaar en gebruik minstens drie variabelen.
