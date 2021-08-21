@@ -4,6 +4,33 @@ Pasen valt op de eerste zondag na de eerste volle maan van de lente. In zijn boe
 
 Schematisch ziet het er uit als volgt:
 
+<table>
+<thead>
+<tr>
+<th align="center">Deel</th>
+<th align="center">door</th>
+<th align="center">(gehele) quotiënt</th>
+<th align="center">rest</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">het jaartal x</td>
+<td align="center">19</td>
+<td align="center">/</td>
+<td align="center">a</td>
+</tr>
+<tr>
+<td align="center">het jaartal x</td>
+<td align="center">100</td>
+<td align="center">b</td>
+<td align="center">c</td>
+</tr>
+<tr>
+<td align="center">b</td>
+<td align="center">4</td>
+
+
 | Deel                  | door | (gehele) quotiënt | rest |
 |:---------------------:|:----:|:-----------------:|:----:|
 | het jaartal x         | 19   | /                 | a    |
