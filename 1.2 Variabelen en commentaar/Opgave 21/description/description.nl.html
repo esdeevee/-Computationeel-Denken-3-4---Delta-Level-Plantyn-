@@ -1,0 +1,76 @@
+<h3 id="opgave">Opgave</h3>
+<p>Pasen valt op de eerste zondag na de eerste volle maan van de lente. In zijn boek “Astronomical Algorithms” geeft de Belgische wiskundige en astronoom Jean Meeus (1928 – ) een algoritme om de datum van Pasen in het jaar x (x &gt; 1582) te berekenen.</p>
+<p>Schematisch ziet het er uit als volgt:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Deel</th>
+<th style="text-align:center">door</th>
+<th style="text-align:center">(gehele) quotiënt</th>
+<th style="text-align:center">rest</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">het jaartal x</td>
+<td style="text-align:center">19</td>
+<td style="text-align:center">/</td>
+<td style="text-align:center">a</td>
+</tr>
+<tr>
+<td style="text-align:center">het jaartal x</td>
+<td style="text-align:center">100</td>
+<td style="text-align:center">b</td>
+<td style="text-align:center">c</td>
+</tr>
+<tr>
+<td style="text-align:center">b</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">d</td>
+<td style="text-align:center">e</td>
+</tr>
+<tr>
+<td style="text-align:center">b + 8</td>
+<td style="text-align:center">25</td>
+<td style="text-align:center">f</td>
+<td style="text-align:center">/</td>
+</tr>
+<tr>
+<td style="text-align:center">b - f + 1</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">g</td>
+<td style="text-align:center">/</td>
+</tr>
+<tr>
+<td style="text-align:center">19a + b - d - g + 15</td>
+<td style="text-align:center">30</td>
+<td style="text-align:center">/</td>
+<td style="text-align:center">h</td>
+</tr>
+<tr>
+<td style="text-align:center">c</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">i</td>
+<td style="text-align:center">k</td>
+</tr>
+<tr>
+<td style="text-align:center">32 + 2e + 2i - h - k</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">/</td>
+<td style="text-align:center">l</td>
+</tr>
+<tr>
+<td style="text-align:center">a + 11h + 22l</td>
+<td style="text-align:center">451</td>
+<td style="text-align:center">m</td>
+<td style="text-align:center">/</td>
+</tr>
+<tr>
+<td style="text-align:center">h + l - 7m + 114</td>
+<td style="text-align:center">31</td>
+<td style="text-align:center">n</td>
+<td style="text-align:center">p</td>
+</tr>
+</tbody>
+</table>
+<p>De waarde van n die je zo bekomt, is gelijk aan de maand waarin Pasen valt in het jaar x (3 = maart, 4 = april). De dag waarop Pasen valt, is gelijk aan p + 1. Implementeer dit algoritme in Python. Bereken de datum van Pasen in 2022. Als uitvoer geeft het programma de paasdatum in de vorm 12 4 2020.</p>
