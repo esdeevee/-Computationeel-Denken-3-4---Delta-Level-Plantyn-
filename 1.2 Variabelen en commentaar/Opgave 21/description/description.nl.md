@@ -6,6 +6,7 @@ Schematisch ziet het er uit als volgt:
 
 | Deel                  | door | (gehele) quotiënt | rest |
 |:---------------------:|:----:|:-----------------:|:----:|
+
 | het jaartal x         | 19   | /                 | a    |
 | het jaartal x         | 100  | b                 | c    |
 | b                     | 4    | d                 | e    |
