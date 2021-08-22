@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 1.3 - Opgave 3"
+      "nl": "Hoofdstuk 1.3 - Opgave 7"
     }
   },
   "evaluation": {
@@ -13,7 +13,7 @@
   ],
   "access": "public",
   "internals": {
-    "token": "Mi4uXRbwsiR3Itk3CmVeSzk2Jth58v5jpQSg9WCMAsxNhJpqGGPs7na5Pv6tjJKc",
+    "token": "VDniBfXV6KxGVptgbbUdwG4-jB-pCWWnf6mJEDbwVEZmmbgq4D4w-F9cCKvnpgm8",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
