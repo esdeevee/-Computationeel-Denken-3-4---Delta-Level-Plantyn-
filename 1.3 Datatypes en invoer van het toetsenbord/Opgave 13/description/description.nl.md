@@ -2,6 +2,8 @@
 
 Een rechte met voorschrift `y = ax + b` gaat door de punten `P(x_1, y_1)` en `Q(x_2, y_2)`. Schrijf een programma dat de waarde berekent van `a` en `b` en deze op één lijn toont (eerst `a`, dan `b`).
 
+Schrijf een programma dat de waarde vraagt van `x_1`, `y_1`, `x_2` en `y_2`. Bereken de waarde van `a` en `b`. Toon deze op twee lijnen (eerst a, dan b). Schrijf minstens één lijn commentaar en gebruik minstens zes variabelen.
+
 ### Voorbeeld
 
 **Invoer:**
