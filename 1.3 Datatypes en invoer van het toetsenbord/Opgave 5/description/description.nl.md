@@ -6,8 +6,8 @@ Schrijf een programma dat de lengte (in cm) van de rechthoekszijden vraagt in ee
 
 **Invoer:**
 
-    Geef de lengte van de eerste rechthoekszijde (in cm): 7.1
-    Geef de lengte van de tweede rechthoekszijde (in cm): 3.6
+    Geef de lengte (in cm) van de eerste rechthoekszijde: 7.1
+    Geef de lengte (in cm) van de tweede rechthoekszijde: 3.6
 
 **Uitvoer:**
 
