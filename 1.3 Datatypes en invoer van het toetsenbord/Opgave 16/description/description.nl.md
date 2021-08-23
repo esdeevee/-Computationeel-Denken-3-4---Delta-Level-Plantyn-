@@ -1,21 +1,19 @@
 ### Opgave
 
-De Body Mass Index (BMI) van een persoon met massa m (uitgedrukt in kg) en lengte l (uitgedrukt in m) wordt gegeven door:
+Op een bepaald tijdstip op een dag in december stel je een timer in die een aantal uur later zal aflopen.
 
-<center>
-<a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;BMI&space;=&space;\frac{m}{l^2}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?\fn_phv&space;BMI&space;=&space;\frac{m}{l^2}." title="BMI = \frac{m}{l^2}." /></a>
-</center>
-
-Schrijf een programma dat eerst de massa (in kg) en dan de lengte (in m) vraagt van een persoon. Bereken en toon de BMI van die persoon, afgerond op één cijfer na de komma. Schrijf minstens één lijn commentaar en gebruik minstens drie variabelen.
+Schrijf een programma dat vraagt naar de datum (1–31), het tijdstip (0–23) en de duur van de timer (1–700). Bereken de datum en het tijdstip wanneer de timer afloopt. Het programma toont deze twee natuurlijke getallen (eerst datum, dan tijdstip). Schrijf minstens één lijn commentaar en gebruik minstens vijf variabelen.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef de massa (in kg): 78
-    Geef de lengte (in m): 1.86
+    Geef de datum (in december) waarop de timer wordt gestart: 5
+    Geef het tijdstip waarop de timer wordt gestart: 11
+    Geef de duur (in uur) van de timer: 657
+
 
 
 **Uitvoer:**
 
-    22.5
+    1 20
