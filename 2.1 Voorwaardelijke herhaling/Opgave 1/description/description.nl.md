@@ -9,5 +9,5 @@ rest = getal % 2
 # controleer of de rest gelijk is aan nul:
 if rest == 0:
     # als de rest gelijk is aan nul, zeg je dat n een even getal is
-    print(getal, ’is een even getal.’)
+    print(getal, 'is een even getal.')
 ```

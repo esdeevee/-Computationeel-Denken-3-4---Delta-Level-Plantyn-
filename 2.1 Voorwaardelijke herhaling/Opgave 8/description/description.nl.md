@@ -17,19 +17,19 @@ Onderstaande code bevat een redeneringsfout. Zoek de fout en verbeter het progra
 
 ```python
 # lees de gemiddelde score in
-gemiddelde = float(input(’Geef de gemiddelde score: ’))
+gemiddelde = float(input('Geef de gemiddelde score: '))
 
 # bepaal de graad
 if gemiddelde < 68:
-    graad = ’V’
+    graad = 'V'
 elif gemiddelde >= 68:
-    graad = ’O’
+    graad = 'O'
 elif gemiddelde >= 77:
-    graad = ’GO’
+    graad = 'GO'
 elif gemiddelde >= 85:
-    graad = ’GGO’
+    graad = 'GGO'
 elif gemiddelde >= 90:
-    graad = ’F’
+    graad = 'F'
 
 # schrijf de graad uit
 print(graad)
