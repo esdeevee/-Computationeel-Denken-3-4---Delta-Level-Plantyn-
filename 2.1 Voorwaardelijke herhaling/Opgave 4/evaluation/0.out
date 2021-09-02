@@ -1,0 +1,10 @@
+E is een klinker.
+P is een medeklinker.
+a is een medeklinker.
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
+blockwise execution: true
+continue upon wrong answer: true

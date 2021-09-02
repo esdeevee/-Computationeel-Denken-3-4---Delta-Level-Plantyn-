@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hoofdstuk 1.3 - Opgave 11"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "access": "public",
+  "internals": {
+    "token": "NpIkrigmBFUe5Nx9DDDaK4wVIREAvW_puXR8zKED3IRsTjg-cCiNnsVxGBaKJXIY",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
