@@ -7,8 +7,8 @@ Schrijf een programma dat vraagt om twee natuurlijke getallen in te voeren. Het 
 
 **Invoer:**
 
-    Geef een eerste natuurlijk getal: 114504
-    Geef een tweede natuurlijk getal: 156
+    Geef een eerste natuurlijk getal: 156
+    Geef een tweede natuurlijk getal: 114504
 
 **Uitvoer:**
 
