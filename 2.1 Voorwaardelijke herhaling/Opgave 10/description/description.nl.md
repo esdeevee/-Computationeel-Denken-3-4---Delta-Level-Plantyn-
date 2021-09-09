@@ -1,18 +1,27 @@
 ### Opgave
 
 
-Schrijf een programma dat de lengte (in cm) van de grote diagonaal en de kleine diagonaal van een ruit vraagt. Bereken de oppervlakte (in cm²) en de omtrek (in cm) van deze ruit. Rond de oppervlakte af naar 1 mm². Rond de omtrek af naar 1 mm. Toon de resultaten op twee lijnen (eerst de oppervlakte, dan de omtrek). Schrijf minstens één lijn commentaar en gebruik minstens vier variabelen.
+Een vervoersmaatschappij biedt aan jonge reizigers twee soorten tickets aan. Een jongerenticket kost altijd 7 euro. De prijs van een standaard ticket hangt af van de afstand volgens de formule `prijs =  1,50  + 0,15 /km.`
+
+Schrijf een programma dat een afstand (in km) vraagt. Het programma berekent en toont het voordeligste ticket `jongerenticket` of `standaard ticket` voor deze afstand. Op een tweede lijn toont het de prijs van het ticket. Test je programma in Dodona.
 
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef de lengte van de grote diagonaal (in cm): 3.871
-    Geef de lengte van de kleine diagonaal (in cm): 2.724
-
+    Geef een afstand in km: 30
 
 **Uitvoer:**
 
-    5.27
-    9.5
+    standaard ticket
+    6.0
+
+**Invoer:**
+
+    Geef een afstand in km: 80
+
+**Uitvoer:**
+
+    jongerenticket
+    7

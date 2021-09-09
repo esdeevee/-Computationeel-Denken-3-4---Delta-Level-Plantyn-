@@ -198,10 +198,3 @@ B
 10.5
 C
 200
-----------------------------------------
-python input without prompt: true
-block count: multi
-input block size: 1
-output block size: 2
-blockwise execution: true
-continue upon wrong answer: true
