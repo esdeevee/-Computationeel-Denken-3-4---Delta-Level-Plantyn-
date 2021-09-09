@@ -1,18 +1,21 @@
 ### Opgave
 
-Een rechte met voorschrift `y = ax + b` gaat door de punten `P(x_1, y_1)` en `Q(x_2, y_2)`. Schrijf een programma dat de waarde vraagt van `x_1`, `y_1`, `x_2` en `y_2`. Bereken de waarde van `a` en `b`. Toon deze op twee lijnen (eerst `a`, dan `b`). Schrijf minstens één lijn commentaar en gebruik minstens zes variabelen.
+Een nieuwe supermarkt probeert klanten te winnen door grote kortingen aan te bieden:
+* Klanten die voor minstens 50 euro kopen, krijgen 2% korting op het volledige aankoopbedrag.
+* Klanten die voor minstens 100 euro kopen, krijgen 3% korting op het volledige aankoopbedrag.
+* Klanten die voor minstens 150 euro kopen, krijgen 4% korting op het volledige aankoopbedrag.
+* Klanten die voor minstens 200 euro kopen, krijgen 5% korting op het volledige aankoopbedrag.
+
+
+Schrijf een programma dat vraagt voor hoeveel euro de klant gekocht heeft. Het programma berekent de korting en het te betalen bedrag. Rond beide bedragen af op €0,01. Toon op één lijn het te betalen bedrag en de korting.
+
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef de x-coördinaat van P: 1
-    Geef de y-coördinaat van P: 2
-    Geef de x-coördinaat van Q: -3
-    Geef de y-coördinaat van Q: 4
-
+    Voor hoeveel euro heb je gekocht? 173.58
 
 **Uitvoer:**
 
-    -0.5
-    2.5
+     166.64 6.94
