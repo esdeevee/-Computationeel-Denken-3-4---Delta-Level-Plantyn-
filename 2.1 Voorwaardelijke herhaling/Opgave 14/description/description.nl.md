@@ -1,17 +1,19 @@
 ### Opgave
 
-Driehoek ABC is rechthoekig in B. Schrijf een programma dat de lengte van de rechthoekszijden &#124;AB&#124; en &#124;BC&#124; vraagt. Bereken sin Â, cos Â en tan Â. Toon de resultaten in deze volgorde, telkens op een aparte lijn en afgerond op 2 cijfers na de komma. Schrijf minstens één lijn commentaar en gebruik minstens zes variabelen.
+Een wachtwoord wordt veilig genoemd als het aan de volgende criteria voldoet:
+* Het wachtwoord telt minstens 12 karakters.
+* Het wachtwoord bevat minstens één cijfer.
+* Het wachtwoord bevat minstens één van de volgende drie karakters: `%`, `!`, `?`.
+
+Schrijf een programma dat aan de gebruiker een wachtwoord vraagt. Het programma geeft als uitvoer `veilig` als het aan elk van deze drie voorwaarden voldoet. Als er aan minstens één voorwaarde niet voldaan is, geeft het programma als uitvoer `onveilig`.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef de lengte (in cm) van rechthoekszijde AB: 4
-    Geef de lengte (in cm) van rechthoekszijde BC: 17
+    Geef het wachtwoord: .5x-#zH_Pta!
 
 
 **Uitvoer:**
 
-    0.97
-    0.23
-    4.25
+    veilig
