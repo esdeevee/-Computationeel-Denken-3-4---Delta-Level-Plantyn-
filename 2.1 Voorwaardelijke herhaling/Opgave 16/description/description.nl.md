@@ -1,19 +1,18 @@
 ### Opgave
 
-Op een bepaald tijdstip op een dag in december stel je een timer in die een aantal uur later zal aflopen.
+De Aarde draait rond de Zon in 365 dagen, 5 uren, 48 minuten en 45 seconden. Onze kalender telt 365 dagen. Om rekening te houden met de bijkomende 5 uren, 48 minuten en 45 seconden, werd het systeem van schrikkeljaren bedacht. In een schrikkeljaar heeft de maand februari geen 28 maar 29 dagen. Een schrikkeljaar telt dus 366 dagen.
 
-Schrijf een programma dat vraagt naar de datum (1–31), het tijdstip (0–23) en de duur van de timer (1–700). Bereken de datum en het tijdstip wanneer de timer afloopt. Het programma toont deze twee natuurlijke getallen (eerst datum, dan tijdstip). Schrijf minstens één lijn commentaar en gebruik minstens vijf variabelen.
+Men spreekt van een schrikkeljaar als het jaartal wel deelbaar is door 4, maar niet door 100. Als het jaartal deelbaar is door 400, is het wel een schrikkeljaar.
+
+Schrijf een programma dat aan de gebruiker een jaartal vraagt. Het programma toont of het ingevoerde jaartal een schrikkeljaar is of niet. De uitvoer van het programma is in het formaat `1600 is een schrikkeljaar`. of `1789 is geen schrikkeljaar.`. Test je code in Dodona.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef de datum (in december) waarop de timer wordt gestart: 5
-    Geef het tijdstip waarop de timer wordt gestart: 11
-    Geef de duur (in uur) van de timer: 657
-
+    Geef een jaartal: 2022
 
 
 **Uitvoer:**
 
-    1 20
+    2022 is geen schrikkeljaar.

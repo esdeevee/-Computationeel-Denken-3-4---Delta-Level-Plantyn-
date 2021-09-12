@@ -1,15 +1,16 @@
 ### Opgave
 
-Schrijf een programma dat een tijdstip (0–11) op een analoge klok vraagt en een aantal uren (een natuurlijk getal). De klok wordt nu dit aantal uren doorgedraaid. Bereken de hoek tussen de kleine en de grote wijzer en toon je antwoord. Schrijf minstens één lijn commentaar en gebruik minstens twee variabelen.
+Schrijf een programma dat aan de gebruiker eerst de naam van een maand en dan een jaartal vraagt. Je programma toont het aantal dagen van die maand in dat jaar. De uitvoer is van de vorm `februari 2020 heeft 29 dagen.`.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef het tijdstip waarop de klok wordt verder gedraaid: 2
-    Geef het aantal uur waarop de klok wordt verder gedraaid: 5176
+    Geef een maand: februari
+    Geef een jaartal: 2022
+
 
 
 **Uitvoer:**
 
-    180
+    februari 2022 heeft 28 dagen.
