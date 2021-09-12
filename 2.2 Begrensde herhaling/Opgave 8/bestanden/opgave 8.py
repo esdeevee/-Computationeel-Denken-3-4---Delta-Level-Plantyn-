@@ -1,28 +1,24 @@
-"""
-getal_1 = int(input('Geef een eerste geheel getal: '))
-getal_2 = int(input('Geef een tweede geheel getal: '))
-if getal_1 == getal_2:
-    print('De getallen zijn gelijk aan elkaar.')
-elif getal_1 > getal_2:
-    print('Het eerste getal is groter dan het tweede getal.')
-else:
-    print('Het eerste getal is kleiner dan het tweede getal.')
-"""
-
+import dutch_words
+words = dutch_words.get_ranked()
 from random import randint
 
-def graad(gemiddelde):
-    if gemiddelde < 68:
-        graad = 'V'
-    if gemiddelde >= 68:
-        graad = 'O'
-    if gemiddelde >= 77:
-        graad = 'GO'
-    if gemiddelde >= 85:
-        graad = 'GGO'
-    if gemiddelde >= 90:
-        graad = 'F'
-    return(graad)
+def aantal_medeklinkers(woord):
+    # initialiseer twee numerieke variabelen:
+    aantal_klinkers = 0
+    aantal_medeklinkers = 0
+    # herhaal voor elke letter in het woord
+    for letter in woord:
+        # controleer of letter een klinker is
+        if(letter == "a" or letter == "e" or letter == "i" or letter == "o" or letter == "u"):
+            # zo ja, verhoog dan de waarde van aantal_klinkers met 1
+            aantal_klinkers = aantal_klinkers + 1
+        # letter is geen klinker, dus het is een medeklinker
+        else:
+            # verhoog de waarde van aantal_medeklinkers met 1
+            aantal_medeklinkers = aantal_medeklinkers + 1
+    # print de uitvoer
+    uitvoer = woord + " heeft " + str(aantal_klinkers) + " klinkers en " + str(aantal_medeklinkers) + " medeklinkers"
+    return(uitvoer)
 
 # wis alle gegevens in in.csv
 f = open("0.in", "w")
@@ -33,12 +29,14 @@ f = open("0.out", "w")
 f.truncate()
 f.close()
 
+
+
 for i in range(100):
-  gemiddelde = randint(50,100)
+  n = randint(1,len(words))
+  woord = words[n].lower()
   with open('0.in', 'a') as f:
-    f.write(str(gemiddelde))
+    f.write(woord)
     f.write("\n")
   with open('0.out', 'a') as g:
-    g.write(graad(gemiddelde))
+    g.write(aantal_medeklinkers(woord))
     g.write("\n")
-
