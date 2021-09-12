@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hoofdstuk 2.2 - Opgave 6"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "access": "public",
+  "internals": {
+    "token": "SPnxFKuwjtQeqUvqyChEuI4u5Hyn9CG-4s8qiqqiqR4V-riFTTPKYjNGx3mzxYDF",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
