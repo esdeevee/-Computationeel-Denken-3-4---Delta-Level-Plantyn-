@@ -1,27 +1,27 @@
 ### Opgave
 
 
-Een vervoersmaatschappij biedt aan jonge reizigers twee soorten tickets aan. Een jongerenticket kost altijd 7 euro. De prijs van een standaard ticket hangt af van de afstand volgens de formule `prijs =  1,50  + 0,15 /km.`
-
-Schrijf een programma dat een afstand (in km) vraagt. Het programma berekent en toont het voordeligste ticket `jongerenticket` of `standaard ticket` voor deze afstand. Op een tweede lijn toont het de prijs van het ticket. Test je programma in Dodona.
+Schrijf een programma dat 10 keer vraagt naar de waarde van een natuurlijk getal. Als uitvoer toont het programma het grootste van deze 10 getallen, het kleinste van de 10 getallen en het aantal veelvouden van 3.
 
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef een afstand in km: 30
+    Geef een natuurlijk getal: 5
+    Geef een natuurlijk getal: 9
+    Geef een natuurlijk getal: 7
+    Geef een natuurlijk getal: 15
+    Geef een natuurlijk getal: 4
+    Geef een natuurlijk getal: 6
+    Geef een natuurlijk getal: 2
+    Geef een natuurlijk getal: 9
+    Geef een natuurlijk getal: 12
+    Geef een natuurlijk getal: 11
+
 
 **Uitvoer:**
 
-    standaard ticket
-    6.0
-
-**Invoer:**
-
-    Geef een afstand in km: 80
-
-**Uitvoer:**
-
-    jongerenticket
-    7
+    grootste: 15
+    kleinste: 2
+    aantal drievouden: 5
