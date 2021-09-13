@@ -301,7 +301,7 @@ aantal drievouden: 3
 ----------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 1
+input block size: 10
 output block size: 3
 blockwise execution: true
 continue upon wrong answer: true
