@@ -1,21 +1,20 @@
 ### Opgave
 
-Een nieuwe supermarkt probeert klanten te winnen door grote kortingen aan te bieden:
-* Klanten die voor minstens 50 euro kopen, krijgen 2% korting op het volledige aankoopbedrag.
-* Klanten die voor minstens 100 euro kopen, krijgen 3% korting op het volledige aankoopbedrag.
-* Klanten die voor minstens 150 euro kopen, krijgen 4% korting op het volledige aankoopbedrag.
-* Klanten die voor minstens 200 euro kopen, krijgen 5% korting op het volledige aankoopbedrag.
+Schrijf een programma dat vraagt om twee woorden. Als er gemeenschappelijke letters zijn in deze twee woorden, toon je uitvoer in de vorm `De woorden algoritme
+en Python hebben volgende letter(s) gemeenschappelijk: ot`. Als er geen enkele letter gemeenschappelijk is, toon je uitvoer in de vorm `De woorden boek en plant
+hebben geen enkele letter gemeenschappelijk.`.
 
-
-Schrijf een programma dat vraagt voor hoeveel euro de klant gekocht heeft. Het programma berekent de korting en het te betalen bedrag. Rond beide bedragen af op €0,01. Toon op één lijn het te betalen bedrag en de korting.
+Je mag hoofdletters beschouwen als verschillend van kleine letters, maar iedere letter mag niet meer dan één keer gerapporteerd worden. Zo hebben de woorden `peer` en `een` bijvoorbeeld slechts één letter gemeen, namelijk de letter `e`.
 
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Voor hoeveel euro heb je gekocht? 173.58
+    Geef een eerste woord: algoritme
+    Geef een tweede woord: Python
+
 
 **Uitvoer:**
 
-     166.64 6.94
+    De woorden algoritme en Python hebben volgende letter(s) gemeenschappelijk: ot

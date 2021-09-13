@@ -98,10 +98,3 @@ De woorden koffie en place hebben volgende letter(s) gemeenschappelijk: e
 De woorden beletten en tekst hebben volgende letter(s) gemeenschappelijk: et
 De woorden FRF en vzw hebben geen enkele letter gemeenschappelijk.
 De woorden identificeren en aangeraden hebben volgende letter(s) gemeenschappelijk: denr
-----------------------------------------
-python input without prompt: true
-block count: multi
-input block size: 1
-output block size: 1
-blockwise execution: true
-continue upon wrong answer: true
