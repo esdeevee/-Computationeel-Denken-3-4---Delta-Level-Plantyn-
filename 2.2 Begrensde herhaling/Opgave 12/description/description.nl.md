@@ -1,18 +1,20 @@
 ### Opgave
 
-Schrijf een programma dat twee keer vraagt om een getal in te voeren. Daarna vraagt het om een bewerking in te voeren (+, -, *, /, **). Het programma berekent en toont het resultaat van de bewerking.
+Een heel langzame manier om pi te benaderen, is door de som te nemen van een groot aantal termen:
 
+<center>
+<a href="https://latex.codecogs.com/png.latex?\fn_phv&space;\pi&space;\approx&space;4&space;\cdot&space;\left(1&space;-&space;\frac{1}{3}&space;&plus;&space;\frac{1}{5}&space;-&space;\frac{1}{7}&space;&plus;&space;\ldots&space;\right)/></a>
+</center>
 
+Vraag aan de gebruiker een natuurlijk getal `n`. Kies voor `n` een natuurlijk getal tussen 100 000 en 10 000 000. De uitvoer is de benadering vanpi die je bekomt door de eerste n termen van deze som op te tellen.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef een eerste getal: 3.5
-    Geef een tweede getal: 7.2
-    Geef een bewerking (+, -, *, / of **): *
+    Geef het aantal termen: 1000000
 
 
 **Uitvoer:**
 
-    25.2
+    3.1415916535897743
