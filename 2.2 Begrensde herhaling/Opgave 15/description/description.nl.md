@@ -1,14 +1,14 @@
 ### Opgave
 
-Schrijf een programma dat aan de gebruiker een stuk tekst vraagt. Het programma geeft als uitvoer het aantal verschillende klinkers in de tekst.
+Vraag aan de gebruiker een natuurlijk getal `n`. Beschouw dan de `n` (`n`≥2) eerste termen van de rij van Fibonacci. De uitvoer is gelijk aan de som van alle termen die deelbaar zijn door 2.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef een stuk tekst: Twijfel is het begin van wijsheid.
+    Geef een natuurlijk getal (minstens 2): 10
 
 
 **Uitvoer:**
 
-    3
+    44
