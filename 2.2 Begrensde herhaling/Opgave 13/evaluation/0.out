@@ -101,7 +101,7 @@ De woorden identificeren en aangeraden hebben volgende letter(s) gemeenschappeli
 ----------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 1
+input block size: 2
 output block size: 1
 blockwise execution: true
 continue upon wrong answer: true
