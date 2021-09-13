@@ -1,18 +1,15 @@
 ### Opgave
 
-Kopieer en plak onderstaand programma in een IDE. Analyseer de code. Je mag ze kopiëren en plakken in een IDE en daar uitvoeren.
+Een programma vraagt een natuurlijk getal aan de gebruiker. De bedoeling is om dit getal te reduceren naar één cijfer. Dat doe je door de som te nemen van alle cijfers van dit getal. Als die som op zijn beurt bestaat uit meer dan één cijfer, blijf je verder werken tot je uiteindelijk één enkel cijfer bekomt.
 
-```python
-# laat i toenemen van 1 t.e.m. 10
-for i in range(1, 11):   
-    # definieer uitvoer als een lege string
-    uitvoer = ''
-    # laat ook j toenemen van 1 t.e.m. 10
-    for j in range(1, 11):  
-        # bereken het product van i en j
-        product = i*j
-        # plak het berekende product en een spatie aan de bestaande uitvoer
-        uitvoer = uitvoer + str(product) + ' '
-    # toon de variabele uitvoer
-    print(uitvoer)
-```
+
+### Voorbeeld
+
+**Invoer:**
+
+    Geef een natuurlijk getal: 87
+
+
+**Uitvoer:**
+
+    6

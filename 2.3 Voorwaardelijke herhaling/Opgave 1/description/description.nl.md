@@ -1,9 +1,14 @@
 ### Opgave
 
-Kopieer en plak onderstaand programma in een IDE. Voer het een paar keer uit met verschillende waarden van n.
+Kopieer en plak het programma in je IDE. Voer het programma uit. Noteer wat het programma precies doet. Wat gebeurt er wanneer je toch een even getal intypt?
 
 ```python
-n = int(input('Geef het aantal herhalingen: '))
-for i in range(n):
-    print('Python')
+# lees een getal in
+getal = int(input('Typ een oneven getal: '))
+# voer een blokje code uit zolang het ingevoerde getal even is
+while getal % 2 == 0:
+    print(getal, 'is geen oneven getal. Probeer opnieuw.')
+    getal = int(input('Typ een oneven getal: '))
+# het ingevoerde getal is niet even
+print(getal, 'is oneven.')
 ```
