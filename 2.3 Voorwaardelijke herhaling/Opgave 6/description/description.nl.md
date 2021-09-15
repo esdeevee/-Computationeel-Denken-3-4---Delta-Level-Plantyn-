@@ -1,17 +1,19 @@
 ### Opgave
 
-Schrijf een programma dat een natuurlijk getal `n` vraagt aan de gebruiker. Het programma berekent de eerste `n` oneven getallen en toont deze telkens op een nieuwe lijn.
+De oud-Griekse wiskundige Euclides heeft rond 300 v.C. een algoritme bedacht om de grootste gemene deler (ggd) van twee getallen te berekenen. Het algoritme steunt op het herhaaldelijk toepassen van de eigenschap:
+
+> De grootste gemene deler van grootste_getal en kleinste_getal is gelijk aan de grootste gemene deler van kleinste_getal en de rest bij deling van grootste_getal door kleinste_getal.
+
+Schrijf een programma dat vraagt naar twee natuurlijke getallen. Het programma berekent en toont de grootste gemene deler van deze getallen.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef het aantal oneven getallen: 3
+    Geef een eerste natuurlijk getal: 876868698293
+    Geef een tweede natuurlijk getal: 51454235
 
 
 **Uitvoer:**
 
-    1
-    3
-    5
-  
+    7
