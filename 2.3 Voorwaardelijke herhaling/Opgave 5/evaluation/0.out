@@ -102,7 +102,7 @@
 ----------------------------------------
 python input without prompt: true
 block count: multi
-input block size: ends with 'STOP'
+input block size: ends with STOP
 output block size: 1
 blockwise execution: true
 continue upon wrong answer: true
