@@ -1,24 +1,23 @@
 ### Opgave
 
-Schrijf een programma dat de waarde van een natuurlijk getal `n` vraagt. Het programma toont de eerste 10 lijnen van de tafel van vermenigvuldiging van `n`. Elke lijn is van de vorm `7 * 12 = 84`.
+Schrijf een programma dat vraagt om natuurlijke getallen in te voeren. De invoer eindigt wanneer de gebruiker STOP typt. Het programma toont op één lijn het grootste ingevoerde getal, het kleinste ingevoerde getal en het aantal ingevoerde getallen.
 
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef een natuurlijk getal: 13
+    Geef een natuurlijk getal of typ STOP: 48
+    Geef een natuurlijk getal of typ STOP: 3
+    Geef een natuurlijk getal of typ STOP: 15
+    Geef een natuurlijk getal of typ STOP: 78
+    Geef een natuurlijk getal of typ STOP: 127
+    Geef een natuurlijk getal of typ STOP: 95
+    Geef een natuurlijk getal of typ STOP: 13
+    Geef een natuurlijk getal of typ STOP: STOP
+
 
 
 **Uitvoer:**
 
-    1 * 13 = 13
-    2 * 13 = 26
-    3 * 13 = 39
-    4 * 13 = 52
-    5 * 13 = 65
-    6 * 13 = 78
-    7 * 13 = 91
-    8 * 13 = 104
-    9 * 13 = 117
-    10 * 13 = 130
+    127 3 7
