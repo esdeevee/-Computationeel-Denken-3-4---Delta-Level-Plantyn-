@@ -1,5 +1,3 @@
-
-----------------------------------------
-tab name: feedback
-python input without prompt: true
-block count: one
+--------------------------------------------------
+tab name: Echo functie print
+used output channel: stdout
