@@ -1,6 +1,6 @@
 ### Opgave
 
-Je vindt dit programma in Dodona. Kopieer en plak het programma in een IDE. Voer het programma uit. Geef `x` de waarde -2. Noteer de uitvoer.
+Kopieer en plak onderstaand programma in een IDE. Voer het programma uit. Geef `x` de waarde -2. Noteer de uitvoer.
 
 ```python
 # je gebruikt het functievoorschrift f(x) = 3x+5
