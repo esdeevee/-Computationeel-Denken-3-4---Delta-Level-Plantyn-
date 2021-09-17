@@ -1,22 +1,14 @@
 ### Opgave
 
-Schrijf een programma dat de omtrek berekent van een willekeurige veelhoek in het vlak. De x- en y-coördinaten van de opeenvolgende hoekpunten van de veelhoek worden één voor één ingelezen. De invoer wordt beëindigd zodra er STOP wordt ingevoerd in plaats van een x-coördinaat. Daarna wordt de omtrek berekend en getoond.
-
-Let op: het gaat om een gesloten veelhoek. Het laatst ingevoerde hoekpunt wordt dus opnieuw verbonden met het eerste hoekpunt.
+ Schrijf een functie `A_naar_r()` met één parameter: de oppervlakte van een cirkel (in cm²). De functie berekent de straal van deze cirkel (uitgedrukt in cm) op 1 mm nauwkeurig en stuurt deze terug. Schrijf minstens één lijn commentaar.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    Geef de x-coördinaat: 0
-    Geef de y-coördinaat: 0
-    Geef de x-coördinaat of typ STOP: 0
-    Geef de y-coördinaat: 1
-    Geef de x-coördinaat of typ STOP: 1
-    Geef de y-coördinaat: 0
-    Geef de x-coördinaat of typ STOP: STOP
+    > A_naar_r(850)
 
 
 **Uitvoer:**
 
-    3.414213562373095
+    16.4
