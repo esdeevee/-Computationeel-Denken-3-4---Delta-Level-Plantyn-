@@ -1,10 +1,6 @@
 ### Opgave
 
-Bij het ontwerpen van zijn Analytical Engine dacht Charles Babbage al na over mogelijke toepassingen van zijn machine. In een brief die hij in 1837 naar Lord Bertram Bowden schreef, stelde hij zich de volgende vraag:
-
-> Wat is het kleinste natuurlijke getal waarvan het kwadraat eindigt met de cijfers 269 696?
-
-Schrijf een programma dat dit specifieke probleem van Babbage in een algemene vorm oplost. Vraag een natuurlijk getal aan de gebruiker. Het programma berekent en toont het kleinste getal waarvan het kwadraat eindigt op het gegeven getal. Toon de uitvoer in de vorm `25264 * 25264 = 638269696`.
+Schrijf een functie `F_naar_C()` met één parameter: een temperatuur in °F. De functie berekent de temperatuur in °C en stuurt deze terug, afgerond op 0,1°C. Schrijf minstens één lijn commentaar. 
 
 
 ### Voorbeeld
