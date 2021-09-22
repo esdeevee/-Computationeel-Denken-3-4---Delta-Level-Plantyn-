@@ -5,7 +5,7 @@ In de Angelsaksische wereld worden maten en gewichten uitgedrukt in het Imperial
 
 1. Schrijf een functie `cm_naar_ft()` met één parameter, de lengte van een persoon (uitgedrukt in cm). De functie berekent het aantal foot (een natuurlijk getal) en stuurt deze waarde terug. Schrijf minstens één lijn commentaar.
 
-2. Schrijf een functie `cm_naar_in()` met één parameter, de lengte van een persoon (uitgedrukt in cm). De functie berekent het aantal inch, afgerond tot op één cijfer na de komma, en stuurt deze waarde terug. Schrijf minstens één lijn commentaar.
+2. Schrijf een functie `cm_naar_in()` met één parameter, de lengte van een persoon (uitgedrukt in cm). De functie berekent het aantal inch (afgerond op 0,1 inch) en stuurt deze waarde terug. Schrijf minstens één lijn commentaar.
 
 
 ### Voorbeeld
