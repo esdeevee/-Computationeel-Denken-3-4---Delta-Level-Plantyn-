@@ -1,200 +1,400 @@
->>> F_naar_C(496)
-257.8
->>> F_naar_C(1444)
-784.4
->>> F_naar_C(56)
-13.3
->>> F_naar_C(1004)
-540.0
->>> F_naar_C(192)
-88.9
->>> F_naar_C(1690)
-921.1
->>> F_naar_C(1758)
-958.9
->>> F_naar_C(563)
-295.0
->>> F_naar_C(1584)
-862.2
->>> F_naar_C(-182)
--118.9
->>> F_naar_C(901)
-482.8
->>> F_naar_C(545)
-285.0
->>> F_naar_C(372)
-188.9
->>> F_naar_C(-29)
--33.9
->>> F_naar_C(1084)
-584.4
->>> F_naar_C(1168)
-631.1
->>> F_naar_C(146)
-63.3
->>> F_naar_C(854)
-456.7
->>> F_naar_C(-405)
--242.8
->>> F_naar_C(463)
-239.4
->>> F_naar_C(906)
-485.6
->>> F_naar_C(839)
-448.3
->>> F_naar_C(898)
-481.1
->>> F_naar_C(-391)
--235.0
->>> F_naar_C(1040)
-560.0
->>> F_naar_C(1516)
-824.4
->>> F_naar_C(302)
-150.0
->>> F_naar_C(33)
+>>> cm_naar_ft(161)
+5
+>>> cm_naar_in(161)
+3.4
+>>> cm_naar_ft(151)
+4
+>>> cm_naar_in(151)
+11.4
+>>> cm_naar_ft(180)
+5
+>>> cm_naar_in(180)
+10.9
+>>> cm_naar_ft(199)
+6
+>>> cm_naar_in(199)
+6.3
+>>> cm_naar_ft(151)
+4
+>>> cm_naar_in(151)
+11.4
+>>> cm_naar_ft(193)
+6
+>>> cm_naar_in(193)
+4.0
+>>> cm_naar_ft(164)
+5
+>>> cm_naar_in(164)
+4.6
+>>> cm_naar_ft(151)
+4
+>>> cm_naar_in(151)
+11.4
+>>> cm_naar_ft(188)
+6
+>>> cm_naar_in(188)
+2.0
+>>> cm_naar_ft(171)
+5
+>>> cm_naar_in(171)
+7.3
+>>> cm_naar_ft(167)
+5
+>>> cm_naar_in(167)
+5.7
+>>> cm_naar_ft(196)
+6
+>>> cm_naar_in(196)
+5.2
+>>> cm_naar_ft(167)
+5
+>>> cm_naar_in(167)
+5.7
+>>> cm_naar_ft(150)
+4
+>>> cm_naar_in(150)
+11.1
+>>> cm_naar_ft(181)
+5
+>>> cm_naar_in(181)
+11.3
+>>> cm_naar_ft(153)
+5
+>>> cm_naar_in(153)
+0.2
+>>> cm_naar_ft(189)
+6
+>>> cm_naar_in(189)
+2.4
+>>> cm_naar_ft(164)
+5
+>>> cm_naar_in(164)
+4.6
+>>> cm_naar_ft(152)
+4
+>>> cm_naar_in(152)
+11.8
+>>> cm_naar_ft(154)
+5
+>>> cm_naar_in(154)
 0.6
->>> F_naar_C(-275)
--170.6
->>> F_naar_C(1311)
-710.6
->>> F_naar_C(1628)
-886.7
->>> F_naar_C(526)
-274.4
->>> F_naar_C(1733)
-945.0
->>> F_naar_C(543)
-283.9
->>> F_naar_C(1138)
-614.4
->>> F_naar_C(3)
--16.1
->>> F_naar_C(-157)
--105.0
->>> F_naar_C(1643)
-895.0
->>> F_naar_C(397)
-202.8
->>> F_naar_C(652)
-344.4
->>> F_naar_C(988)
-531.1
->>> F_naar_C(1472)
-800.0
->>> F_naar_C(1818)
-992.2
->>> F_naar_C(1031)
-555.0
->>> F_naar_C(-331)
--201.7
->>> F_naar_C(352)
-177.8
->>> F_naar_C(1699)
-926.1
->>> F_naar_C(1275)
-690.6
->>> F_naar_C(709)
-376.1
->>> F_naar_C(644)
-340.0
->>> F_naar_C(1476.9)
-802.7
->>> F_naar_C(442.4)
-228.0
->>> F_naar_C(135.3)
-57.4
->>> F_naar_C(352.9)
-178.3
->>> F_naar_C(-191.7)
--124.3
->>> F_naar_C(689.9)
-365.5
->>> F_naar_C(-406.8)
--243.8
->>> F_naar_C(1646.1)
-896.7
->>> F_naar_C(211.6)
-99.8
->>> F_naar_C(711.9)
-377.7
->>> F_naar_C(43.2)
-6.2
->>> F_naar_C(818.1)
-436.7
->>> F_naar_C(535.8)
-279.9
->>> F_naar_C(1613.1)
-878.4
->>> F_naar_C(841.3)
-449.6
->>> F_naar_C(-455.4)
--270.8
->>> F_naar_C(1534.8)
-834.9
->>> F_naar_C(-128.4)
--89.1
->>> F_naar_C(187.3)
-86.3
->>> F_naar_C(994.6)
-534.8
->>> F_naar_C(106.9)
-41.6
->>> F_naar_C(1756.4)
-958.0
->>> F_naar_C(673.3)
-356.3
->>> F_naar_C(573.8)
-301.0
->>> F_naar_C(681.6)
-360.9
->>> F_naar_C(1121.0)
-605.0
->>> F_naar_C(-156.8)
--104.9
->>> F_naar_C(757.4)
-403.0
->>> F_naar_C(842.9)
-450.5
->>> F_naar_C(-13.4)
--25.2
->>> F_naar_C(319.5)
-159.7
->>> F_naar_C(583.2)
-306.2
->>> F_naar_C(1213.3)
-656.3
->>> F_naar_C(4.1)
--15.5
->>> F_naar_C(81.3)
-27.4
->>> F_naar_C(1543.6)
-839.8
->>> F_naar_C(1750.5)
-954.7
->>> F_naar_C(1242.5)
-672.5
->>> F_naar_C(791.2)
-421.8
->>> F_naar_C(357.1)
-180.6
->>> F_naar_C(1768.6)
-964.8
->>> F_naar_C(-94.9)
--70.5
->>> F_naar_C(1220.2)
-660.1
->>> F_naar_C(1584.1)
-862.3
->>> F_naar_C(554.7)
-290.4
->>> F_naar_C(1492.9)
-811.6
->>> F_naar_C(1385.4)
-751.9
->>> F_naar_C(-224.3)
--142.4
->>> F_naar_C(1544.0)
-840.0
->>> F_naar_C(406.6)
-208.1
+>>> cm_naar_ft(177)
+5
+>>> cm_naar_in(177)
+9.7
+>>> cm_naar_ft(161)
+5
+>>> cm_naar_in(161)
+3.4
+>>> cm_naar_ft(175)
+5
+>>> cm_naar_in(175)
+8.9
+>>> cm_naar_ft(157)
+5
+>>> cm_naar_in(157)
+1.8
+>>> cm_naar_ft(163)
+5
+>>> cm_naar_in(163)
+4.2
+>>> cm_naar_ft(197)
+6
+>>> cm_naar_in(197)
+5.6
+>>> cm_naar_ft(161)
+5
+>>> cm_naar_in(161)
+3.4
+>>> cm_naar_ft(176)
+5
+>>> cm_naar_in(176)
+9.3
+>>> cm_naar_ft(165)
+5
+>>> cm_naar_in(165)
+5.0
+>>> cm_naar_ft(158)
+5
+>>> cm_naar_in(158)
+2.2
+>>> cm_naar_ft(198)
+6
+>>> cm_naar_in(198)
+6.0
+>>> cm_naar_ft(167)
+5
+>>> cm_naar_in(167)
+5.7
+>>> cm_naar_ft(150)
+4
+>>> cm_naar_in(150)
+11.1
+>>> cm_naar_ft(163)
+5
+>>> cm_naar_in(163)
+4.2
+>>> cm_naar_ft(185)
+6
+>>> cm_naar_in(185)
+0.8
+>>> cm_naar_ft(189)
+6
+>>> cm_naar_in(189)
+2.4
+>>> cm_naar_ft(172)
+5
+>>> cm_naar_in(172)
+7.7
+>>> cm_naar_ft(187)
+6
+>>> cm_naar_in(187)
+1.6
+>>> cm_naar_ft(185)
+6
+>>> cm_naar_in(185)
+0.8
+>>> cm_naar_ft(174)
+5
+>>> cm_naar_in(174)
+8.5
+>>> cm_naar_ft(151)
+4
+>>> cm_naar_in(151)
+11.4
+>>> cm_naar_ft(158)
+5
+>>> cm_naar_in(158)
+2.2
+>>> cm_naar_ft(177)
+5
+>>> cm_naar_in(177)
+9.7
+>>> cm_naar_ft(173)
+5
+>>> cm_naar_in(173)
+8.1
+>>> cm_naar_ft(187)
+6
+>>> cm_naar_in(187)
+1.6
+>>> cm_naar_ft(177)
+5
+>>> cm_naar_in(177)
+9.7
+>>> cm_naar_ft(161)
+5
+>>> cm_naar_in(161)
+3.4
+>>> cm_naar_ft(157)
+5
+>>> cm_naar_in(157)
+1.8
+>>> cm_naar_ft(165)
+5
+>>> cm_naar_in(165)
+5.0
+>>> cm_naar_ft(171)
+5
+>>> cm_naar_in(171)
+7.3
+>>> cm_naar_ft(177.0)
+5
+>>> cm_naar_in(177.0)
+9.7
+>>> cm_naar_ft(174.3)
+5
+>>> cm_naar_in(174.3)
+8.6
+>>> cm_naar_ft(165.3)
+5
+>>> cm_naar_in(165.3)
+5.1
+>>> cm_naar_ft(181.6)
+5
+>>> cm_naar_in(181.6)
+11.5
+>>> cm_naar_ft(186.0)
+6
+>>> cm_naar_in(186.0)
+1.2
+>>> cm_naar_ft(169.5)
+5
+>>> cm_naar_in(169.5)
+6.7
+>>> cm_naar_ft(181.7)
+5
+>>> cm_naar_in(181.7)
+11.5
+>>> cm_naar_ft(192.8)
+6
+>>> cm_naar_in(192.8)
+3.9
+>>> cm_naar_ft(162.7)
+5
+>>> cm_naar_in(162.7)
+4.1
+>>> cm_naar_ft(187.1)
+6
+>>> cm_naar_in(187.1)
+1.7
+>>> cm_naar_ft(150.5)
+4
+>>> cm_naar_in(150.5)
+11.3
+>>> cm_naar_ft(167.1)
+5
+>>> cm_naar_in(167.1)
+5.8
+>>> cm_naar_ft(195.1)
+6
+>>> cm_naar_in(195.1)
+4.8
+>>> cm_naar_ft(158.4)
+5
+>>> cm_naar_in(158.4)
+2.4
+>>> cm_naar_ft(165.7)
+5
+>>> cm_naar_in(165.7)
+5.2
+>>> cm_naar_ft(197.8)
+6
+>>> cm_naar_in(197.8)
+5.9
+>>> cm_naar_ft(187.0)
+6
+>>> cm_naar_in(187.0)
+1.6
+>>> cm_naar_ft(194.3)
+6
+>>> cm_naar_in(194.3)
+4.5
+>>> cm_naar_ft(155.4)
+5
+>>> cm_naar_in(155.4)
+1.2
+>>> cm_naar_ft(167.6)
+5
+>>> cm_naar_in(167.6)
+6.0
+>>> cm_naar_ft(153.4)
+5
+>>> cm_naar_in(153.4)
+0.4
+>>> cm_naar_ft(160.3)
+5
+>>> cm_naar_in(160.3)
+3.1
+>>> cm_naar_ft(195.7)
+6
+>>> cm_naar_in(195.7)
+5.0
+>>> cm_naar_ft(187.3)
+6
+>>> cm_naar_in(187.3)
+1.7
+>>> cm_naar_ft(170.1)
+5
+>>> cm_naar_in(170.1)
+7.0
+>>> cm_naar_ft(181.2)
+5
+>>> cm_naar_in(181.2)
+11.3
+>>> cm_naar_ft(173.0)
+5
+>>> cm_naar_in(173.0)
+8.1
+>>> cm_naar_ft(176.7)
+5
+>>> cm_naar_in(176.7)
+9.6
+>>> cm_naar_ft(158.7)
+5
+>>> cm_naar_in(158.7)
+2.5
+>>> cm_naar_ft(157.1)
+5
+>>> cm_naar_in(157.1)
+1.9
+>>> cm_naar_ft(154.6)
+5
+>>> cm_naar_in(154.6)
+0.9
+>>> cm_naar_ft(180.6)
+5
+>>> cm_naar_in(180.6)
+11.1
+>>> cm_naar_ft(185.8)
+6
+>>> cm_naar_in(185.8)
+1.1
+>>> cm_naar_ft(162.9)
+5
+>>> cm_naar_in(162.9)
+4.1
+>>> cm_naar_ft(154.8)
+5
+>>> cm_naar_in(154.8)
+0.9
+>>> cm_naar_ft(193.6)
+6
+>>> cm_naar_in(193.6)
+4.2
+>>> cm_naar_ft(196.2)
+6
+>>> cm_naar_in(196.2)
+5.2
+>>> cm_naar_ft(182.9)
+6
+>>> cm_naar_in(182.9)
+0.0
+>>> cm_naar_ft(170.9)
+5
+>>> cm_naar_in(170.9)
+7.3
+>>> cm_naar_ft(192.2)
+6
+>>> cm_naar_in(192.2)
+3.7
+>>> cm_naar_ft(193.1)
+6
+>>> cm_naar_in(193.1)
+4.0
+>>> cm_naar_ft(168.9)
+5
+>>> cm_naar_in(168.9)
+6.5
+>>> cm_naar_ft(171.5)
+5
+>>> cm_naar_in(171.5)
+7.5
+>>> cm_naar_ft(187.2)
+6
+>>> cm_naar_in(187.2)
+1.7
+>>> cm_naar_ft(165.6)
+5
+>>> cm_naar_in(165.6)
+5.2
+>>> cm_naar_ft(154.2)
+5
+>>> cm_naar_in(154.2)
+0.7
+>>> cm_naar_ft(154.4)
+5
+>>> cm_naar_in(154.4)
+0.8
+>>> cm_naar_ft(151.9)
+4
+>>> cm_naar_in(151.9)
+11.8
+>>> cm_naar_ft(160.9)
+5
+>>> cm_naar_in(160.9)
+3.3
+>>> cm_naar_ft(168.3)
+5
+>>> cm_naar_in(168.3)
+6.3
