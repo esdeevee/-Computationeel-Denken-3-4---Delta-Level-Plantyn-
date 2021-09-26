@@ -1,3 +1,5 @@
 ### Opgave
 
-Een voetbalclub wil 30 nieuwe ballen kopen. Een bal kost normaal gezien 15 euro, maar de verkoper geeft een korting van 20%. Daarnaast is er een vaste administratiekost van 5 euro per bestelling. De verzendingskosten bedragen 0,5 euro per bal voor de eerste 10 ballen. Alle andere ballen worden gratis verzonden.
+Een voetbalclub wilt een aantal nieuwe ballen kopen. Schrijf een programma dat vraagt naar het aantal ballen, de prijs voor een bal, het kortingspercentage en de administratiekost. De verzendingskosten bedragen 0,5 euro per bal voor de eerste 10 ballen. Alle andere ballen worden gratis verzonden.
+
+Schrijf een programma dat berekent hoeveel de club moet betalen voor deze bestelling.
