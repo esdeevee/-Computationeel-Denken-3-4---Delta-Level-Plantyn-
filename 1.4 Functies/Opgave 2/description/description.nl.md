@@ -12,8 +12,8 @@ def schuine_zijde(a, b):
   return(c)
 
 # na de definitie van de functie schuine_zijde begint hier het hoofdprogramma
-x = float(input("Geef de lengte (in cm) van de eerste rechthoekszijde: "))
-y = float(input("Geef de lengte (in cm) van de tweede rechthoekszijde: "))
+x = float(input('Geef de lengte (in cm) van de eerste rechthoekszijde: '))
+y = float(input('Geef de lengte (in cm) van de tweede rechthoekszijde: '))
 z = schuine_zijde(x, y)
-print("De lengte van de schuine zijde is gelijk aan", z, "cm.")
+print('De lengte van de schuine zijde is gelijk aan', z, 'cm.')
 ```

@@ -19,8 +19,8 @@ def bereken_sinus(aanliggende, overstaande):
     return(sinus)
 
 # na de definitie van de twee functies begint hier het hoofdprogramma
-a = float(input("Geef de lengte (in cm) van de aanliggende rechthoekszijde: "))
-b = float(input("Geef de lengte (in cm) van de overstaande rechthoekszijde: "))
+a = float(input('Geef de lengte (in cm) van de aanliggende rechthoekszijde: '))
+b = float(input('Geef de lengte (in cm) van de overstaande rechthoekszijde: '))
 sinus = bereken_sinus(a, b)
 print(sinus)  
 ```

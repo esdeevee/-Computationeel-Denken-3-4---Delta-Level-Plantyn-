@@ -10,7 +10,7 @@ def f(x):
   return(y)
 
 # na de definitie van de functie f begint hier het hoofdprogramma
-x = float(input("Geef een x-waarde: "))
+x = float(input('Geef een x-waarde: '))
 y = f(x)
 print(y)
 ```
