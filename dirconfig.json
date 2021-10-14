@@ -7,5 +7,6 @@
   },
   "programming_language": "python",
   "author": "Stijn De Vusser <sdevusser@sint-jan-brussel.be>",
-  "contact": "sdevusser@sint-jan-brussel.be"
+  "contact": "sdevusser@sint-jan-brussel.be",
+  "labels": ["Python", "Level 3", "Delta 3"]
 }
