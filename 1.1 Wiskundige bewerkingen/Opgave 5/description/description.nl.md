@@ -14,4 +14,8 @@ $$
 F = \frac{9}{5} C + 32
 $$
 
+$$
+\mathsf{3x^2 \in R \subset Q}
+$$
+
 Schrijf een programma dat een temperatuur van -5°C omzet in °F en het resultaat toont.
