@@ -1,6 +1,6 @@
 ### Opgave
 
-Schrijf een programma dat vraagt om natuurlijke getallen in te voeren. De invoer eindigt wanneer de gebruiker STOP typt. Het programma toont op één lijn het grootste ingevoerde getal, het kleinste ingevoerde getal en het aantal ingevoerde getallen.
+Schrijf een programma dat vraagt om natuurlijke getallen in te voeren. De invoer eindigt wanneer de gebruiker `STOP` typt. Het programma toont op één lijn het grootste ingevoerde getal, het kleinste ingevoerde getal en het aantal ingevoerde getallen.
 
 
 ### Voorbeeld

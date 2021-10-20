@@ -2,7 +2,7 @@
 
 In de eerste graad heb je een algoritme geleerd om een getal te ontbinden in priemfactoren.
 
-Schrijf een programma dat aan de gebruiker een natuurlijk getal vraagt. Het programma berekent en toont alle priemfactoren van dit getal, telkens op een nieuwe lijn. Als een factor n keer voorkomt in de ontbinding van het getal, wordt deze factor ook n keer getoond. Als het ingevoerde getal een priemgetal is, zegt het programma dit in de vorm `13 is een priemgetal.`.
+Schrijf een programma dat aan de gebruiker een natuurlijk getal vraagt. Het programma berekent en toont alle priemfactoren van dit getal, telkens op een nieuwe lijn. Als een factor $$\mathsf{n}$$ keer voorkomt in de ontbinding van het getal, wordt deze factor ook $$\mathsf{n}$$ keer getoond. Als het ingevoerde getal een priemgetal is, zegt het programma dit in de vorm `13 is een priemgetal.`.
 
 
 ### Voorbeeld

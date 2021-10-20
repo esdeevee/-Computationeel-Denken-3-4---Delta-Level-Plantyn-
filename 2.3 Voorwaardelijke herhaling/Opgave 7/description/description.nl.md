@@ -5,7 +5,7 @@ getal kleiner is dan het ingevoerde getal. Wanneer het ingevoerde getal juist is
 
 Voor deze opgave kan je je programma niet testen met Dodona.
 
-Om een willekeurig geheel getal te genereren in het interval [a, b], kun je gebruik maken van deze code:
+Om een willekeurig geheel getal te genereren in het interval $$\mathsf{[a, b]}$$, kun je gebruik maken van deze code:
 
 ```python
 from random import randint
