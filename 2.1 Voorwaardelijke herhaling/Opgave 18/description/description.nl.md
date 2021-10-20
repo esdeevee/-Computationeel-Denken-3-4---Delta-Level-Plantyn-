@@ -3,7 +3,7 @@
 De Britse wiskundige John Conway (1937 – 2020) heeft een methode bedacht om uit het hoofd te berekenen met welke weekdag een willekeurige datum overeenkomt. In deze opgave wordt gewerkt met een vereenvoudigd algoritme dat geldig is van 1 maart 2000 tot en met 28 februari 2100. Het algoritme bestaat uit twee stappen.
 * In een eerste stap bereken je een zogenaamde referentieweekdag. Het algoritme hiervoor staat schematisch weergegeven in het beslissingsdiagram in de cursustekst.
 
-Het resultaat van dit algoritme is een getal `d` tussen 0 en 6. `d=0` wil zeggen dat de referentieweekdag in het ingevoerde jaar een zondag is. Bij `d=1` valt de referentieweekdag in dat jaar op een maandag, ... `d=6` wil zeggen dat de referentieweekdag in dat jaar op een zaterdag valt.
+Het resultaat van dit algoritme is een getal $$\mathsf{d}$$ tussen 0 en 6. $$\mathsf{d=0}$$ wil zeggen dat de referentieweekdag in het ingevoerde jaar een zondag is. Bij $$\mathsf{d=1}$$ valt de referentieweekdag in dat jaar op een maandag, ... $$\mathsf{d=6}$$ wil zeggen dat de referentieweekdag in dat jaar op een zaterdag valt.
 
 * De referentieweekdag die je in het eerste deel hebt berekend, is meestal niet de weekdag van de ingevoerde datum. Voor een willekeurig jaar komt de referentieweekdag wel overeen met de referentiedatums die in de tabel gegeven zijn.
 
