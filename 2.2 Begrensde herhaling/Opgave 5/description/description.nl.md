@@ -1,6 +1,6 @@
 ### Opgave
 
-Schrijf een programma dat de waarde van een natuurlijk getal `n` vraagt. Het programma toont de eerste 10 lijnen van de tafel van vermenigvuldiging van `n`. Elke lijn is van de vorm `7 * 12 = 84`.
+Schrijf een programma dat de waarde van een natuurlijk getal $$\mathsf{n}$$ vraagt. Het programma toont de eerste 10 lijnen van de tafel van vermenigvuldiging van $$\mathsf{n}$$. Elke lijn is van de vorm `7 * 12 = 84`.
 
 
 ### Voorbeeld

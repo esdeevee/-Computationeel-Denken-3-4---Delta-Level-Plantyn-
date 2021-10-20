@@ -1,6 +1,6 @@
 ### Opgave
 
-Schrijf een programma dat een natuurlijk getal `n` vraagt aan de gebruiker. Het programma berekent de eerste `n` oneven getallen en toont deze telkens op een nieuwe lijn.
+Schrijf een programma dat een natuurlijk getal $$\mathsf{n}$$ vraagt aan de gebruiker. Het programma berekent de eerste $$\mathsf{n}$$ oneven getallen en toont deze telkens op een nieuwe lijn.
 
 ### Voorbeeld
 
@@ -14,4 +14,3 @@ Schrijf een programma dat een natuurlijk getal `n` vraagt aan de gebruiker. Het 
     1
     3
     5
-  
