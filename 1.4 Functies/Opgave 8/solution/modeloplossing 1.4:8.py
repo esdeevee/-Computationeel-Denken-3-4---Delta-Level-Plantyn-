@@ -1,4 +1,7 @@
-# y_middelpunt() heeft als invoer de x- en y-coordinaten (floats) van de punten P en Q. De functie stuurt de y-coordinaat van het middelpunt (float) terug.
-def y_middelpunt(x1, y1, x2, y2):
-    y_M = (y1 + y2) / 2
-    return(y_M)
+# importeer de vierkantswortelfunctie en de constante pi
+from math import pi, sqrt
+
+# de functie A_naar_r() heeft als parameter de oppervlakte van een cirkel (in cm2) en berekent de straal van de cirkel (in cm), afgerond op 1 mm. Beide waarden zijn floats.
+def A_naar_r(A):
+    r = round(sqrt(A/pi), 1)
+    return(r)

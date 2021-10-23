@@ -21,7 +21,7 @@ Gegeven zijn de punten $$\mathsf{P(x_1, y_1)}$$ en $$\mathsf{Q(x_2, y_2)}$$.
 
 **Invoer:**
 
-    > x_middelpunt(1,2,3,4)
+    > y_middelpunt(1,2,3,4)
 
 **Uitvoer:**
 

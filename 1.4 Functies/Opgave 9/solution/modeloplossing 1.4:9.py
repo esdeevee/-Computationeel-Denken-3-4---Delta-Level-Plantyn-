@@ -1,5 +1,5 @@
-# lengte_PQ() heeft als invoer de x- en y-coordinaten (floats) van de punten P en Q. De functie stuurt de lengte van het lijnstuk PQ (float) terug.
-def lengte_PQ(x1, y1, x2, y2):
-    from math import sqrt
-    l = sqrt((x2-x1)**2 + (y2-y1)**2)
-    return(l)
+# F_naar_C() heeft als parameter een temperatuur in graden F (float). De functie zet deze temperatuur om naar graden C (float) en stuurt de gevonden waarde terug.
+
+def F_naar_C(F):
+    C = round((F - 32) * ( 5 / 9), 1)
+    return(C)

@@ -1,7 +1,17 @@
-# importeer de vierkantswortelfunctie en de constante pi
-from math import pi, sqrt
+# rico() heeft als parameters x1, y1, x2, y2: de x- en y-coordinaten van P en Q. De functie berekent de rico van PQ en stuurt deze waarde terug.
+def rico(x1, y1, x2, y2):
+    a = (y2 - y1) / (x2 - x1)
+    return(a)
 
-# de functie A_naar_r() heeft als parameter de oppervlakte van een cirkel (in cm2) en berekent de straal van de cirkel (in cm), afgerond op 1 mm. Beide waarden zijn floats.
-def A_naar_r(A):
-    r = round(sqrt(A/pi), 1)
-    return(r)
+# snijpunt_y() heeft als parameters x1, y1, x2, y2: de x- en y-coordinaten van P en Q (floats). De functie berekent de y-coordinaat van het snijpunt van PQ met de y-as (float) en stuurt deze waarde terug.
+def snijpunt_y(x1, y1, x2, y2):
+    a = rico(x1, y1, x2, y2)
+    b = y1 - a * x1
+    return(b)
+
+# snijpunt_x() heeft als parameters x1, y1, x2, y2: de x- en y-coordinaten van P en Q (floats). De functie berekent de x-coordinaat van het snijpunt van PQ met de x-as (float) en stuurt deze waarde terug.
+def snijpunt_x(x1, y1, x2, y2):
+    a = rico(x1, y1, x2, y2)
+    b = snijpunt_y(x1, y1, x2, y2)
+    nulpunt = -b / a
+    return(nulpunt)
