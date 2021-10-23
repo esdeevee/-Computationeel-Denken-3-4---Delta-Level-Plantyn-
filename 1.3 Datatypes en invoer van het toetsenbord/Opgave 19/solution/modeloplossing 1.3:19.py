@@ -1,0 +1,20 @@
+# lees een Belgisch rekeningnummer in
+rekeningnummer = int(input('Geef een Belgisch rekeningnummer: '))
+# bereken de rest bij deling door 97 (stel dit getal voor als xy: x is het cijfer van de tientallen, y is het cijfer van de eenheden)
+controlegetal_2 = rekeningnummer % 97
+# stel een nieuw getal samen van de vorm xyxy111400
+# het getal xy00000000 kun je maken door xy te vermenigvuldigen met 10**8
+# het getal xy000000 kun je maken door xy te vermenigvuldigen met 10**6
+# als je xy*10**8 optelt bij xy*10**6, bekom je xyxy000000
+# tel hier nog eens 111400 bij op
+getal = controlegetal_2 * 10**8 + controlegetal_2 * 10**6 + 111400
+# bereken het tweede controlegetal
+controlegetal_1 = 98 - getal % 97
+# de controlegetallen bestaan altijd uit twee cijfers
+# als een controlegetal kleiner is dan 10, moet er dus een nul voor gezet worden
+if controlegetal_1 < 10:
+    controlegetal_1 = "0" + str(controlegetal_1)
+if controlegetal_2 < 10:
+    controlegetal_2 = "0" + str(controlegetal_2)
+# genereer de uitvoer
+print("BE", controlegetal_1, rekeningnummer, controlegetal_2)
