@@ -98,3 +98,10 @@ BE 87 2634231907 94
 BE 92 7017429424 23
 BE 19 4105934449 12
 BE 35 9133649823 37
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
+blockwise execution: true
+continue upon wrong answer: true
