@@ -22,6 +22,8 @@ Je begrijpt dat een verticale streep dus overeenkomt met 5% lading. Meer specifi
 
     [|||                 ] 14%
 
+### Voorbeeld
+
 **Invoer:**
 
     Geef het percentage van de batterij: 79
@@ -29,6 +31,8 @@ Je begrijpt dat een verticale streep dus overeenkomt met 5% lading. Meer specifi
 **Uitvoer:**
 
     [||||||||||||||||    ] 79%
+
+### Voorbeeld
 
 **Invoer:**
 
