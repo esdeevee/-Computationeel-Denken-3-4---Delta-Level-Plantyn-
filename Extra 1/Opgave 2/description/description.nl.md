@@ -1,5 +1,7 @@
 ### Opgave
 
+BELANGRIJK: schrijf de namen van alle groepsleden in een eerste lijn commentaar.
+
 Elk boek dat wordt uitgegeven, krijgt een zogenaamd ISBN-nummer. Deze afkorting staat voor International Standard Book Number. Er bestaan verschillende codes, maar in deze opgave beschouwen we uitsluitend ISBN-nummers met 13 cijfers.
 
 Het laatste cijfer van een ISBN-nummer is een controlecijfer dat als volgt berekend wordt.
