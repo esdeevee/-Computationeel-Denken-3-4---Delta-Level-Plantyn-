@@ -6,4 +6,4 @@ $$
 \mathsf{BMI = \frac{m}{l^2}.}
 $$
 
-Matko is 176 cm groot en weegt 68 kg. Schrijf een programma dat zijn BMI berekent. Schrijf minstens één lijn commentaar en gebruik minstens drie variabelen. Toon de berekende waarde, afgerond op 1 cijfer na de komma.
+Jacoba is 176 cm groot en weegt 68 kg. Schrijf een programma dat haar BMI berekent. Schrijf minstens één lijn commentaar en gebruik minstens drie variabelen. Toon de berekende waarde, afgerond op 1 cijfer na de komma.
