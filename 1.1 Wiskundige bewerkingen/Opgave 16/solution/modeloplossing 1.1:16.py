@@ -1,3 +1,3 @@
 from math import ceil
-print(96 // 40, ceil((96%40) / 10))
-print((96 // 40) * 110 + ceil((96%40) / 10) * 35)
+print(ceil(96 / 10) // 4, ceil(96 / 10) % 4)
+print(110 * (ceil(96 / 10) // 4) + 35 * (ceil(96 / 10) % 4))
