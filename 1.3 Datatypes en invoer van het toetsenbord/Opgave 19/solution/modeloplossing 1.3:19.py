@@ -10,11 +10,5 @@ controlegetal_2 = rekeningnummer % 97
 getal = controlegetal_2 * 10**8 + controlegetal_2 * 10**6 + 111400
 # bereken het tweede controlegetal
 controlegetal_1 = 98 - getal % 97
-# de controlegetallen bestaan altijd uit twee cijfers
-# als een controlegetal kleiner is dan 10, moet er dus een nul voor gezet worden
-if controlegetal_1 < 10:
-    controlegetal_1 = "0" + str(controlegetal_1)
-if controlegetal_2 < 10:
-    controlegetal_2 = "0" + str(controlegetal_2)
 # genereer de uitvoer
 print("BE", controlegetal_1, rekeningnummer, controlegetal_2)
