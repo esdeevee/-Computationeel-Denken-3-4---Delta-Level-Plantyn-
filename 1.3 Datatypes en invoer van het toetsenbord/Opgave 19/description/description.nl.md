@@ -10,7 +10,6 @@ Sinds 2014 maken alle Europese banken gebruik van het International Bank Account
 Het eigenlijke rekeningnummer heeft dus maar 10 cijfers, zoals 733-1234567. De controlegetallen worden als volgt berekend:
 * Laat het liggend streepje weg. Bereken de rest bij deling van het eigenlijke rekeningnummer door 97. Het getal dat je zo bekomt, is het tweede controlegetal.
 * Schrijf twee keer het tweede controlegetal en vul aan met 111400. Bereken van dit getal opnieuw de rest bij deling door 97. Trek deze rest af van 98. Het getal dat je zo bekomt, is het eerste controlegetal.
-* Beide controlegetallen hebben altijd twee cijfers. Als een controlegetal een getal tussen 0 en 9 is, dan moet je er een nul voor zetten.
 
 Met de twee controlegetallen kan snel gecontroleerd worden of een ingevoerd rekeningnummer wel geldig is. Als je een cijfer verkeerd ingeeft, zal dat dankzij deze controlegetallen altijd gedetecteerd worden. Zo verkleint de kans dat je per ongeluk geld overschrijft naar een verkeerd rekeningnummer.
 
