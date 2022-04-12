@@ -105,4 +105,4 @@ input block size: 1
 output block size: 1
 blockwise execution: true
 continue upon wrong answer: true
-ignore fp rounding: -3
+ignore fp rounding: -6
