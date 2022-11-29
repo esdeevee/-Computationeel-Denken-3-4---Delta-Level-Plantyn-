@@ -14,7 +14,7 @@ $$
 \mathsf{P(v,d) = min(\frac{v \cdot d}{40}, 1)}
 $$
 
-Wanneer je de kans op file P_v op het rijvak van de vrachtwagens en de kans op file P_a op het rijvak van de personenauto's berekend hebt, dan kan je met volgende tabel een verkeerscode toekenen aan de drukte op de autoweg. In de tabel staan de codes in dalende mate van verkeersdrukte.
+Wanneer je de kans op file P_v op het rijvak van de vrachtwagens en de kans op file P_a op het rijvak van de personenauto's berekend hebt, dan kan je de kleur als volgt toekennen:
 * Het minimum van P_v en P_a is groter dan 0.7:	zwart
 * Het maximum van P_v en P_a is groter dan 0.7 en de absolute waarde van het verschil van P_v en P_a kleiner dan 0.2: rood
 * De absolute waarde van het verschil van P_v en P_a is groter dan 0.7:	geel
