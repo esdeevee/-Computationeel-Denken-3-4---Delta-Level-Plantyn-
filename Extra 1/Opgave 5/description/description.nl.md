@@ -1,8 +1,5 @@
 Wanneer je tijdens de zomervakantie met de auto door Europa trekt, hoor je soms wel eens dat het een zwart verkeersweekend wordt. Dat betekent: monsterfiles en uren vertragingen. Om daar iets aan te doen, worden in heel Europa camera's geplaatst die het verkeer meten. De camera's staan telkens in paren opgesteld: één op het eerste rijvak om het vrachtwagenverkeer in kaart te brengen en één op het tweede rijvak om het personenvervoer te meten.
 
-
-Wanneer je tijdens de zomervakantie met de auto door Europa trekt, hoor je soms wel eens dat het een zwart verkeersweekend wordt: monsterfiles en uren vertragingen. Om daar iets aan te doen, worden in heel Europa camera's geplaatst die het verkeer meten. De camera's staan telkens in paren opgesteld: één op het eerste rijvak om het vrachtwagenverkeer in kaart te brengen en één op het tweede rijvak om het personenvervoer te meten.
-
 De camera's meten per rijvak twee verschillende grootheden:
 * De snelheid v van het voorbijrijdende verkeer. Dit kan bijvoorbeeld 93 km/u zijn.
 * De verkeersdichtheid d van het rijvak. Bijvoorbeeld 37% van de tijd wordt een voertuig gemeten.
