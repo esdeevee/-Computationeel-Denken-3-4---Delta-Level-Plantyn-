@@ -5,7 +5,7 @@ Als je in het buitenland geld wilt afhalen aan een bankautomaat, rekent de bank 
 * Met bankkaart B rekent de bank een kost aan van 5% van het afgehaalde bedrag.
 * Met bankkaart C rekent de bank een vaste kost van €5 aan.
 
-Schrijf een programma dat vraagt om een bedrag in te voeren. Het programma berekent en toont de voordeligste bankkaart ($$\mathsf{A}$$, $$\mathsf{B}$$ of $$\mathsf{C}$$) om dit bedrag af te halen. Op een tweede lijn toont het het totale bedrag dat van je rekening zal afgehouden worden. Test je programma in Dodona.
+Schrijf een programma dat vraagt om een bedrag in te voeren. Dit bedrag is een natuurlijk getal. Het programma berekent en toont de voordeligste bankkaart ($$\mathsf{A}$$, $$\mathsf{B}$$ of $$\mathsf{C}$$) om dit bedrag af te halen. Op een tweede lijn toont het het totale bedrag dat van je rekening zal afgehouden worden. Test je programma in Dodona.
 
 
 ### Voorbeeld
