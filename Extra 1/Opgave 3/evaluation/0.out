@@ -1,0 +1,47 @@
+groen
+zwart
+rood
+rood
+groen
+geel
+groen
+groen
+zwart
+groen
+geel
+groen
+rood
+rood
+zwart
+geel
+geel
+groen
+zwart
+groen
+zwart
+rood
+rood
+rood
+geel
+rood
+zwart
+geel
+zwart
+groen
+zwart
+geel
+rood
+geel
+geel
+zwart
+geel
+groen
+rood
+zwart
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 4
+output block size: 1
+blockwise execution: true
+continue upon wrong answer: true
