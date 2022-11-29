@@ -9,6 +9,7 @@ De camera's meten per rijvak twee verschillende grootheden:
 
 Met deze twee grootheden kan je de kans op een file op het betreffende rijvak berekenen. De formule wordt gegeven door:
 
+
 $$
 \mathsf{P(v,d) = min(\frac{v \cdot d}{40}, 1)}
 $$
