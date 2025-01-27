@@ -98,9 +98,10 @@
 1807523.47
 265594.57
 2274984.13
----------------------------------------- 
-python input without prompt: true 
-block count: one 
-output block size: 1 
-blockwise execution: true 
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
+blockwise execution: true
 continue upon wrong answer: true
