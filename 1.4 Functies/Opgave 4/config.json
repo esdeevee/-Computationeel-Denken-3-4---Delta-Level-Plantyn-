@@ -5,7 +5,7 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "doctest",
+    "pythia_judge": "output",
     "memory_limit": 500000000
   },
   "labels": [
