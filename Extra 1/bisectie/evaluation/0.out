@@ -98,3 +98,10 @@
 1.505733774996921
 -6.3482421875
 1.1724997396304244
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
+blockwise execution: true
+continue upon wrong answer: true
