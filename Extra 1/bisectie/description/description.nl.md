@@ -25,28 +25,28 @@ Schrijf een functie n_de_machtswortel_bisectie(n, x, a, b, e) die de n-de machts
 
 **Invoer:**
 
-midden(15.4, 18.8)
+  > midden(15.4, 18.8)
 
 **Uitvoer:**
 
-17.1
+  17.1
 
 ### Voorbeeld 2
 
 **Invoer:**
 
-f(2, 10, 1000)
+  > f(2, 10, 1000)
 
 **Uitvoer:**
 
-24
+  24
 
 ### Voorbeeld 3
 
 **Invoer:**
 
-n_de_machtswortel_bisectie(2, 3, 0, 5, 1e-12)
+  > n_de_machtswortel_bisectie(2, 3, 0, 5, 1e-12)
 
 **Uitvoer:**
 
-1.7320508075687258
+  1.7320508075687258
