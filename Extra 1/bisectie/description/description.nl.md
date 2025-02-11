@@ -12,9 +12,9 @@ Je blijft deze methode toepassen tot je x gevonden hebt. Het probleem is dat de 
 
 ### Opgave
 
-Schrijf een functie f(x, n, c) die de waarde van x**n - c teruggeeft.
+Schrijf een functie f(x, n, c) die de functiewaarde van f(x) = x**n - c teruggeeft. Probeer Voorbeeld 1 te begrijpen.
 
-Schrijf een functie n_de_machtswortel_bisectie(n, x, a, b, e) die de n-de machtswortel van x berekent door de bisectiemethode toe te passen in het interval [a,b] met toleratie e.
+Schrijf een functie n_de_machtswortel_bisectie(n, x, a, b, e) die de n-de machtswortel van x berekent door de bisectiemethode toe te passen in het interval [a,b] met toleratie e. Probeer Voorbeeld 2 te begrijpen: we lossen de vergelijking x**2 - 3 = 0 op door de bisectiemethode toe te passen op het interval [0, 5]. De tolerantie is 1e-12.
 
 ### Voorbeeld 1
 
