@@ -1,100 +1,100 @@
->>> nulpunt_raaklijn(-9, 2, 88)
--9.38888888888889
->>> nulpunt_raaklijn(-2, 3, -12)
--2.3333333333333335
->>> nulpunt_raaklijn(-3, 4, 72)
--2.9166666666666665
->>> nulpunt_raaklijn(4, 2, 24)
-5.0
->>> nulpunt_raaklijn(4, 4, 262)
-4.0234375
->>> nulpunt_raaklijn(4, 5, 1019)
-3.99609375
->>> nulpunt_raaklijn(10, 3, 1009)
-10.03
->>> nulpunt_raaklijn(10, 4, 10005)
-10.00125
->>> nulpunt_raaklijn(-9, 2, 83)
--9.11111111111111
->>> nulpunt_raaklijn(3, 4, 89)
-3.074074074074074
->>> nulpunt_raaklijn(3, 3, 33)
-3.2222222222222223
->>> nulpunt_raaklijn(-10, 4, 9992)
--9.998
->>> nulpunt_raaklijn(8, 5, 32776)
-8.000390625
->>> nulpunt_raaklijn(9, 4, 6554)
-8.997599451303156
->>> nulpunt_raaklijn(8, 5, 32772)
-8.0001953125
->>> nulpunt_raaklijn(-4, 2, 26)
--5.25
->>> nulpunt_raaklijn(6, 4, 1297)
-6.001157407407407
->>> nulpunt_raaklijn(7, 5, 16813)
-7.000499791753436
->>> nulpunt_raaklijn(-7, 5, -16812)
--7.000416493127863
->>> nulpunt_raaklijn(4, 3, 54)
-3.7916666666666665
->>> nulpunt_raaklijn(-6, 5, -7785)
--6.001388888888889
+>>> nulpunt_raaklijn(-2, 3, -4)
+-1.6666666666666667
 >>> nulpunt_raaklijn(-10, 5, -100004)
 -10.00008
->>> nulpunt_raaklijn(-6, 5, -7767)
--5.998611111111111
->>> nulpunt_raaklijn(4, 4, 263)
-4.02734375
->>> nulpunt_raaklijn(1, 4, 9)
-3.0
->>> nulpunt_raaklijn(-8.0, 5, -32759.0)
--7.999560546875
->>> nulpunt_raaklijn(4.5, 2, 14.2)
-3.8277777777777775
->>> nulpunt_raaklijn(-6.6, 5, -12530.9)
--6.600798349974408
->>> nulpunt_raaklijn(8.9, 5, 55831.5)
-8.899710099930923
->>> nulpunt_raaklijn(9.3, 2, 82.2)
-9.069354838709678
->>> nulpunt_raaklijn(-0.5, 4, 6.2)
--12.775
->>> nulpunt_raaklijn(-5.7, 2, 35.0)
--5.920175438596491
->>> nulpunt_raaklijn(-3.6, 3, -44.8)
--3.5522633744855967
->>> nulpunt_raaklijn(-7.9, 5, -30768.2)
--7.8998786143731
->>> nulpunt_raaklijn(3.8, 4, 203.2)
-3.7757909316226854
->>> nulpunt_raaklijn(5.5, 2, 29.9)
-5.468181818181818
->>> nulpunt_raaklijn(5.9, 2, 28.4)
-5.356779661016949
->>> nulpunt_raaklijn(7.2, 5, 19345.8)
-7.19974872828075
->>> nulpunt_raaklijn(-4.5, 3, -97.8)
--4.609876543209877
->>> nulpunt_raaklijn(8.7, 4, 5722.0)
-8.697351530668804
->>> nulpunt_raaklijn(10.0, 4, 10001.4)
-10.00035
->>> nulpunt_raaklijn(3.8, 2, 21.3)
-4.7026315789473685
->>> nulpunt_raaklijn(3.6, 5, 608.7)
-3.604808527663466
->>> nulpunt_raaklijn(4.5, 4, 401.8)
-4.477331961591221
->>> nulpunt_raaklijn(-9.6, 2, 88.6)
--9.414583333333333
->>> nulpunt_raaklijn(4.8, 5, 2549.4)
-4.800512514467592
->>> nulpunt_raaklijn(6.3, 3, 258.1)
-6.367632485092803
->>> nulpunt_raaklijn(-8.7, 4, 5728.6)
--8.69985721401421
->>> nulpunt_raaklijn(2.2, 4, 13.6)
-1.9693087903831707
->>> nulpunt_raaklijn(-6.0, 5, -7778.1)
--6.000324074074074
+>>> nulpunt_raaklijn(10, 4, 10003)
+10.00075
+>>> nulpunt_raaklijn(3, 4, 91)
+3.0925925925925926
+>>> nulpunt_raaklijn(-7, 2, 54)
+-7.357142857142857
+>>> nulpunt_raaklijn(3, 4, 84)
+3.0277777777777777
+>>> nulpunt_raaklijn(5, 3, 134)
+5.12
+>>> nulpunt_raaklijn(4, 3, 68)
+4.083333333333333
+>>> nulpunt_raaklijn(3, 4, 91)
+3.0925925925925926
+>>> nulpunt_raaklijn(-4, 2, 6)
+-2.75
+>>> nulpunt_raaklijn(-7, 3, -351)
+-7.054421768707483
+>>> nulpunt_raaklijn(9, 5, 59048)
+8.999969516841945
+>>> nulpunt_raaklijn(-9, 3, -725)
+-8.983539094650206
+>>> nulpunt_raaklijn(-1, 3, 2)
+0.0
+>>> nulpunt_raaklijn(-1, 5, -4)
+-1.6
+>>> nulpunt_raaklijn(7, 2, 48)
+6.928571428571429
+>>> nulpunt_raaklijn(-4, 4, 246)
+-3.9609375
+>>> nulpunt_raaklijn(8, 4, 4100)
+8.001953125
+>>> nulpunt_raaklijn(1, 3, -8)
+-2.0
+>>> nulpunt_raaklijn(-1, 4, 2)
+-1.25
+>>> nulpunt_raaklijn(7, 4, 2403)
+7.001457725947522
+>>> nulpunt_raaklijn(-7, 2, 55)
+-7.428571428571429
+>>> nulpunt_raaklijn(4, 2, 17)
+4.125
+>>> nulpunt_raaklijn(9, 5, 59054)
+9.000152415790275
+>>> nulpunt_raaklijn(-8, 3, -515)
+-8.015625
+>>> nulpunt_raaklijn(-2.6, 5, -126.3)
+-2.6327642589545186
+>>> nulpunt_raaklijn(-2.5, 5, -107.3)
+-2.549376
+>>> nulpunt_raaklijn(-6.4, 4, 1683.9)
+-6.405892181396484
+>>> nulpunt_raaklijn(-1.3, 2, -2.9)
+0.4653846153846153
+>>> nulpunt_raaklijn(-3.1, 4, 85.1)
+-3.0391418549226277
+>>> nulpunt_raaklijn(-3.5, 5, -531.0)
+-3.5077051228654725
+>>> nulpunt_raaklijn(1.5, 5, 5.2)
+1.405432098765432
+>>> nulpunt_raaklijn(8.6, 3, 632.2)
+8.582621236704526
+>>> nulpunt_raaklijn(-7.2, 4, 2680.9)
+-7.195655971364884
+>>> nulpunt_raaklijn(-0.2, 3, -9.8)
+-81.8
+>>> nulpunt_raaklijn(-8.4, 2, 67.2)
+-8.200000000000001
+>>> nulpunt_raaklijn(3.2, 4, 101.6)
+3.175146484375
+>>> nulpunt_raaklijn(4.4, 5, 1649.4)
+4.400126869749334
+>>> nulpunt_raaklijn(-6.5, 2, 51.1)
+-7.180769230769231
+>>> nulpunt_raaklijn(-9.5, 3, -857.7)
+-9.501200369344414
+>>> nulpunt_raaklijn(9.0, 4, 6551.7)
+8.996810699588478
+>>> nulpunt_raaklijn(-1.9, 3, 0.0)
+-1.2666666666666666
+>>> nulpunt_raaklijn(2.4, 4, 26.8)
+2.284664351851852
+>>> nulpunt_raaklijn(-2.6, 3, -22.0)
+-2.818145956607495
+>>> nulpunt_raaklijn(-0.8, 3, 4.3)
+1.7062499999999996
+>>> nulpunt_raaklijn(2.5, 3, 8.8)
+2.136
+>>> nulpunt_raaklijn(-10.0, 4, 9994.4)
+-9.9986
+>>> nulpunt_raaklijn(-0.7, 3, 4.0)
+2.2544217687074832
+>>> nulpunt_raaklijn(1.8, 4, 10.0)
+1.7786694101508917
+>>> nulpunt_raaklijn(-5.4, 5, -4597.1)
+-5.401281835612984

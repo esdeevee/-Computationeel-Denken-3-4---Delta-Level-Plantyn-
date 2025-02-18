@@ -1,100 +1,100 @@
->>> n_de_machtswortel_Newton(3, 159, 7, 1e-06)
-5.4175015157345525
->>> n_de_machtswortel_Newton(2, 273, 20, 1e-07)
-16.522711641858308
->>> n_de_machtswortel_Newton(4, 110, 3, 1e-06)
-3.2385318404643693
->>> n_de_machtswortel_Newton(2, 168, 8, 1e-08)
-12.96148139681572
->>> n_de_machtswortel_Newton(2, 37, 10, 1e-08)
-6.08276253029822
->>> n_de_machtswortel_Newton(3, 809, 7, 1e-11)
-9.31785984862676
->>> n_de_machtswortel_Newton(2, 929, 33, 1e-07)
-30.479501308632926
->>> n_de_machtswortel_Newton(2, 190, 18, 1e-06)
-13.784048752090476
->>> n_de_machtswortel_Newton(4, 743, 7, 1e-11)
-5.220921981880022
->>> n_de_machtswortel_Newton(2, 927, 30, 1e-10)
-30.44667469527666
->>> n_de_machtswortel_Newton(5, 93, 6, 1e-11)
-2.4756918656443667
->>> n_de_machtswortel_Newton(5, 287, 2, 1e-11)
-3.1015328069748485
->>> n_de_machtswortel_Newton(3, 15, 4, 1e-08)
-2.4662120743339453
->>> n_de_machtswortel_Newton(2, 438, 20, 1e-11)
-20.928449536456352
->>> n_de_machtswortel_Newton(2, 90, 5, 1e-12)
-9.48683298050514
->>> n_de_machtswortel_Newton(3, 286, 10, 1e-06)
-6.588532274528031
->>> n_de_machtswortel_Newton(5, 134, 4, 1e-08)
-2.6633053388645216
->>> n_de_machtswortel_Newton(5, 666, 2, 1e-06)
-3.670243226452136
->>> n_de_machtswortel_Newton(3, 144, 9, 1e-11)
-5.241482788417794
->>> n_de_machtswortel_Newton(4, 829, 5, 1e-08)
-5.365851292924167
->>> n_de_machtswortel_Newton(5, 159, 2, 1e-06)
-2.756001342986762
->>> n_de_machtswortel_Newton(3, 308, 12, 1e-12)
-6.75331341669382
->>> n_de_machtswortel_Newton(3, 741, 4, 1e-09)
-9.04911420570373
->>> n_de_machtswortel_Newton(4, 596, 2, 1e-11)
-4.940962581468049
->>> n_de_machtswortel_Newton(2, 927, 27, 1e-11)
-30.44667469527666
->>> n_de_machtswortel_Newton(8, 9.26, 1, 1e-08)
-1.3207674989027574
->>> n_de_machtswortel_Newton(3, 98.22, 10, 1e-09)
-4.613883699992018
->>> n_de_machtswortel_Newton(3, 169.59, 8, 1e-08)
-5.535201220969161
->>> n_de_machtswortel_Newton(2, 198.36, 18, 1e-07)
-14.084033513166672
->>> n_de_machtswortel_Newton(4, 56.38, 7, 1e-12)
-2.7401937276472355
->>> n_de_machtswortel_Newton(9, 263.98, 2, 1e-11)
-1.8580758862284432
->>> n_de_machtswortel_Newton(2, 263.28, 16, 1e-12)
-16.225905213577455
->>> n_de_machtswortel_Newton(9, 127.46, 2, 1e-08)
-1.713682788583162
->>> n_de_machtswortel_Newton(3, 116.09, 5, 1e-09)
-4.878259927852823
->>> n_de_machtswortel_Newton(6, 292.54, 8, 1e-07)
-2.576504327124633
->>> n_de_machtswortel_Newton(3, 211.73, 9, 1e-10)
-5.960199533881106
->>> n_de_machtswortel_Newton(10, 139.73, 4, 1e-08)
-1.6388113605593115
->>> n_de_machtswortel_Newton(5, 236.23, 7, 1e-12)
-2.9830944904333436
->>> n_de_machtswortel_Newton(8, 256.1, 6, 1e-08)
-2.000097639564773
->>> n_de_machtswortel_Newton(9, 77.42, 1, 1e-07)
-1.6213343135600664
->>> n_de_machtswortel_Newton(6, 226.4, 2, 1e-09)
-2.4687630220015073
->>> n_de_machtswortel_Newton(10, 251.69, 2, 1e-08)
-1.7381473718035716
->>> n_de_machtswortel_Newton(5, 299.77, 5, 1e-06)
-3.1286546966954214
->>> n_de_machtswortel_Newton(9, 68.12, 3, 1e-06)
-1.5984431045120504
->>> n_de_machtswortel_Newton(6, 47.8, 4, 1e-08)
-1.9050424146862308
->>> n_de_machtswortel_Newton(5, 147.1, 7, 1e-10)
-2.7134544434313486
->>> n_de_machtswortel_Newton(4, 184.64, 6, 1e-11)
-3.6862216701075416
->>> n_de_machtswortel_Newton(3, 268.27, 11, 1e-10)
-6.449470140557389
->>> n_de_machtswortel_Newton(2, 181.61, 15, 1e-07)
-13.476275451652755
->>> n_de_machtswortel_Newton(3, 121.6, 2, 1e-08)
-4.9542493185245915
+>>> n_de_machtswortel_Newton(3, 348, 10, 1e-07)
+7.033849655997665
+>>> n_de_machtswortel_Newton(3, 624, 10, 1e-06)
+8.54531736339655
+>>> n_de_machtswortel_Newton(3, 36, 8, 1e-11)
+3.3019272488946267
+>>> n_de_machtswortel_Newton(3, 279, 6, 1e-09)
+6.534335077087574
+>>> n_de_machtswortel_Newton(2, 765, 26, 1e-09)
+27.65863337187866
+>>> n_de_machtswortel_Newton(5, 240, 1, 1e-08)
+2.9925557394776896
+>>> n_de_machtswortel_Newton(4, 595, 6, 1e-09)
+4.9388887247336255
+>>> n_de_machtswortel_Newton(2, 672, 27, 1e-10)
+25.922962793632966
+>>> n_de_machtswortel_Newton(3, 725, 10, 1e-06)
+8.983508895715266
+>>> n_de_machtswortel_Newton(2, 242, 17, 1e-06)
+15.556349186569149
+>>> n_de_machtswortel_Newton(2, 81, 7, 1e-06)
+9.000000000000064
+>>> n_de_machtswortel_Newton(4, 661, 6, 1e-08)
+5.070495070933891
+>>> n_de_machtswortel_Newton(2, 172, 11, 1e-07)
+13.114877048604002
+>>> n_de_machtswortel_Newton(4, 873, 3, 1e-09)
+5.435675984216528
+>>> n_de_machtswortel_Newton(2, 487, 21, 1e-06)
+22.068076490720227
+>>> n_de_machtswortel_Newton(5, 378, 6, 1e-11)
+3.277165392421131
+>>> n_de_machtswortel_Newton(2, 330, 13, 1e-06)
+18.165902124596748
+>>> n_de_machtswortel_Newton(2, 161, 11, 1e-06)
+12.688577557365576
+>>> n_de_machtswortel_Newton(4, 988, 2, 1e-06)
+5.606466560273676
+>>> n_de_machtswortel_Newton(5, 213, 1, 1e-11)
+2.921971130237308
+>>> n_de_machtswortel_Newton(5, 199, 3, 1e-09)
+2.8825086238297657
+>>> n_de_machtswortel_Newton(3, 297, 6, 1e-09)
+6.671940271707949
+>>> n_de_machtswortel_Newton(4, 173, 5, 1e-12)
+3.626699110481307
+>>> n_de_machtswortel_Newton(2, 834, 25, 1e-11)
+28.879058156387302
+>>> n_de_machtswortel_Newton(2, 157, 15, 1e-11)
+12.52996408614167
+>>> n_de_machtswortel_Newton(5, 251.36, 4, 1e-10)
+3.0203636405057037
+>>> n_de_machtswortel_Newton(6, 103.21, 6, 1e-08)
+2.1658097094132565
+>>> n_de_machtswortel_Newton(6, 243.26, 6, 1e-09)
+2.498494802866372
+>>> n_de_machtswortel_Newton(3, 2.63, 4, 1e-06)
+1.3803373921287316
+>>> n_de_machtswortel_Newton(6, 101.31, 1, 1e-11)
+2.1591130675846566
+>>> n_de_machtswortel_Newton(9, 111.73, 1, 1e-08)
+1.6887852303060635
+>>> n_de_machtswortel_Newton(6, 143.1, 3, 1e-09)
+2.2870374294697027
+>>> n_de_machtswortel_Newton(9, 185.1, 5, 1e-09)
+1.7862162932292212
+>>> n_de_machtswortel_Newton(6, 228.6, 4, 1e-09)
+2.4727452199867526
+>>> n_de_machtswortel_Newton(6, 271.51, 5, 1e-07)
+2.544667081099039
+>>> n_de_machtswortel_Newton(6, 273.15, 2, 1e-09)
+2.5472224132660264
+>>> n_de_machtswortel_Newton(6, 14.56, 7, 1e-07)
+1.5626446493223671
+>>> n_de_machtswortel_Newton(4, 22.13, 3, 1e-09)
+2.1689290893299265
+>>> n_de_machtswortel_Newton(10, 193.28, 7, 1e-11)
+1.6928508335036856
+>>> n_de_machtswortel_Newton(4, 25.02, 6, 1e-08)
+2.2365150569937864
+>>> n_de_machtswortel_Newton(4, 3.94, 5, 1e-07)
+1.4088801679717173
+>>> n_de_machtswortel_Newton(4, 79.52, 1, 1e-06)
+2.986201387020516
+>>> n_de_machtswortel_Newton(7, 299.21, 3, 1e-06)
+2.257932070030399
+>>> n_de_machtswortel_Newton(3, 179.59, 1, 1e-06)
+5.641925972351489
+>>> n_de_machtswortel_Newton(8, 34.85, 4, 1e-09)
+1.5587459848813814
+>>> n_de_machtswortel_Newton(10, 179.48, 2, 1e-07)
+1.6803571802528092
+>>> n_de_machtswortel_Newton(9, 80.76, 1, 1e-11)
+1.6289610541282122
+>>> n_de_machtswortel_Newton(9, 265.44, 5, 1e-09)
+1.8592149226938166
+>>> n_de_machtswortel_Newton(9, 44.96, 7, 1e-10)
+1.5263262275090765
+>>> n_de_machtswortel_Newton(8, 15.17, 4, 1e-12)
+1.4048281388069914

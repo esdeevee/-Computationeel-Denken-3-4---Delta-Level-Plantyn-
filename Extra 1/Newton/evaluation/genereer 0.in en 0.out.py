@@ -46,12 +46,46 @@ def n_de_machtswortel_Newton(n, c, x, e):
 file = open("0.in", "w")
 file.truncate()
 file.close()
-# wis alle gegevens in out.csv
-file = open("0.out", "w")
+
+# wis alle gegevens in in.csv
+file = open("1.in", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("2.in", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("3.in", "w")
 file.truncate()
 file.close()
 
 
+# wis alle gegevens in in.csv
+file = open("0.out", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("1.out", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("2.out", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("3.out", "w")
+file.truncate()
+file.close()
+
+
+
+
 for i in range(25):   
     with open('0.in', 'a') as file:
         x = randint(-10, 10)
@@ -79,7 +113,7 @@ for i in range(25):
 
 
 for i in range(25):   
-    with open('0.in', 'a') as file:
+    with open('1.in', 'a') as file:
         x = randint(-10, 10)
         n = randint(2, 5)
         c = x**n + randint(-10, 10)
@@ -91,7 +125,7 @@ for i in range(25):
         #file.write('\n')
 
 for i in range(25):   
-    with open('0.in', 'a') as file:
+    with open('1.in', 'a') as file:
         x = randint(-100, 100)/10
         n = randint(2, 5)
         c = round(x**n + randint(-100, 100)/10, 1)
@@ -105,7 +139,7 @@ for i in range(25):
 
 
 for i in range(25):   
-    with open('0.in', 'a') as file:
+    with open('2.in', 'a') as file:
         while True:
             x = randint(-10, 10)
             if x != 0:
@@ -120,7 +154,7 @@ for i in range(25):
         #file.write('\n')
 
 for i in range(25):   
-    with open('0.in', 'a') as file:
+    with open('2.in', 'a') as file:
         while True:
             x = round(randint(-100, 100)/10, 1)
             if x != 0:
@@ -137,7 +171,7 @@ for i in range(25):
 
 
 for i in range(25):
-    with open('0.in', 'a') as file:
+    with open('3.in', 'a') as file:
         n = randint(2, 5)
         c = randint(10, 1000)
         exponent = randint(-12, -6)
@@ -154,7 +188,7 @@ for i in range(25):
         #file.write('\n')
    
 for i in range(25):
-    with open('0.in', 'a') as file:
+    with open('3.in', 'a') as file:
         n = randint(2, 10)
         c = randint(200, 30000)/100
         exponent = randint(-12, -6)
