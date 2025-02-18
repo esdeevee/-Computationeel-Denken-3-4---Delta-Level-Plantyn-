@@ -11,13 +11,13 @@ Schrijf een functie som_van_kwadraten() met één parameter, een natuurlijk geta
 
 **Uitvoer:**
 
-    (1, 4))
+    (1, 2)
 
 ### Voorbeeld 1
 
 **Invoer:**
 
-    > som_van_kwadraten(7 )
+    > som_van_kwadraten(7)
 
 **Uitvoer:**
 
