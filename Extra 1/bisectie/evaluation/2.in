@@ -1,0 +1,100 @@
+>>> n_de_machtswortel_bisectie(5, 120.8, 1.6, 5.6, 1e-12)
+2.6086354201923765
+>>> n_de_machtswortel_bisectie(7, 154.9, -0.9, 5.1, 1e-07)
+2.055249201972037
+>>> n_de_machtswortel_bisectie(7, 30.2, -0.4, 3.6, 1e-08)
+1.6271573911886663
+>>> n_de_machtswortel_bisectie(2, 249.3, 13.8, 17.8, 1e-12)
+15.789236840328943
+>>> n_de_machtswortel_bisectie(7, 215.4, 0.2, 5.2, 1e-06)
+2.1543725857511165
+>>> n_de_machtswortel_bisectie(9, 73.1, -1.4, 4.6, 1e-07)
+1.6110237051267173
+>>> n_de_machtswortel_bisectie(7, 294.4, 1.3, 4.3, 1e-09)
+2.252710590711831
+>>> n_de_machtswortel_bisectie(5, 249.4, 2.0, 5.0, 1e-09)
+3.015638573671822
+>>> n_de_machtswortel_bisectie(5, 4.4, -0.7, 4.3, 1e-07)
+1.3449016802012919
+>>> n_de_machtswortel_bisectie(6, 205.1, 0.4, 3.4, 1e-07)
+2.428441299102269
+>>> n_de_machtswortel_bisectie(6, 291.5, 0.6, 4.6, 1e-09)
+2.5749754522545114
+>>> n_de_machtswortel_bisectie(2, 119.2, 8.9, 13.9, 1e-12)
+10.917875251164938
+>>> n_de_machtswortel_bisectie(9, 247.7, -1.2, 4.8, 1e-07)
+1.8449804920353925
+>>> n_de_machtswortel_bisectie(5, 16.2, -0.3, 2.7, 1e-06)
+1.7454322770237924
+>>> n_de_machtswortel_bisectie(3, 42.2, 1.5, 5.5, 1e-09)
+3.481535412662197
+>>> n_de_machtswortel_bisectie(9, 218.5, -1.2, 4.8, 1e-07)
+1.8194454909651538
+>>> n_de_machtswortel_bisectie(3, 196.8, 2.8, 8.8, 1e-07)
+5.816678115352989
+>>> n_de_machtswortel_bisectie(3, 153.0, 2.3, 8.3, 1e-08)
+5.348481241217815
+>>> n_de_machtswortel_bisectie(8, 8.2, -1.7, 2.3, 1e-11)
+-1.3008485330671646
+>>> n_de_machtswortel_bisectie(10, 176.2, -1.3, 2.7, 1e-11)
+1.6772607745030088
+>>> n_de_machtswortel_bisectie(3, 289.4, 4.6, 8.6, 1e-08)
+6.6145378955639895
+>>> n_de_machtswortel_bisectie(4, 286.5, 1.1, 5.1, 1e-10)
+4.114159802415633
+>>> n_de_machtswortel_bisectie(6, 252.3, 0.5, 5.5, 1e-10)
+2.5137352874911585
+>>> n_de_machtswortel_bisectie(2, 36.5, 5.0, 9.0, 1e-07)
+6.041522979736328
+>>> n_de_machtswortel_bisectie(5, 20.1, -1.2, 3.8, 1e-06)
+1.8223811417818068
+>>> n_de_machtswortel_bisectie(6, 30.0, -1.2, 4.8, 1e-12)
+1.762734383267623
+>>> n_de_machtswortel_bisectie(9, 184.2, -1.2, 3.8, 1e-07)
+1.7852492007194085
+>>> n_de_machtswortel_bisectie(10, 61.2, 0.5, 2.5, 1e-11)
+1.5089510173966687
+>>> n_de_machtswortel_bisectie(6, 26.6, 0.7, 4.7, 1e-08)
+1.7277474981267007
+>>> n_de_machtswortel_bisectie(4, 235.0, 1.9, 5.9, 1e-12)
+3.9153173200592395
+>>> n_de_machtswortel_bisectie(5, 205.6, 1.9, 5.9, 1e-09)
+2.901380060468364
+>>> n_de_machtswortel_bisectie(6, 14.2, 0.6, 3.6, 1e-09)
+1.5561378184589558
+>>> n_de_machtswortel_bisectie(7, 126.6, -0.0, 3.0, 1e-10)
+1.996860251598946
+>>> n_de_machtswortel_bisectie(5, 182.3, 0.8, 4.8, 1e-07)
+2.8324179222807286
+>>> n_de_machtswortel_bisectie(9, 31.4, -0.5, 4.5, 1e-12)
+1.4666467238200624
+>>> n_de_machtswortel_bisectie(9, 298.1, -1.1, 4.9, 1e-12)
+1.8833416393270583
+>>> n_de_machtswortel_bisectie(9, 15.9, -1.6, 4.4, 1e-12)
+1.3598423717613402
+>>> n_de_machtswortel_bisectie(3, 15.0, 1.5, 5.5, 1e-07)
+2.4662120789289474
+>>> n_de_machtswortel_bisectie(6, 110.5, 0.2, 4.2, 1e-12)
+2.190586362649353
+>>> n_de_machtswortel_bisectie(9, 198.2, -0.2, 4.8, 1e-12)
+1.7998393347261588
+>>> n_de_machtswortel_bisectie(5, 198.4, -0.1, 4.9, 1e-10)
+2.8807683275572575
+>>> n_de_machtswortel_bisectie(10, 180.2, 0.7, 3.7, 1e-06)
+1.6810300562530758
+>>> n_de_machtswortel_bisectie(10, 214.0, -0.3, 2.7, 1e-10)
+1.7101782442778815
+>>> n_de_machtswortel_bisectie(10, 184.7, 0.7, 4.7, 1e-07)
+1.6851815262809398
+>>> n_de_machtswortel_bisectie(9, 116.8, -0.3, 2.7, 1e-10)
+1.6971329734794383
+>>> n_de_machtswortel_bisectie(10, 24.4, -0.6, 3.4, 1e-09)
+1.3763819944491842
+>>> n_de_machtswortel_bisectie(4, 140.4, 2.4, 4.4, 1e-07)
+3.4422449931502346
+>>> n_de_machtswortel_bisectie(3, 120.3, 2.9, 5.9, 1e-07)
+4.936531081423164
+>>> n_de_machtswortel_bisectie(2, 156.0, 9.5, 14.5, 1e-09)
+12.489995996758807
+>>> n_de_machtswortel_bisectie(2, 298.9, 14.3, 19.3, 1e-08)
+17.288724649185315
