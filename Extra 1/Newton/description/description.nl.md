@@ -14,13 +14,13 @@ Je blijft deze methode toepassen tot je een x gevonden hebt waarvoor $$f(x)$$ in
 
 **Let op**: je mag in deze opgave *géén hoofdprogramma* schrijven! Dus er mag *géén input() of print()* in de code staan die je evalueert.
 
-2. Schrijf een functie f(x, n, c) die de functiewaarde van $$f(x) = x**n - c$$ teruggeeft. Probeer Voorbeeld 1 te begrijpen.
+2. Schrijf een functie f(x, n, c) die de functiewaarde van $$f(x)$$ = x**n - c teruggeeft. Probeer Voorbeeld 1 te begrijpen.
 
-2. Schrijf een functie afgeleide(x, n, c) die de $$f'(x_0)$$ teruggeeft (met $$f(x) = x**n - c$$). Probeer Voorbeeld 2 te begrijpen.
+2. Schrijf een functie afgeleide(x, n, c) die de $$f'(x_0)$$ teruggeeft (met $$f(x)$$ = x**n - c). Probeer Voorbeeld 2 te begrijpen.
 
-3. Schrijf een functie nulpunt_raaklijn(x, n, c) die de x-coördinaat van het snijpunt geeft van de raaklijn aan de grafiek van $$f(x) = x**n - c$$ voor $$x=x_0$$. Maak maximaal gebruik van functies die je al gedefinieerd hebt. Probeer Voorbeeld 3 te begrijpen.
+3. Schrijf een functie nulpunt_raaklijn(x, n, c) die de x-coördinaat van het snijpunt geeft van de raaklijn aan de grafiek van $$f(x)$$ = x**n - c voor $$x=x_0$$. Maak maximaal gebruik van functies die je al gedefinieerd hebt. Probeer Voorbeeld 3 te begrijpen.
 
-4. Schrijf een functie n_de_machtswortel_Newton(n, c, x_0, e) die de vergelijking $$f(x) = 0$$ oplost via de methode van Newton-Raphson, met een startwaarde x_O en een tolerantie e. Probeer Voorbeeld 4 te begrijpen: we lossen de vergelijking x**2 - 3 = 0 op door de bisectiemethode toe te passen met een startwaarde van 5. De tolerantie is 1e-15.
+4. Schrijf een functie n_de_machtswortel_Newton(n, c, x_0, e) die de vergelijking $$f(x) = 0$$ oplost via de methode van Newton-Raphson, met een startwaarde $$x_O$$ en een tolerantie $$e$$. Probeer Voorbeeld 4 te begrijpen: we lossen de vergelijking x**2 - 3 = 0 op door de bisectiemethode toe te passen met een startwaarde van 5. De tolerantie is 1e-15.
 
 ### Voorbeeld 1
 
