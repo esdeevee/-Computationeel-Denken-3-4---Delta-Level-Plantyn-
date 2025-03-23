@@ -15,7 +15,7 @@ We maken in deze opgave gebruik van $$f(x) = \sin x$$.
     * als `type` gelijk is aan `'LINKS'`, geeft de functie de waarde van `a` terug;
     * als `type` gelijk is aan `'MIDDEN'`, geeft de functie het midden van $$[a,b]$$ terug;
     * als `type` gelijk is aan `'RECHTS'`, geeft de functie de waarde van `b` terug.
-3. Schrijf een functie `Riemann(a, b, n, type)` die de waarde van $$\displaystyle \sum _{i=1}^{n}f(x_{i}) \cdot \Delta x \,$$ teruggeeft, waarbij $$\Delta x$$ en $$x_i$$ berekend worden zoals hierboven beschreven.
+3. Schrijf een functie `Riemannsom(a, b, n, type)` die de waarde van $$\displaystyle \sum _{i=1}^{n}f(x_{i}) \cdot \Delta x \,$$ teruggeeft, waarbij $$\Delta x$$ en $$x_i$$ berekend worden zoals hierboven beschreven.
 
 Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat evalueren *geen hoofdprogramma* staan. Je code bestaat dus uit twee functiedefinities, en niet meer dan dat. Een eventueel hoofdprogramma dat je gebruikt hebt om je code te testen, moet je bij de evaluatie dus in commentaar zetten, of zelfs gewoon verwijderen.
  
@@ -63,8 +63,9 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 
 **Invoer:**
 
-    >>> Riemann(0, 1, 1000, MIDDEN)
+    >>> Riemannsom(0, 1, 1000, 'MIDDEN')
 
 **Uitvoer:**
 
+    0.45969771328593134
     
