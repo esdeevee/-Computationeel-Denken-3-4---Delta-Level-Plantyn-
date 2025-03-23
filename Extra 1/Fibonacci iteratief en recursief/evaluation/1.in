@@ -1,0 +1,50 @@
+>>> fibonacci_recursief(1)
+1
+>>> fibonacci_recursief(2)
+1
+>>> fibonacci_recursief(3)
+2
+>>> fibonacci_recursief(4)
+3
+>>> fibonacci_recursief(5)
+5
+>>> fibonacci_recursief(6)
+8
+>>> fibonacci_recursief(7)
+13
+>>> fibonacci_recursief(8)
+21
+>>> fibonacci_recursief(9)
+34
+>>> fibonacci_recursief(10)
+55
+>>> fibonacci_recursief(11)
+89
+>>> fibonacci_recursief(12)
+144
+>>> fibonacci_recursief(13)
+233
+>>> fibonacci_recursief(14)
+377
+>>> fibonacci_recursief(15)
+610
+>>> fibonacci_recursief(16)
+987
+>>> fibonacci_recursief(17)
+1597
+>>> fibonacci_recursief(18)
+2584
+>>> fibonacci_recursief(19)
+4181
+>>> fibonacci_recursief(20)
+6765
+>>> fibonacci_recursief(21)
+10946
+>>> fibonacci_recursief(22)
+17711
+>>> fibonacci_recursief(23)
+28657
+>>> fibonacci_recursief(24)
+46368
+>>> fibonacci_recursief(25)
+75025
