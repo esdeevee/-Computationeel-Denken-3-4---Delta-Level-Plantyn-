@@ -9,7 +9,9 @@ Als we het $n$-de getal van Fibonacci noteren als $$F_n$$, kan je de rij dus for
 
 $$F_1 = F_2 = 1$$
 
-en $$F_n = F_{n-1} + F_{n-2}.$$
+en 
+
+$$F_n = F_{n-1} + F_{n-2}.$$
 
 De rij van Fibonacci bestaat dus uit de getallen 1, 1, 2, 3, 5, 8, 13, 21, ...
 
