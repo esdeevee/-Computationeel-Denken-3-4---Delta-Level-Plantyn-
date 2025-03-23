@@ -6,8 +6,8 @@ De rij van Fibonacci is wellicht het typevoorbeeld van een wiskundige rij die he
 * elke volgende term is gelijk aan de som van de twee voorgaande termen.
 
 Als we het $n$-de getal van Fibonacci noteren als $$F_n$$, kan je de rij dus formeel definiëren als
-* $$F_1 = F_2 = 1$$
-* $$F_n = F_{n-1} + F_{n-2}$$
+$$F_1 = F_2 = 1$$
+en $$F_n = F_{n-1} + F_{n-2}$$
 
 De rij van Fibonacci bestaat dus uit de getallen 1, 1, 2, 3, 5, 8, 13, 21, ...
 
