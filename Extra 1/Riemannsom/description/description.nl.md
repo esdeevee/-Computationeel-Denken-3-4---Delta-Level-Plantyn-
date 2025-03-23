@@ -17,7 +17,7 @@ We maken in deze opgave gebruik van $$f(x) = \sin x$$.
     * als `type` gelijk is aan `'RECHTS'`, geeft de functie de waarde van `b` terug.
 3. Schrijf een functie `Riemannsom(a, b, n, type)` die de waarde van $$\displaystyle \sum _{i=1}^{n}f(x_{i}) \cdot \Delta x \,$$ teruggeeft, waarbij $$\Delta x$$ en $$x_i$$ berekend worden zoals hierboven beschreven.
 
-Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat evalueren *geen hoofdprogramma* staan. Je code bestaat dus uit twee functiedefinities, en niet meer dan dat. Een eventueel hoofdprogramma dat je gebruikt hebt om je code te testen, moet je bij de evaluatie dus in commentaar zetten, of zelfs gewoon verwijderen.
+Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat evalueren *geen hoofdprogramma* staan. Je code bestaat dus uit drie functiedefinities, en niet meer dan dat. Een eventueel hoofdprogramma dat je gebruikt hebt om je code te testen, moet je bij de evaluatie dus in commentaar zetten, of zelfs gewoon verwijderen.
  
 ### Voorbeeld 1
 
@@ -68,4 +68,14 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 **Uitvoer:**
 
     0.45969771328593134
+
+### Voorbeeld 6
+
+**Invoer:**
+
+    >>> Riemannsom(0, 3.141592653589793, 1000000, 'LINKS')
+
+**Uitvoer:**
+
+    1.9999999999983495
     
