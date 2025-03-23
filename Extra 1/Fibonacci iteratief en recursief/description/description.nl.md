@@ -24,7 +24,7 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 
 **Invoer:**
 
-    > fibonacci_iteratief(6)
+    >>> fibonacci_iteratief(6)
 
 **Uitvoer:**
 
@@ -34,7 +34,7 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 
 **Invoer:**
 
-    > fibonacci_recursief(7)
+    >>> fibonacci_recursief(7)
 
 **Uitvoer:**
 
