@@ -10,7 +10,7 @@ Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als d
 
 We maken in deze opgave gebruik van $$f(x) = \sin x$$.
 
-1. Schrijf een functie `Delta_x(a, b, n)` die de breedte van elk deelinterval berekent wanneer je $$[a,b]$$ verdeelt in $$n$$ gelijke deelintervallen.
+1. Schrijf een functie `Delta_x(a, b, n)` die de breedte $$\Delta x$$ van elk deelinterval berekent wanneer je $$[a,b]$$ verdeelt in $$n$$ gelijke deelintervallen.
 2. Schrijf een functie `x_i(a, b, type)` die een waarde teruggeeft in het (deel)interval $$[a,b]$$:
     * als `type` gelijk is aan `'LINKS'`, geeft de functie de waarde van `a` terug;
     * als `type` gelijk is aan `'MIDDEN'`, geeft de functie het midden van $$[a,b]$$ terug;
