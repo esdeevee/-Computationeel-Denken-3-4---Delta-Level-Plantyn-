@@ -1,6 +1,6 @@
 ### Inleiding
 
-Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als de som van een groot - in de limiet oneindig - aantal termen. De Duitse wiskundige Bernhard Riemann (1826-1866) bedacht de volgende methode om een benadering te vinden voor de (georiënteerde) oppervlakte onder de grafiek van $$f(x)$$ in het interval $$[a,b]$$:
+Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als de som van een oneindig aantal termen. De Duitse wiskundige Bernhard Riemann (1826-1866) bedacht de volgende methode om een benadering te vinden voor de (georiënteerde) oppervlakte onder de grafiek van $$f(x)$$ in het interval $$[a,b]$$:
 * verdeel het interval $$[a,b]$$ in $$n$$ gelijke deelintervallen met breedte $$\Delta x$$;
 * kies een willekeurige waarde $$x_{i}$$ in het $$i$$-de deelinterval;
 * bereken de functiewaarde $$f(x_{i})$$;
