@@ -5,7 +5,7 @@ De rij van Fibonacci is wellicht het typevoorbeeld van een wiskundige rij die he
 * de eerste en de tweede term van de rij zijn gelijk aan 1;
 * elke volgende term is gelijk aan de som van de twee voorgaande termen.
 
-Als we het $n$-de getal van Fibonacci noteren als $$F_n$$, kan je de rij dus formeel definiëren als
+Als we het $$n$$-de getal van Fibonacci noteren als $$F_n$$, kan je de rij dus formeel definiëren als
 
 $$F_1 = F_2 = 1$$
 
