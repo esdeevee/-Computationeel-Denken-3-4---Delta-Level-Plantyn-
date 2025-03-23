@@ -63,11 +63,11 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 
 **Invoer:**
 
-    >>> Riemannsom(0, 1, 1000, 'MIDDEN')
+    >>> Riemannsom(0, 1.0471975511965976, 1000, 'MIDDEN')
 
 **Uitvoer:**
 
-    0.45969771328593134
+    0.5000000228463071
 
 ### Voorbeeld 6
 
