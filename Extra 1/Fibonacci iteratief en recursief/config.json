@@ -11,7 +11,7 @@
     "pythia_judge": "doctest",
     "memory_limit": 100000000
   },
-  "labels": [],
+  "labels": ["iteratie", "recursie"],
   "internals": {
     "token": "jpKd6VH3vZYEZhhsreiyDEEZIhmuuHEWJAJG4kMZm9HgGYqcGD4FeEEtm5iVfU_Z",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
