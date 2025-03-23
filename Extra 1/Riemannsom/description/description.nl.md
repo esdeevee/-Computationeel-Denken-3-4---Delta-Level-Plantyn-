@@ -9,7 +9,7 @@ Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als d
 ### Opgave
 
 1. Schrijf een functie `Delta_x(a, b, n)` die de breedte $$\Delta x$$ van elk deelinterval berekent wanneer je $$[a,b]$$ verdeelt in $$n$$ gelijke deelintervallen.
-2. Schrijf een functie `x_i(x1, x2, type)` die een waarde teruggeeft in het (deel)interval $$[x_1, x_2]$$:
+2. Schrijf een functie `x_i(x1, x2, type)` die een waarde teruggeeft in het deelinterval $$[x_1, x_2]$$:
     * als `type` gelijk is aan `'LINKS'`, geeft de functie de waarde van `x1` terug;
     * als `type` gelijk is aan `'MIDDEN'`, geeft de functie het midden van $$[x_1, x_2]$$ terug;
     * als `type` gelijk is aan `'RECHTS'`, geeft de functie de waarde van `x2` terug.
