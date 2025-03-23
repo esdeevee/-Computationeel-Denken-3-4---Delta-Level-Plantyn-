@@ -11,10 +11,12 @@
     "pythia_judge": "doctest",
     "memory_limit": 100000000
   },
-  "labels": ["numerieke wiskunde", "for"],
-  "access": "public",
+  "labels": [
+    "numerieke wiskunde",
+    "for"
+  ],
   "internals": {
-    "token": "-IKGIwwg3s2GHvbjvYpdSEZkZnjYKZJ47-vhMHR_WX6hHc_QMQICaBCYMremc7gN",
+    "token": "fcUuMMrvmirFWyYwuCbTNs4wafDxsDXAB4F2avpIBi6sUVVCIiVvp3tH-FSX4KBd",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
