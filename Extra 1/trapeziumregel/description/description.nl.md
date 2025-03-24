@@ -8,7 +8,7 @@ Je zou kunnen zeggen dat je $$f(x)$$ in elk deelinterval benadert door een funct
 
 We gaan in deze opgave een kleine verfijning doorvoeren aan de riemannsom die je kent. In plaats van de georiënteerde oppervlakte te beschouwen als de som van rechthoekjes, kunnen we misschien beter de som berekenen van een groot aantal trapeziums. Zo benaderen we $$f(x)$$ in elk deelinterval door een functie van de eerste graad. Onderstaande figuur illustreert dat deze *trapeziumregel* voor een zelfde aantal deelintervalletjes in het algemeen een betere benadering geeft dan de riemannsom die je kent.
 
-![trapeziumregel](media/trapeziumregel.png){:width="25%"}
+![trapeziumregel](media/trapeziumregel.png){:width="200%"}
 
 De oppervlakte van een trapezium met grote basis $$B$$, kleine basis $$b$$ en hoogte $$h$$ kun je berekenen als $$\frac{B+b}{2} \cdot h$$. Als we het $$i$$-de deelinterval definiëren als $$[x_i, x_{i+1}]$$, vind je de oppervlakte van de $$i$$-de deeltrapezium dus als $$\displaystyle \frac{f(x_i) + f(x_{i+1})}{2} \cdot \Delta x$$. De totale oppervlakte van alle deeltrapeziums wordt dus gegeven door $$\sum _{i=1}^{n} \frac{f(x_{i}) + f(x_{i+1})}{2} \cdot \Delta x \,$$.
 
