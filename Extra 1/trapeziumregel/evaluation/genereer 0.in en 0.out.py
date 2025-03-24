@@ -5,15 +5,18 @@ def f(x):
     return cos(x)
 
 def Delta_x(a, b, n):
-    return ((b-a) / n)
+    return (b-a) / n
+
+def x_i(a, i, Dx):
+    return a + i * Dx
 
 def trapeziumregel(a, b, n):
     som = 0
     Dx = Delta_x(a, b, n)
     for i in range(n):
-        x_i = a + i*Dx
-        x_j = x_i + Dx
-        som = som + (f(x_i) + f(x_j))/2 * Dx
+        x1 = x_i(a, i, Dx)
+        x2 = x1 + Dx
+        som = som + (f(x1) + f(x2))/2 * Dx
     return som
 
 
@@ -42,7 +45,14 @@ file.close()
 file = open("2.out", "w")
 file.truncate()
 file.close()
-
+# wis alle gegevens in in.csv
+file = open("3.in", "w")
+file.truncate()
+file.close()
+# wis alle gegevens in in.csv
+file = open("3.out", "w")
+file.truncate()
+file.close()
 
 
 for i in range(30):   
@@ -62,8 +72,6 @@ for i in range(30):
         file.write('\n')
         #file.write('\n')
 
-
-
 for i in range(30):   
     with open('1.in', 'a') as file:
         exponent = randint(1, 3)
@@ -79,6 +87,25 @@ for i in range(30):
 
 for i in range(30):   
     with open('2.in', 'a') as file:
+        exponent = randint(1, 3)
+        teken = randint(0, 1)
+        veelvoud = randint(1,9 )
+        n = veelvoud * 10**exponent
+        a = round((-1)**teken * randint(1, 10**exponent) / (10**exponent + 1), exponent)
+        exponent = randint(1, 3)
+        teken = randint(0, 1)
+        b = round(a +  randint(1, 10**exponent) / (10**exponent + 1), exponent)
+        Dx = Delta_x(a, b, n)
+        j = randint(0, n)
+        file.write('>>> x_i(' + str(a) + ', '+ str(j) + ', '+ str(Dx) + ')')
+        file.write('\n')
+
+        file.write(str(x_i(a, j, Dx)))
+        file.write('\n')
+        #file.write('\n')
+
+for i in range(30):   
+    with open('3.in', 'a') as file:
         exponent = randint(1, 3)
         teken = randint(0, 1)
         veelvoud = randint(1, 9)
