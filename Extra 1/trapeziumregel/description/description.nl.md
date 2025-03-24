@@ -10,7 +10,7 @@ We gaan in deze opgave een kleine verfijning doorvoeren aan de riemannsom die je
 
 ![trapeziumregel](media/trapeziumregel.png){:width="80%"}
 
-De oppervlakte van een trapezium met grote basis $$B$$, kleine basis $$b$$ en hoogte $$h$$ kun je berekenen als $$\displaystyle \frac{B+b}{2} \cdot h$$. Als we het $$i$$-de deelinterval definiëren als $$[x_i, x_{i+1}]$$, vind je de oppervlakte van de $$i$$-de deeltrapezium dus als $$\displaystyle \frac{f(x_i) + f(x_{i+1})}{2} \cdot \Delta x$$. De totale oppervlakte van alle deeltrapeziums wordt dus gegeven door $$\displaystyle \sum _{i=1}^{n} \frac{f(x_{i}) + f(x_{i+1})}{2} \cdot \Delta x \,$$.
+De oppervlakte van een trapezium met grote basis $$B$$, kleine basis $$b$$ en hoogte $$h$$ kun je berekenen als $$\displaystyle \frac{B+b}{2} \cdot h$$. Als we het $$i$$-de deelinterval definiëren als $$[x_i, x_{i+1}]$$, vind je de oppervlakte van de $$i$$-de deeltrapezium dus als $$\displaystyle \frac{f(x_i) + f(x_{i+1})}{2} \cdot \Delta x$$. De totale oppervlakte van alle deeltrapeziums wordt dan ook gegeven door $$\displaystyle \sum _{i=1}^{n} \frac{f(x_{i}) + f(x_{i+1})}{2} \cdot \Delta x \,$$.
 
 ### Opgave
 
