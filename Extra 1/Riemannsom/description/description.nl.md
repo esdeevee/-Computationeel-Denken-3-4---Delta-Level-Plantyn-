@@ -14,7 +14,7 @@ Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als d
     * als `type` gelijk is aan `'MIDDEN'`, geeft de functie het midden van $$[x_1, x_2]$$ terug;
     * als `type` gelijk is aan `'RECHTS'`, geeft de functie de waarde van `x2` terug.
 3. We maken in deze opgave gebruik van $$f(x) = \sin x$$. Schrijf een functie `f(x)` die de waarde van $$\sin(x)$$ teruggeeft.
-4. Schrijf een functie `Riemannsom(a, b, n, type)` die de waarde van $$\displaystyle \sum _{i=1}^{n}f(x_{i}) \cdot \Delta x \,$$ teruggeeft, waarbij $$\Delta x$$ en $$x_i$$ berekend worden zoals hierboven beschreven.
+4. Schrijf een functie `Riemannsom(a, b, n, type)` die de waarde van $$\displaystyle \sum _{i=1}^{n}f(x_{i}) \cdot \Delta x \,$$ teruggeeft, waarbij $$\Delta x$$ en $$x_i$$ berekend worden zoals hierboven beschreven. *Uiteraard steun je in deze definitie zo veel mogelijk op de functies die je in 1, 2 en 3 al gedefinieerd hebt.*
 
 Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat evalueren *geen hoofdprogramma* staan. Je code bestaat dus uit vier functiedefinities, en niet meer dan dat. Een eventueel hoofdprogramma dat je gebruikt hebt om je code te testen, moet je bij de evaluatie dus in commentaar zetten, of zelfs gewoon verwijderen.
  
