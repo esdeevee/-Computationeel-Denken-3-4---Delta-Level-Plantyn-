@@ -1,6 +1,6 @@
 ### Inleiding
 
-Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als de som van een oneindig aantal termen.  De details zijn hier niet van belang, maar grafisch komt deze methode neer op het optellen van de oppervlakte van een groot aantal rechthoekjes. Onderstaande figuur geeft een mogelijke manier om de riemannsom te berekenen.
+Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als de som van een oneindig aantal termen.  De details van deze riemannsom zijn hier niet van belang, maar grafisch komt deze methode neer op het optellen van de oppervlakte van een groot aantal rechthoekjes. Onderstaande figuur geeft een mogelijke manier om de riemannsom te berekenen.
 
 ![riemannsom](media/riemannsom.png){:width="80%"}
 
