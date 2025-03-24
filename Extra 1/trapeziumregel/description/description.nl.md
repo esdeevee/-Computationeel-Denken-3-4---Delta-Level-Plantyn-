@@ -55,9 +55,8 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 
 **Invoer:**
 
-    >>> trapeziumregel(0, 3.141592653589793, 10)
-
+    >>> trapeziumregel(0, 1.5707963267948966, 100)
 
 **Uitvoer:**
 
-    3.885780586188048e-16
+    0.9999794382396078
