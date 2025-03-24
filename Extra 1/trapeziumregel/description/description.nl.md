@@ -2,13 +2,13 @@
 
 Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als de som van een oneindig aantal termen.  De details zijn hier niet van belang, maar grafisch komt deze methode neer op het optellen van de oppervlakte van een groot aantal rechthoekjes. Onderstaande figuur geeft een mogelijke manier om de riemannsom te berekenen.
 
-![riemannsom](media/riemannsom.png)
+![riemannsom](media/riemannsom.png){:width="25%"}
 
 Je zou kunnen zeggen dat je $$f(x)$$ in elk deelinterval benadert door een functie van de nulde graad (een constante functie). Al bij al is dit een vrij grove benadering, die weliswaar nadert naar de correcte georiënteerde oppervlakte naarmate het aantal deelintervalletjes toeneemt.
 
 We gaan in deze opgave een kleine verfijning doorvoeren aan de riemannsom die je kent. In plaats van de georiënteerde oppervlakte te beschouwen als de som van rechthoekjes, kunnen we misschien beter de som berekenen van een groot aantal trapeziums. Zo benaderen we $$f(x)$$ in elk deelinterval door een functie van de eerste graad. Onderstaande figuur illustreert dat deze *trapeziumregel* voor een zelfde aantal deelintervalletjes in het algemeen een betere benadering geeft dan de riemannsom die je kent.
 
-![trapeziumregel](media/trapeziumregel.png)
+![trapeziumregel](media/trapeziumregel.png){:width="25%"}
 
 De oppervlakte van een trapezium met grote basis $$B$$, kleine basis $$b$$ en hoogte $$h$$ kun je berekenen als $$\frac{B+b}{2} \cdot h$$. Als we het $$i$$-de deelinterval definiëren als $$[x_i, x_{i+1}]$$, vind je de oppervlakte van de $$i$$-de deeltrapezium dus als $$\frac{f(x_i) + f(x_{i+1})}{2} \cdot \Delta x$$. De totale oppervlakte van alle deeltrapeziums wordt dus gegeven door
 
