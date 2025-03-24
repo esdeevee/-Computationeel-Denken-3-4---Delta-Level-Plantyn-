@@ -31,3 +31,33 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 
     0.001
 
+### Voorbeeld 2
+
+**Invoer:**
+
+    >>> f(1.0471975511965976)
+
+**Uitvoer:**
+
+    0.5000000000000001
+
+### Voorbeeld 3
+
+**Invoer:**
+
+    >>> x_i(0, 50, 0.001)
+
+**Uitvoer:**
+
+    0.05
+
+### Voorbeeld 4
+
+**Invoer:**
+
+    >>> trapeziumregel(0, 3.141592653589793, 10)
+
+
+**Uitvoer:**
+
+    3.885780586188048e-16
