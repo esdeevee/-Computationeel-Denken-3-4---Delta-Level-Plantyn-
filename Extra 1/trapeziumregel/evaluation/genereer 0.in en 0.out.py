@@ -55,11 +55,11 @@ file.truncate()
 file.close()
 
 
-for i in range(30):   
+for i in range(100):   
     with open('0.in', 'a') as file:
-        exponent = randint(1, 3)
+        exponent = randint(1, 2)
         teken = randint(0, 1)
-        veelvoud = randint(1,9 )
+        veelvoud = randint(1,9)
         n = veelvoud * 10**exponent
         a = round((-1)**teken * randint(1, 10**exponent) / (10**exponent + 1), exponent)
         exponent = randint(1, 3)
@@ -72,9 +72,9 @@ for i in range(30):
         file.write('\n')
         #file.write('\n')
 
-for i in range(30):   
+for i in range(100):   
     with open('1.in', 'a') as file:
-        exponent = randint(1, 3)
+        exponent = randint(1, 2)
         veelvoud = randint(1, 9)
         teken = randint(0, 1)
         x = round((-1)**teken * randint(1, 10**exponent) / (10**exponent + 1), exponent)
@@ -85,9 +85,9 @@ for i in range(30):
         file.write('\n')
         #file.write('\n')
 
-for i in range(30):   
+for i in range(100):   
     with open('2.in', 'a') as file:
-        exponent = randint(1, 3)
+        exponent = randint(1, 2)
         teken = randint(0, 1)
         veelvoud = randint(1,9 )
         n = veelvoud * 10**exponent
@@ -104,9 +104,9 @@ for i in range(30):
         file.write('\n')
         #file.write('\n')
 
-for i in range(30):   
+for i in range(100):   
     with open('3.in', 'a') as file:
-        exponent = randint(1, 3)
+        exponent = randint(1, 2)
         teken = randint(0, 1)
         veelvoud = randint(1, 9)
         n = veelvoud * 10**exponent
