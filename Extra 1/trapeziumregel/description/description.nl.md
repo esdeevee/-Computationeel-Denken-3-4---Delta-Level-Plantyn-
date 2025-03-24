@@ -16,7 +16,8 @@ De oppervlakte van een trapezium met grote basis $$B$$, kleine basis $$b$$ en ho
 
 1. Schrijf een functie `Delta_x(a, b, n)` die de breedte $$\Delta x$$ van elk deelinterval berekent wanneer je $$[a,b]$$ verdeelt in $$n$$ gelijke deelintervallen.
 2. We maken in deze opgave gebruik van $$f(x) = \cos x$$. Schrijf een functie `f(x)` die de waarde van $$\cos(x)$$ teruggeeft.
-3. Schrijf een functie `trapeziumregel(a, b, n)` die de waarde van $$\displaystyle \sum _{i=1}^{n}f(x_{i}) \cdot \Delta x \,$$ teruggeeft, waarbij $$\Delta x$$ en $$x_i$$ berekend worden zoals hierboven beschreven. *Uiteraard steun je in deze definitie zo veel mogelijk op de functies die je in 1 en 2 al gedefinieerd hebt.*
+3. Schrijf een functie `x_i(a, i, Delta_x)` die de ondergrens van het $$i$$-de deelinterval teruggeeft.
+4. Schrijf een functie `trapeziumregel(a, b, n)` die de waarde van $$\displaystyle \sum _{i=1}^{n} \frac{f(x_{i}) + f(x_{i+1})}{2} \cdot \Delta x \,$$ teruggeeft, waarbij $$\Delta x$$ en $$x_i$$ berekend worden zoals hierboven beschreven. *Uiteraard steun je in deze definitie zo veel mogelijk op de functies die je in 1, 2 en 3 al gedefinieerd hebt.*
 
 Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat evalueren *geen hoofdprogramma* staan. Je code bestaat dus uit drie functiedefinities, en niet meer dan dat. Een eventueel hoofdprogramma dat je gebruikt hebt om je code te testen, moet je bij de evaluatie dus in commentaar zetten, of zelfs gewoon verwijderen.
  
