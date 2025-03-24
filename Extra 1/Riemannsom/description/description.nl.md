@@ -4,7 +4,7 @@ Je hebt bij wiskunde geleerd dat je een bepaalde integraal kunt beschouwen als d
 1. verdeel het interval $$[a,b]$$ in $$n$$ gelijke deelintervallen met breedte $$\Delta x$$;
 2. kies een willekeurige waarde $$x_{i}$$ in het $$i$$-de deelinterval;
 3. bereken de functiewaarde $$f(x_{i})$$;
-4. $$\displaystyle \sum _{i=1}^{n}f(x_{i}) \cdot \Delta x \,$$ is dan een benadering voor de exacte oppervlakte $$\displaystyle \int _{a}^{b} f(x) \, dx$$. 
+4. $$\displaystyle \sum _{i=1}^{n}f(x_{i}) \cdot \Delta x \, = f(x_1) \cdot \Delta x + f(x_2) \cdot \Delta x + ... + f(x_n) \cdot \Delta x \,$$ is dan een benadering voor de exacte oppervlakte $$\displaystyle \int _{a}^{b} f(x) \, dx$$. 
 
 ### Opgave
 
