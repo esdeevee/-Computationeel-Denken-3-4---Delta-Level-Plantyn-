@@ -9,14 +9,12 @@ Onderstaande figuur maakt dit duidelijk: zo is het getal 1820 op de onderste rij
 
 ![Driehoek van Pascal](media/driehoek.jpg){:width="80%"}
 
-In feite is de driehoek van Pascal dus een grafische weergave van getallen die op een recursieve manier gedefinieerd zijn. Een getal op de $$n$$-de rij is immers gelijk aan de som van twee getallen op de $$(n-1)$$-ste rij.
-
 Laten we een aantal zaken definiëren:
 * de variabele $$n$$ geeft weer op de hoeveelste rij van de driehoek een getal zich bevindt, waarbij de bovenste rij (de top) van de driehoek overeenkomt met $$n=0$$;
 * de variabele $$k$$ geeft het rangnummer aan van een getal binnen een rij, waarbij het eerste element links op elke rij overeenkomt met $$k=0$$;
 * we noteren het getal op rij $$n$$ met rangnummer $$k$$ als `Pascal(n, k)`.
 
-Het getal 1820 noteren we dus als `Pascal(16, 4)`. Dit getal is de som van `Pascal(15, 3)` en `Pascal(15, 4)`. *Ga voor jezelf na dat je dit goed begrijpt.* 
+Het op de figuur aangeduide getal 1820 noteren we dus als `Pascal(16, 4)`. Dit getal is de som van `Pascal(15, 3)` en `Pascal(15, 4)`. *Ga voor jezelf na dat je dit goed begrijpt.* 
 
 We kunnen deze eigenschap veralgemenen:
 * `Pascal(n, k)` = `Pascal(n-1, k-1)` + `Pascal(n-1, k)` (voor $$k \leq n$$)
