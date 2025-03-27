@@ -1,6 +1,6 @@
 ### Inleiding
 
-Je hebt in de lagere cyclus de driehoek van Pascal leren kennen - hoop ik. Maak je geen zorgen als dat niet het geval zou zijn, want het is echt geen probleem als je nog nooit van deze driehoek gehoord hebt. Later dit jaar ga je er bij wiskunde nog veel meer over leren, maar ik probeer in deze opgave bewust zo weinig mogelijk wiskunde te betrekken.
+Mogelijk heb je in de lagere cyclus ooit eens gehoord over de driehoek van Pascal leren kennen. Maak je geen zorgen als dat niet het geval zou zijn, want het is echt geen probleem als je nog nooit van deze driehoek gehoord hebt. Hoe dan ook ga je er later dit jaar nog veel over leren, maar ik probeer in deze opgave heel bewust zo weinig mogelijk wiskunde te betrekken.
 
 De driehoek van Pascal is opgebouwd volgens een vast patroon: 
 * het getal in de top van de driehoek is gelijk aan 1;
@@ -27,7 +27,7 @@ We kunnen deze eigenschap veralgemenen:
 
 ### Opgave
 
-1. Schrijf een functie `Pascal_recursief(n, k)` die op een *recursieve* manier de waarde berekent van het getal op rij $$n$$ en met rangnummer $$k$$ in de driehoek van Pascal.
+1. Schrijf een functie `Pascal(n, k)` die op een *recursieve* manier de waarde berekent van het getal op rij $$n$$ en met rangnummer $$k$$ in de driehoek van Pascal.
 2. Schrijf een functie `som_Pascal(n)` die op een *iteratieve* manier de som berekent van alle getallen op rij $$n$$ in de driehoek van Pascal. *Uiteraard steun je in deze definitie op de functie `Pascal_recursief(n, k)`.*
 
 *Als je vraag 1 niet gevonden hebt, kan je geen werkende code schrijven voor vraag 2. Dat neemt niet weg dat je in vraag 2 wel degelijk kan doen alsof `Pascal_recursief(n, k)` correct gedefinieerd is. Je kan dus al je punten halen op vraag 2 terwijl je niets ingevuld hebt bij vraag 1.*

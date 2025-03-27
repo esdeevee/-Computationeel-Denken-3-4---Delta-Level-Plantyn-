@@ -1,15 +1,15 @@
 from random import randint
 
-def Pascal_recursief(n, k):
+def Pascal(n, k):
     if n == k or k == 0:
         return 1
     else:
-        return Pascal_recursief(n-1, k-1) + Pascal_recursief(n-1, k)
+        return Pascal(n-1, k-1) + Pascal(n-1, k)
 
 def som_Pascal(n):
     som = 0
     for k in range(n+1):
-        som = som + Pascal_recursief(n, k)
+        som = som + Pascal(n, k)
     return som
 
 
@@ -35,10 +35,10 @@ for i in range(50):
     with open('0.in', 'a') as file:
         n = randint(0, 25)
         k = randint(0, n)
-        file.write('>>> Pascal_recursief(' + str(n) + ', ' + str(k) + ')')
+        file.write('>>> Pascal(' + str(n) + ', ' + str(k) + ')')
         file.write('\n')
 
-        file.write(str(Pascal_recursief(n, k)))
+        file.write(str(Pascal(n, k)))
         file.write('\n')
         #file.write('\n')
 
