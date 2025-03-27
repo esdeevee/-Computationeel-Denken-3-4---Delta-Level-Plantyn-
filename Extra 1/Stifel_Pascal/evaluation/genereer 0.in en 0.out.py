@@ -31,7 +31,7 @@ file.truncate()
 file.close()
 
 
-for i in range(1, 50):
+for i in range(50):
     with open('0.in', 'a') as file:
         n = randint(0, 30)
         k = randint(0, n)
@@ -42,7 +42,7 @@ for i in range(1, 50):
         file.write('\n')
         #file.write('\n')
 
-for n in range(21):   
+for n in range(20):   
     with open('1.in', 'a') as file:
         file.write('>>> som_Pascal(' + str(n) + ')')
         file.write('\n')
