@@ -1,0 +1,42 @@
+>>> som_Pascal(0)
+1
+>>> som_Pascal(1)
+2
+>>> som_Pascal(2)
+4
+>>> som_Pascal(3)
+8
+>>> som_Pascal(4)
+16
+>>> som_Pascal(5)
+32
+>>> som_Pascal(6)
+64
+>>> som_Pascal(7)
+128
+>>> som_Pascal(8)
+256
+>>> som_Pascal(9)
+512
+>>> som_Pascal(10)
+1024
+>>> som_Pascal(11)
+2048
+>>> som_Pascal(12)
+4096
+>>> som_Pascal(13)
+8192
+>>> som_Pascal(14)
+16384
+>>> som_Pascal(15)
+32768
+>>> som_Pascal(16)
+65536
+>>> som_Pascal(17)
+131072
+>>> som_Pascal(18)
+262144
+>>> som_Pascal(19)
+524288
+>>> som_Pascal(20)
+1048576

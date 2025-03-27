@@ -1,0 +1,98 @@
+>>> Pascal_recursief(15, 15)
+1
+>>> Pascal_recursief(15, 7)
+6435
+>>> Pascal_recursief(9, 0)
+1
+>>> Pascal_recursief(13, 8)
+1287
+>>> Pascal_recursief(1, 0)
+1
+>>> Pascal_recursief(24, 10)
+1961256
+>>> Pascal_recursief(20, 4)
+4845
+>>> Pascal_recursief(28, 22)
+376740
+>>> Pascal_recursief(12, 10)
+66
+>>> Pascal_recursief(14, 11)
+364
+>>> Pascal_recursief(16, 1)
+16
+>>> Pascal_recursief(20, 3)
+1140
+>>> Pascal_recursief(17, 6)
+12376
+>>> Pascal_recursief(13, 4)
+715
+>>> Pascal_recursief(7, 2)
+21
+>>> Pascal_recursief(18, 18)
+1
+>>> Pascal_recursief(22, 3)
+1540
+>>> Pascal_recursief(24, 18)
+134596
+>>> Pascal_recursief(29, 26)
+3654
+>>> Pascal_recursief(1, 0)
+1
+>>> Pascal_recursief(2, 0)
+1
+>>> Pascal_recursief(26, 16)
+5311735
+>>> Pascal_recursief(6, 0)
+1
+>>> Pascal_recursief(26, 18)
+1562275
+>>> Pascal_recursief(6, 0)
+1
+>>> Pascal_recursief(19, 18)
+19
+>>> Pascal_recursief(26, 1)
+26
+>>> Pascal_recursief(1, 0)
+1
+>>> Pascal_recursief(21, 0)
+1
+>>> Pascal_recursief(18, 11)
+31824
+>>> Pascal_recursief(8, 1)
+8
+>>> Pascal_recursief(10, 2)
+45
+>>> Pascal_recursief(19, 17)
+171
+>>> Pascal_recursief(9, 4)
+126
+>>> Pascal_recursief(21, 10)
+352716
+>>> Pascal_recursief(2, 2)
+1
+>>> Pascal_recursief(14, 1)
+14
+>>> Pascal_recursief(10, 3)
+120
+>>> Pascal_recursief(25, 20)
+53130
+>>> Pascal_recursief(29, 25)
+23751
+>>> Pascal_recursief(17, 0)
+1
+>>> Pascal_recursief(2, 0)
+1
+>>> Pascal_recursief(23, 19)
+8855
+>>> Pascal_recursief(20, 15)
+15504
+>>> Pascal_recursief(7, 2)
+21
+>>> Pascal_recursief(25, 20)
+53130
+>>> Pascal_recursief(15, 7)
+6435
+>>> Pascal_recursief(26, 8)
+1562275
+>>> Pascal_recursief(4, 2)
+6
