@@ -21,12 +21,11 @@ We kunnen deze eigenschap veralgemenen:
 * `Pascal(n, n)` = 1
 * `Pascal(n, 0)` = 1
 
-De driehoek van Pascal zit vol wiskundige spielerei. Ik haal er één eigenschap uit: de som van alle getallen op rij $$n$$ in de driehoek is gelijk aan $$2^n$$. *Ga voor jezelf na dat je dit goed begrijpt.* 
 
 ### Opgave
 
 1. Schrijf een functie `Pascal_recursief(n, k)` die op een *recursieve* manier de waarde berekent van het getal op rij $$n$$ en met rangnummer $$k$$ in de driehoek van Pascal.
-2. Schrijf een functie `som_Pascal(n)` die op een *iteratieve* manier de som berekent van alle getallen op rij $$n$$ in de driehoek van Pascal.
+2. Schrijf een functie `som_Pascal(n)` die op een *iteratieve* manier de som berekent van alle getallen op rij $$n$$ in de driehoek van Pascal. Merk je een patroon?
 
 *Als je vraag 1 niet gevonden hebt, kan je geen werkende code schrijven voor vraag 2. Dat neemt niet weg dat je in vraag 2 wel degelijk kan doen alsof `Pascal_recursief(n, k)` correct gedefinieerd is. Je kan dus al je punten halen op vraag 2 terwijl je niets ingevuld hebt bij vraag 1.*
 
