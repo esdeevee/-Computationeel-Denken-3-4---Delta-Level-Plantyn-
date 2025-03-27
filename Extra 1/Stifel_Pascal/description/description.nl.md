@@ -34,11 +34,11 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 
 **Invoer:**
 
-    >>> Pascal(4, 2)
+    >>> Pascal(4, 3)
 
 **Uitvoer:**
 
-    6
+    4
 
 ### Voorbeeld 2
 
@@ -58,7 +58,7 @@ Zoals steeds in dit soort opgaves mag er in de code die je door Dodona laat eval
 
 **Uitvoer:**
 
-    0
+    1
 
 ### Voorbeeld 4
 
