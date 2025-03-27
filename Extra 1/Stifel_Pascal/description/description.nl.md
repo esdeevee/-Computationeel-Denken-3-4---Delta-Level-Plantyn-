@@ -1,8 +1,6 @@
 ### Inleiding
 
-Mogelijk heb je in de lagere cyclus ooit eens gehoord over de driehoek van Pascal leren kennen. Maak je geen zorgen als dat niet het geval zou zijn, want het is echt geen probleem als je nog nooit van deze driehoek gehoord hebt. Hoe dan ook ga je er later dit jaar nog veel over leren, maar ik probeer in deze opgave heel bewust zo weinig mogelijk wiskunde te betrekken.
-
-De driehoek van Pascal is opgebouwd volgens een vast patroon: 
+Later dit jaar ga je bij wiskunde nog uitvoerig leren over de driehoek van Pascal. Deze is opgebouwd volgens een vast patroon: 
 * het getal in de top van de driehoek is gelijk aan 1;
 * op de twee schuine zijden staat telkens een 1;
 * elk getal in de driehoek is gelijk is aan de som van de twee getallen links- en rechtsboven dit getal.
