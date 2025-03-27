@@ -33,7 +33,7 @@ file.close()
 
 for i in range(50):
     with open('0.in', 'a') as file:
-        n = randint(0, 30)
+        n = randint(0, 25)
         k = randint(0, n)
         file.write('>>> Pascal_recursief(' + str(n) + ', ' + str(k) + ')')
         file.write('\n')
