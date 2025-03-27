@@ -2,7 +2,12 @@
 
 Je hebt in de lagere cyclus de driehoek van Pascal leren kennen - hoop ik. Maak je geen zorgen als dat niet het geval zou zijn, want het is echt geen probleem als je nog nooit van deze driehoek gehoord hebt. Later dit jaar ga je er bij wiskunde nog veel meer over leren, maar ik probeer in deze opgave bewust zo weinig mogelijk wiskunde te betrekken.
 
-De driehoek van Pascal is opgebouwd volgens een vast patroon: elk getal in de driehoek is gelijk is aan de som van de twee getallen links- en rechtsboven dit getal. Onderstaande figuur maakt dit duidelijk: zo is het getal 1820 op de onderste rij bijvoorbeeld gelijk aan 455 + 1365.
+De driehoek van Pascal is opgebouwd volgens een vast patroon: 
+* het getal in de top van de driehoek is gelijk aan 1;
+* op de twee schuine zijden staat telkens een 1;
+* elk getal in de driehoek is gelijk is aan de som van de twee getallen links- en rechtsboven dit getal.
+
+Onderstaande figuur maakt dit duidelijk: zo is het getal 1820 op de onderste rij bijvoorbeeld gelijk aan 455 + 1365.
 
 ![Driehoek van Pascal](media/driehoek.jpg){:width="80%"}
 
