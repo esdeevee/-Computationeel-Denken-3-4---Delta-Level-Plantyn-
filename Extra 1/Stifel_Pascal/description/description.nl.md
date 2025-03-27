@@ -22,8 +22,7 @@ Het getal 1820 noteren we dus als `Pascal(16, 4)`. Dit getal is de som van `Pasc
 
 We kunnen deze eigenschap veralgemenen:
 * `Pascal(n, k)` = `Pascal(n-1, k-1)` + `Pascal(n-1, k)` (voor $$k \leq n$$)
-* `Pascal(n, n)` = 1
-* `Pascal(n, 0)` = 1
+* `Pascal(n, 0)` = `Pascal(n, n)` = 1 (voor $$n \in \mathbb{N}$$)
 
 
 ### Opgave
