@@ -1,0 +1,200 @@
+>>> niveau(1)
+1
+>>> niveau(2)
+1
+>>> niveau(3)
+1
+>>> niveau(4)
+1
+>>> niveau(5)
+1
+>>> niveau(6)
+1
+>>> niveau(7)
+1
+>>> niveau(8)
+1
+>>> niveau(9)
+1
+>>> niveau(10)
+1
+>>> niveau(11)
+2
+>>> niveau(12)
+2
+>>> niveau(13)
+2
+>>> niveau(14)
+2
+>>> niveau(15)
+2
+>>> niveau(16)
+2
+>>> niveau(17)
+2
+>>> niveau(18)
+2
+>>> niveau(19)
+2
+>>> niveau(20)
+2
+>>> niveau(21)
+3
+>>> niveau(22)
+3
+>>> niveau(23)
+3
+>>> niveau(24)
+3
+>>> niveau(25)
+3
+>>> niveau(26)
+3
+>>> niveau(27)
+3
+>>> niveau(28)
+3
+>>> niveau(29)
+3
+>>> niveau(30)
+3
+>>> niveau(31)
+4
+>>> niveau(32)
+4
+>>> niveau(33)
+4
+>>> niveau(34)
+4
+>>> niveau(35)
+4
+>>> niveau(36)
+4
+>>> niveau(37)
+4
+>>> niveau(38)
+4
+>>> niveau(39)
+4
+>>> niveau(40)
+4
+>>> niveau(41)
+5
+>>> niveau(42)
+5
+>>> niveau(43)
+5
+>>> niveau(44)
+5
+>>> niveau(45)
+5
+>>> niveau(46)
+5
+>>> niveau(47)
+5
+>>> niveau(48)
+5
+>>> niveau(49)
+5
+>>> niveau(50)
+5
+>>> niveau(51)
+6
+>>> niveau(52)
+6
+>>> niveau(53)
+6
+>>> niveau(54)
+6
+>>> niveau(55)
+6
+>>> niveau(56)
+6
+>>> niveau(57)
+6
+>>> niveau(58)
+6
+>>> niveau(59)
+6
+>>> niveau(60)
+6
+>>> niveau(61)
+7
+>>> niveau(62)
+7
+>>> niveau(63)
+7
+>>> niveau(64)
+7
+>>> niveau(65)
+7
+>>> niveau(66)
+7
+>>> niveau(67)
+7
+>>> niveau(68)
+7
+>>> niveau(69)
+7
+>>> niveau(70)
+7
+>>> niveau(71)
+8
+>>> niveau(72)
+8
+>>> niveau(73)
+8
+>>> niveau(74)
+8
+>>> niveau(75)
+8
+>>> niveau(76)
+8
+>>> niveau(77)
+8
+>>> niveau(78)
+8
+>>> niveau(79)
+8
+>>> niveau(80)
+8
+>>> niveau(81)
+9
+>>> niveau(82)
+9
+>>> niveau(83)
+9
+>>> niveau(84)
+9
+>>> niveau(85)
+9
+>>> niveau(86)
+9
+>>> niveau(87)
+9
+>>> niveau(88)
+9
+>>> niveau(89)
+9
+>>> niveau(90)
+9
+>>> niveau(91)
+10
+>>> niveau(92)
+10
+>>> niveau(93)
+10
+>>> niveau(94)
+10
+>>> niveau(95)
+10
+>>> niveau(96)
+10
+>>> niveau(97)
+10
+>>> niveau(98)
+10
+>>> niveau(99)
+10
+>>> niveau(100)
+10
