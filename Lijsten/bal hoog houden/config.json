@@ -10,7 +10,7 @@
   "evaluation": {
     "pythia_judge": "doctest",
     "memory_limit": 100000000
-  },s
+  },
   "labels": [],
   "access": "public",
   "internals": {
