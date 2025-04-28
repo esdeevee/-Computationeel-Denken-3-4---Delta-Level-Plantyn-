@@ -13,12 +13,12 @@ Daarnaast ken je misschien ook de standaardafwijking als maat voor de spreiding 
 $$s = \sqrt{\frac{1}{n-1} \cdot \sum_{i=1}^n (x_i - \overline x)^2}.$$
 
 ### Opgave
-1. Schrijf een functie `gemiddelde(lijst)`. De variabele `lijst`bevat een aantal getallen. Je functie geeft het gemiddelde van de al deze getallen terug, afgerond op 1 cijfer na de komma.
-2. Schrijf een functie `mediaan(lijst)`. De variabele `lijst`bevat een aantal getallen. Je functie geeft de mediaan van de al deze getallen terug, afgerond op 1 cijfer na de komma.
-3. Schrijf een functie `Q1(lijst)`. De variabele `lijst`bevat een aantal getallen. Je functie geeft het eerste kwartiel van de al deze getallen terug, afgerond op 1 cijfer na de komma.
-4. Schrijf een functie `Q3(lijst)`. De variabele `lijst`bevat een aantal getallen. Je functie geeft het derde kwartiel van de al deze getallen terug, afgerond op 1 cijfer na de komma.
-5. Schrijf een functie `IKA(lijst)`. De variabele `lijst`bevat een aantal getallen. Je functie geeft de interkwartielafstand van de al deze getallen terug, afgerond op 1 cijfer na de komma.
-6. Schrijf een functie `standaardafwijking(lijst)`. De variabele `lijst`bevat een aantal getallen. Je functie geeft de standaardafwijking van de al deze getallen terug, afgerond op 1 cijfer na de komma.
+1. Schrijf een functie `gemiddelde(lijst)`. De variabele `lijst` bevat een aantal getallen. Je functie geeft het gemiddelde van de al deze getallen terug, afgerond op 1 cijfer na de komma.
+2. Schrijf een functie `mediaan(lijst)`. De variabele `lijst` bevat een aantal getallen. Je functie geeft de mediaan van de al deze getallen terug, afgerond op 1 cijfer na de komma.
+3. Schrijf een functie `Q1(lijst)`. De variabele `lijst` bevat een aantal getallen. Je functie geeft het eerste kwartiel van de al deze getallen terug, afgerond op 1 cijfer na de komma.
+4. Schrijf een functie `Q3(lijst)`. De variabele `lijst` bevat een aantal getallen. Je functie geeft het derde kwartiel van de al deze getallen terug, afgerond op 1 cijfer na de komma.
+5. Schrijf een functie `IKA(lijst)`. De variabele `lijst` bevat een aantal getallen. Je functie geeft de interkwartielafstand van de al deze getallen terug, afgerond op 1 cijfer na de komma.
+6. Schrijf een functie `standaardafwijking(lijst)`. De variabele `lijst` bevat een aantal getallen. Je functie geeft de standaardafwijking van de al deze getallen terug, afgerond op 1 cijfer na de komma.
 
 
 ### Voorbeeld 1
