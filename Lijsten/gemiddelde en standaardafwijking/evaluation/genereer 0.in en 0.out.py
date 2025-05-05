@@ -43,23 +43,23 @@ def standaardafwijking(lijst):
 """
 lijst1 = [5, 3, 1, 4, 2]
 
-print(gemiddelde(lijst1))
-print(mediaan(lijst1))
-print(Q1(lijst1))
-print(Q3(lijst1))
-print(IKA(lijst1))
-print(standaardafwijking(lijst1))
+#print(gemiddelde(lijst1))
+#print(mediaan(lijst1))
+#print(Q1(lijst1))
+#print(Q3(lijst1))
+#print(IKA(lijst1))
+#print(standaardafwijking(lijst1))
 
-print('\n')
+#print('\n')
 
 lijst1 = [5, 3, 6, 1, 4, 2]
 
-print(gemiddelde(lijst1))
-print(mediaan(lijst1))
-print(Q1(lijst1))
-print(Q3(lijst1))
-print(IKA(lijst1))
-print(standaardafwijking(lijst1))
+#print(gemiddelde(lijst1))
+#print(mediaan(lijst1))
+#print(Q1(lijst1))
+#print(Q3(lijst1))
+#print(IKA(lijst1))
+#print(standaardafwijking(lijst1))
 """
 
 from random import randint
@@ -73,6 +73,51 @@ file = open("0.out", "w")
 file.truncate()
 file.close()
 
+# wis alle gegevens in in.csv
+file = open("1.in", "w")
+file.truncate()
+file.close()
+# wis alle gegevens in in.csv
+file = open("1.out", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("2.in", "w")
+file.truncate()
+file.close()
+# wis alle gegevens in in.csv
+file = open("2.out", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("3.in", "w")
+file.truncate()
+file.close()
+# wis alle gegevens in in.csv
+file = open("3.out", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("4.in", "w")
+file.truncate()
+file.close()
+# wis alle gegevens in in.csv
+file = open("4.out", "w")
+file.truncate()
+file.close()
+
+# wis alle gegevens in in.csv
+file = open("5.in", "w")
+file.truncate()
+file.close()
+# wis alle gegevens in in.csv
+file = open("5.out", "w")
+file.truncate()
+file.close()
+
 for i in range(1, 11):
     for k in range(10):  
         lijst = []
@@ -80,45 +125,54 @@ for i in range(1, 11):
         for j in range(aantal):
             getal = randint(-10*i, 10*i)
             lijst.append(getal)
+
+        strlijst = str(lijst)
+        
+        #print(strlijst)
         
         with open('0.in', 'a') as file:
-            file.write('>>> gemiddelde(' + str(lijst) + ')')
+            file.write('>>> gemiddelde(' + strlijst + ')')
             file.write('\n')
             file.write(str(gemiddelde(lijst)))
             file.write('\n')
 
+        #print(strlijst)
+        
         with open('1.in', 'a') as file:
-            file.write('>>> mediaan(' + str(lijst) + ')')
+            file.write('>>> mediaan(' + strlijst + ')')
             file.write('\n')
             file.write(str(mediaan(lijst)))
             file.write('\n')
-
+        
+        #print(strlijst)
+        
         with open('2.in', 'a') as file:
-            file.write('>>> Q1(' + str(lijst) + ')')
+            file.write('>>> Q1(' + strlijst + ')')
             file.write('\n')
             file.write(str(Q1(lijst)))
             file.write('\n')
 
+        #print(strlijst)
+        
         with open('3.in', 'a') as file:
-            file.write('>>> Q3(' + str(lijst) + ')')
+            file.write('>>> Q3(' + strlijst + ')')
             file.write('\n')
             file.write(str(Q3(lijst)))
             file.write('\n')
 
+        #print(strlijst)
+        
         with open('4.in', 'a') as file:
-            file.write('>>> IKA(' + str(lijst) + ')')
+            file.write('>>> IKA(' + strlijst + ')')
             file.write('\n')
             file.write(str(IKA(lijst)))
             file.write('\n')
-
+            
+        #print(strlijst)
+        
         with open('5.in', 'a') as file:
-            file.write('>>> standaardafwijking(' + str(lijst) + ')')
+            file.write('>>> standaardafwijking(' + strlijst + ')')
             file.write('\n')
             file.write(str(standaardafwijking(lijst)))
             file.write('\n')
-        """
-        print('>>> standaardafwijking(' + str(lijst) + ')')
-        #print('\n')
-        print(str(standaardafwijking(lijst)))
-        #print('\n')
-        """
+
