@@ -1,22 +1,17 @@
 >>> gespiekt([12, 48, 82, 82])
 3 en 4 zijn erg verdacht.
-
 >>> gespiekt([60, 60, 34, 28, 78, 10])
 1 en 2 zijn erg verdacht.
-
 >>> gespiekt([33, 84, 96, 96])
 3 en 4 zijn erg verdacht.
-
 >>> gespiekt([73, 78, 26, 26, 24, 29])
 1 en 2 zijn verdacht.
 3 en 4 zijn erg verdacht.
 4 en 5 zijn verdacht.
 5 en 6 zijn verdacht.
-
 >>> gespiekt([57, 38, 6, 1, 3, 14])
 3 en 4 zijn verdacht.
 4 en 5 zijn verdacht.
-
 >>> gespiekt([68, 29, 28, 30, 23, 21])
 2 en 3 zijn verdacht.
 3 en 4 zijn verdacht.
