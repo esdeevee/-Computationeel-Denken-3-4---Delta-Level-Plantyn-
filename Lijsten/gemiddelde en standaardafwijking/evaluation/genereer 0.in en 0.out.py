@@ -14,12 +14,14 @@ def mediaan(lijst):
 
 def Q1(lijst):
     n = len(lijst)
+    lijst.sort()
     if n % 2 == 1:
         return round(mediaan(lijst[:int((n+1)/2)]), 1)
     else:
         return round(mediaan(lijst[:int(n/2)]), 1)
 
 def Q3(lijst):
+    lijst.sort()
     n = len(lijst)
     if n % 2 == 1:
         return round(mediaan(lijst[int((n-1)/2):]), 1)
@@ -78,14 +80,45 @@ for i in range(1, 11):
         for j in range(aantal):
             getal = randint(-10*i, 10*i)
             lijst.append(getal)
-        """
+        
         with open('0.in', 'a') as file:
             file.write('>>> gemiddelde(' + str(lijst) + ')')
             file.write('\n')
             file.write(str(gemiddelde(lijst)))
+            file.write('\n')
+
+        with open('1.in', 'a') as file:
+            file.write('>>> mediaan(' + str(lijst) + ')')
+            file.write('\n')
+            file.write(str(mediaan(lijst)))
+            file.write('\n')
+
+        with open('2.in', 'a') as file:
+            file.write('>>> Q1(' + str(lijst) + ')')
+            file.write('\n')
+            file.write(str(Q1(lijst)))
+            file.write('\n')
+
+        with open('3.in', 'a') as file:
+            file.write('>>> Q3(' + str(lijst) + ')')
+            file.write('\n')
+            file.write(str(Q3(lijst)))
+            file.write('\n')
+
+        with open('4.in', 'a') as file:
+            file.write('>>> IKA(' + str(lijst) + ')')
+            file.write('\n')
+            file.write(str(IKA(lijst)))
+            file.write('\n')
+
+        with open('5.in', 'a') as file:
+            file.write('>>> standaardafwijking(' + str(lijst) + ')')
+            file.write('\n')
+            file.write(str(standaardafwijking(lijst)))
             file.write('\n')
         """
         print('>>> standaardafwijking(' + str(lijst) + ')')
         #print('\n')
         print(str(standaardafwijking(lijst)))
         #print('\n')
+        """
