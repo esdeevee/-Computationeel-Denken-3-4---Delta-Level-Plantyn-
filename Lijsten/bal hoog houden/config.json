@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Bal hoog houden"
+      "nl": "Bal hooghouden"
     }
   },
   "evaluation": {
@@ -12,8 +12,9 @@
     "memory_limit": 100000000
   },
   "labels": [],
+  "access": "public",
   "internals": {
-    "token": "dQAwvIe7zkxAiegkvyXc5BPcbgyGreu9jzTHh6b8UIC7nYCCKR2YpYTBt5mGaN82",
+    "token": "-IKGIwwg3s2GHvbjvYpdSEZkZnjYKZJ47-vhMHR_WX6hHc_QMQICaBCYMremc7gN",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
