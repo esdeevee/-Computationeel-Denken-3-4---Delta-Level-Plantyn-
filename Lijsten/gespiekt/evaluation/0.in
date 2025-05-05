@@ -1,0 +1,381 @@
+>>> gespiekt([12, 48, 82, 82])
+3 en 4 zijn erg verdacht.
+
+>>> gespiekt([60, 60, 34, 28, 78, 10])
+1 en 2 zijn erg verdacht.
+
+>>> gespiekt([33, 84, 96, 96])
+3 en 4 zijn erg verdacht.
+
+>>> gespiekt([73, 78, 26, 26, 24, 29])
+1 en 2 zijn verdacht.
+3 en 4 zijn erg verdacht.
+4 en 5 zijn verdacht.
+5 en 6 zijn verdacht.
+
+>>> gespiekt([57, 38, 6, 1, 3, 14])
+3 en 4 zijn verdacht.
+4 en 5 zijn verdacht.
+
+>>> gespiekt([68, 29, 28, 30, 23, 21])
+2 en 3 zijn verdacht.
+3 en 4 zijn verdacht.
+5 en 6 zijn verdacht.
+
+>>> gespiekt([59, 85, 79, 2])
+Er waren geen verdachte situaties.
+
+>>> gespiekt([6, 6, 45, 45, 21, 21])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn erg verdacht.
+5 en 6 zijn erg verdacht.
+
+>>> gespiekt([18, 18, 52, 52, 79, 77])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn erg verdacht.
+5 en 6 zijn verdacht.
+
+>>> gespiekt([99, 43, 38, 34])
+2 en 3 zijn verdacht.
+3 en 4 zijn verdacht.
+
+>>> gespiekt([31, 34, 44, 44])
+1 en 2 zijn verdacht.
+3 en 4 zijn erg verdacht.
+
+>>> gespiekt([74, 79, 24, 19, 24, 79])
+1 en 2 zijn verdacht.
+3 en 4 zijn verdacht.
+4 en 5 zijn verdacht.
+
+>>> gespiekt([96, 99, 79, 96])
+1 en 2 zijn verdacht.
+
+>>> gespiekt([10, 35, 54, 19, 36, 76])
+Er waren geen verdachte situaties.
+
+>>> gespiekt([75, 75, 51, 51, 27, 31])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn erg verdacht.
+5 en 6 zijn verdacht.
+
+>>> gespiekt([21, 27, 85, 75, 22, 24])
+5 en 6 zijn verdacht.
+
+>>> gespiekt([7, 14, 0, 86, 48, 84])
+Er waren geen verdachte situaties.
+
+>>> gespiekt([91, 43, 62, 64, 29, 23])
+3 en 4 zijn verdacht.
+
+>>> gespiekt([68, 43, 87, 87])
+3 en 4 zijn erg verdacht.
+
+>>> gespiekt([52, 54, 64, 67])
+1 en 2 zijn verdacht.
+3 en 4 zijn verdacht.
+
+>>> gespiekt([75, 75, 58, 58, 62, 88])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn erg verdacht.
+4 en 5 zijn verdacht.
+
+>>> gespiekt([52, 52, 70, 70])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn erg verdacht.
+
+>>> gespiekt([17, 17, 59, 31])
+1 en 2 zijn erg verdacht.
+
+>>> gespiekt([97, 97, 50, 50])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn erg verdacht.
+
+>>> gespiekt([24, 24, 2, 56, 22, 65])
+1 en 2 zijn erg verdacht.
+
+>>> gespiekt([71, 31, 68, 67, 70, 11, 5, 8, 49, 49, 97, 102, 41, 41, 37, 37])
+3 en 4 zijn verdacht.
+4 en 5 zijn verdacht.
+7 en 8 zijn verdacht.
+9 en 10 zijn erg verdacht.
+11 en 12 zijn verdacht.
+13 en 14 zijn erg verdacht.
+14 en 15 zijn verdacht.
+15 en 16 zijn erg verdacht.
+
+>>> gespiekt([40, 42, 11, 56, 33, 37, 17, 29, 61, 17])
+1 en 2 zijn verdacht.
+5 en 6 zijn verdacht.
+
+>>> gespiekt([59, 59, 22, 31, 12, 4, 56, 14, 73, 17])
+1 en 2 zijn erg verdacht.
+
+>>> gespiekt([21, 26, 1, 9, 80, 58])
+1 en 2 zijn verdacht.
+
+>>> gespiekt([49, 49, 35, 30, 73, 73, 94, 16, 37, 37, 89, 89, 7, 93, 55, 58])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn verdacht.
+5 en 6 zijn erg verdacht.
+9 en 10 zijn erg verdacht.
+11 en 12 zijn erg verdacht.
+15 en 16 zijn verdacht.
+
+>>> gespiekt([30, 34, 20, 78])
+1 en 2 zijn verdacht.
+
+>>> gespiekt([63, 61, 35, 35, 26, 64, 45, 49, 59, 17, 87, 87, 70, 70])
+1 en 2 zijn verdacht.
+3 en 4 zijn erg verdacht.
+7 en 8 zijn verdacht.
+11 en 12 zijn erg verdacht.
+13 en 14 zijn erg verdacht.
+
+>>> gespiekt([63, 76, 15, 83, 56, 56, 59, 86, 30, 30, 78, 84, 84, 39, 26, 26])
+5 en 6 zijn erg verdacht.
+6 en 7 zijn verdacht.
+9 en 10 zijn erg verdacht.
+12 en 13 zijn erg verdacht.
+15 en 16 zijn erg verdacht.
+
+>>> gespiekt([16, 35, 52, 83, 61, 27, 93, 9, 98, 98, 51, 6, 90, 23])
+9 en 10 zijn erg verdacht.
+
+>>> gespiekt([55, 70, 90, 90, 29, 22, 25, 84, 78, 78, 83, 85])
+3 en 4 zijn erg verdacht.
+6 en 7 zijn verdacht.
+9 en 10 zijn erg verdacht.
+10 en 11 zijn verdacht.
+11 en 12 zijn verdacht.
+
+>>> gespiekt([37, 36, 23, 23, 38, 92])
+1 en 2 zijn verdacht.
+3 en 4 zijn erg verdacht.
+
+>>> gespiekt([85, 90, 45, 45, 39, 40, 14, 63, 70, 83])
+1 en 2 zijn verdacht.
+3 en 4 zijn erg verdacht.
+5 en 6 zijn verdacht.
+
+>>> gespiekt([86, 3, 42, 28, 73, 73, 81, 61, 64, 77, 28, 51, 15, 10])
+5 en 6 zijn erg verdacht.
+8 en 9 zijn verdacht.
+13 en 14 zijn verdacht.
+
+>>> gespiekt([72, 72, 2, 3])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn verdacht.
+
+>>> gespiekt([63, 36, 68, 63, 28, 4])
+3 en 4 zijn verdacht.
+
+>>> gespiekt([24, 13, 5, 12, 75, 75])
+5 en 6 zijn erg verdacht.
+
+>>> gespiekt([62, 84, 47, 66, 3, 6])
+5 en 6 zijn verdacht.
+
+>>> gespiekt([56, 86, 85, 22, 55, 5, 64, 11, 16, 82, 59, 99])
+2 en 3 zijn verdacht.
+8 en 9 zijn verdacht.
+
+>>> gespiekt([15, 15, 35, 17, 71, 0])
+1 en 2 zijn erg verdacht.
+
+>>> gespiekt([43, 3, 15, 80, 11, 11])
+5 en 6 zijn erg verdacht.
+
+>>> gespiekt([2, 42, 84, 45, 82, 49])
+Er waren geen verdachte situaties.
+
+>>> gespiekt([28, 72, 53, 53, 51, 50, 4, 4, 88, 86, 26, 100, 42, 67, 99, 67])
+3 en 4 zijn erg verdacht.
+4 en 5 zijn verdacht.
+5 en 6 zijn verdacht.
+7 en 8 zijn erg verdacht.
+9 en 10 zijn verdacht.
+
+>>> gespiekt([36, 36, 21, 7, 47, 9, 52, 52, 52, 41])
+1 en 2 zijn erg verdacht.
+7 en 8 zijn erg verdacht.
+8 en 9 zijn erg verdacht.
+
+>>> gespiekt([12, 10, 67, 67, 5, 12])
+1 en 2 zijn verdacht.
+3 en 4 zijn erg verdacht.
+
+>>> gespiekt([38, 11, 83, 17, 13, 13, 54, 58, 23, 79, 55, 89, 84, 28])
+4 en 5 zijn verdacht.
+5 en 6 zijn erg verdacht.
+7 en 8 zijn verdacht.
+12 en 13 zijn verdacht.
+
+>>> gespiekt([0, 0, 100, 91, 92, 71, 6, 2, 11, 11, 45, 45, 1, 2, 81, 23, 0, 0])
+1 en 2 zijn erg verdacht.
+4 en 5 zijn verdacht.
+7 en 8 zijn verdacht.
+9 en 10 zijn erg verdacht.
+11 en 12 zijn erg verdacht.
+13 en 14 zijn verdacht.
+17 en 18 zijn erg verdacht.
+
+>>> gespiekt([80, 74, 33, 32, 25, 27, 100, 100, 70, 70, 10, 52, 44, 40])
+3 en 4 zijn verdacht.
+5 en 6 zijn verdacht.
+7 en 8 zijn erg verdacht.
+9 en 10 zijn erg verdacht.
+13 en 14 zijn verdacht.
+
+>>> gespiekt([30, 69, 74, 44, 94, 100, 48, 48, 29, 26, 35, 36])
+2 en 3 zijn verdacht.
+7 en 8 zijn erg verdacht.
+9 en 10 zijn verdacht.
+11 en 12 zijn verdacht.
+
+>>> gespiekt([62, 81, 6, 6, 27, 27, 35, 35, 63, 92, 35, 18, 96, 94, 61, 84, 47, 47])
+3 en 4 zijn erg verdacht.
+5 en 6 zijn erg verdacht.
+7 en 8 zijn erg verdacht.
+13 en 14 zijn verdacht.
+17 en 18 zijn erg verdacht.
+
+>>> gespiekt([67, 54, 10, 46, 85, 27, 49, 17, 75, 72, 29, 69, 96, 96, 56, 99, 56, 56, 66, 36, 74, 32])
+9 en 10 zijn verdacht.
+13 en 14 zijn erg verdacht.
+17 en 18 zijn erg verdacht.
+
+>>> gespiekt([65, 73, 92, 23, 25, 47, 22, 22, 11, 99])
+4 en 5 zijn verdacht.
+7 en 8 zijn erg verdacht.
+
+>>> gespiekt([70, 74, 40, 66, 9, 56, 22, 31, 85, 85, 29, 28, 85, 82, 21, 71, 19, 85, 99, 34, 58, 58, 41, 36, 68, 6])
+1 en 2 zijn verdacht.
+9 en 10 zijn erg verdacht.
+11 en 12 zijn verdacht.
+13 en 14 zijn verdacht.
+21 en 22 zijn erg verdacht.
+23 en 24 zijn verdacht.
+
+>>> gespiekt([64, 24, 40, 40, 82, 34, 65, 65, 55, 54, 35, 93, 33, 24])
+3 en 4 zijn erg verdacht.
+7 en 8 zijn erg verdacht.
+9 en 10 zijn verdacht.
+
+>>> gespiekt([38, 38, 1, 7, 90, 39, 30, 30, 4, 4, 41, 41, 44, 0, 29, 4, 47, 48, 52, 44, 29, 31, 99, 99, 78, 64])
+1 en 2 zijn erg verdacht.
+7 en 8 zijn erg verdacht.
+9 en 10 zijn erg verdacht.
+11 en 12 zijn erg verdacht.
+12 en 13 zijn verdacht.
+17 en 18 zijn verdacht.
+18 en 19 zijn verdacht.
+21 en 22 zijn verdacht.
+23 en 24 zijn erg verdacht.
+
+>>> gespiekt([19, 19, 60, 59])
+1 en 2 zijn erg verdacht.
+3 en 4 zijn verdacht.
+
+>>> gespiekt([27, 25, 29, 29, 82, 82, 18, 14, 20, 55, 64, 9, 16, 16, 83, 79, 48, 55, 47, 47, 34, 31, 1, 67])
+1 en 2 zijn verdacht.
+2 en 3 zijn verdacht.
+3 en 4 zijn erg verdacht.
+5 en 6 zijn erg verdacht.
+7 en 8 zijn verdacht.
+13 en 14 zijn erg verdacht.
+15 en 16 zijn verdacht.
+19 en 20 zijn erg verdacht.
+21 en 22 zijn verdacht.
+
+>>> gespiekt([92, 92, 96, 96, 94, 92, 69, 78, 58, 57, 9, 60, 2, 5, 34, 30])
+1 en 2 zijn erg verdacht.
+2 en 3 zijn verdacht.
+3 en 4 zijn erg verdacht.
+4 en 5 zijn verdacht.
+5 en 6 zijn verdacht.
+9 en 10 zijn verdacht.
+13 en 14 zijn verdacht.
+15 en 16 zijn verdacht.
+
+>>> gespiekt([52, 78, 82, 82, 35, 38, 87, 87, 5, 5, 31, 9, 63, 20, 59, 69, 56, 56, 29, 26, 69, 100, 47, 46, 15, 15])
+2 en 3 zijn verdacht.
+3 en 4 zijn erg verdacht.
+5 en 6 zijn verdacht.
+7 en 8 zijn erg verdacht.
+9 en 10 zijn erg verdacht.
+17 en 18 zijn erg verdacht.
+19 en 20 zijn verdacht.
+23 en 24 zijn verdacht.
+25 en 26 zijn erg verdacht.
+
+>>> gespiekt([47, 47, 33, 81])
+1 en 2 zijn erg verdacht.
+
+>>> gespiekt([59, 54, 57, 49, 23, 92])
+1 en 2 zijn verdacht.
+2 en 3 zijn verdacht.
+
+>>> gespiekt([94, 85, 16, 96, 18, 1, 4, 9, 93, 93, 66, 83, 22, 23])
+6 en 7 zijn verdacht.
+7 en 8 zijn verdacht.
+9 en 10 zijn erg verdacht.
+13 en 14 zijn verdacht.
+
+>>> gespiekt([82, 77, 58, 71, 17, 20, 41, 41, 11, 11])
+1 en 2 zijn verdacht.
+5 en 6 zijn verdacht.
+7 en 8 zijn erg verdacht.
+9 en 10 zijn erg verdacht.
+
+>>> gespiekt([53, 31, 97, 102, 66, 78, 58, 61, 60, 11, 97, 74, 89, 89, 14, 71, 39, 61, 26, 26, 33, 62])
+3 en 4 zijn verdacht.
+7 en 8 zijn verdacht.
+8 en 9 zijn verdacht.
+13 en 14 zijn erg verdacht.
+19 en 20 zijn erg verdacht.
+
+>>> gespiekt([1, 22, 95, 99, 57, 100, 95, 95, 51, 0])
+3 en 4 zijn verdacht.
+6 en 7 zijn verdacht.
+7 en 8 zijn erg verdacht.
+
+>>> gespiekt([52, 50, 55, 51, 44, 39, 5, 57, 4, 4, 62, 65, 10, 34, 46, 46])
+1 en 2 zijn verdacht.
+2 en 3 zijn verdacht.
+3 en 4 zijn verdacht.
+5 en 6 zijn verdacht.
+9 en 10 zijn erg verdacht.
+11 en 12 zijn verdacht.
+15 en 16 zijn erg verdacht.
+
+>>> gespiekt([97, 98, 18, 20, 9, 9, 98, 2, 32, 30, 35, 45, 44, 65])
+1 en 2 zijn verdacht.
+3 en 4 zijn verdacht.
+5 en 6 zijn erg verdacht.
+9 en 10 zijn verdacht.
+10 en 11 zijn verdacht.
+12 en 13 zijn verdacht.
+
+>>> gespiekt([17, 13, 61, 2, 97, 16, 89, 85, 71, 56, 30, 36, 2, 7, 66, 71, 13, 10, 55, 81, 3, 74, 42, 8, 91, 27])
+1 en 2 zijn verdacht.
+7 en 8 zijn verdacht.
+13 en 14 zijn verdacht.
+15 en 16 zijn verdacht.
+17 en 18 zijn verdacht.
+
+>>> gespiekt([16, 21, 97, 51, 63, 12, 40, 40, 92, 100, 42, 37, 68, 47])
+1 en 2 zijn verdacht.
+7 en 8 zijn erg verdacht.
+11 en 12 zijn verdacht.
+
+>>> gespiekt([90, 28, 53, 70])
+Er waren geen verdachte situaties.
+
+>>> gespiekt([29, 67, 32, 51, 87, 48, 28, 25, 97, 2, 17, 13, 6, 53, 48, 48, 24, 89, 34, 83, 21, 21])
+7 en 8 zijn verdacht.
+11 en 12 zijn verdacht.
+14 en 15 zijn verdacht.
+15 en 16 zijn erg verdacht.
+21 en 22 zijn erg verdacht.
+
