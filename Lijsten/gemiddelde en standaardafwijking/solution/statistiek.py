@@ -14,12 +14,14 @@ def mediaan(lijst):
 
 def Q1(lijst):
     n = len(lijst)
+    lijst.sort()
     if n % 2 == 1:
         return round(mediaan(lijst[:int((n+1)/2)]), 1)
     else:
         return round(mediaan(lijst[:int(n/2)]), 1)
 
 def Q3(lijst):
+    lijst.sort()
     n = len(lijst)
     if n % 2 == 1:
         return round(mediaan(lijst[int((n-1)/2):]), 1)
