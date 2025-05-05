@@ -1,4 +1,5 @@
 from random import randint
+from math import floor
 
 def niveau(aantal_toetsen):
     return 1 + (aantal_toetsen - 1) // 10
@@ -18,7 +19,7 @@ def klasresultaat(lijst):
     som = 0
     for resultaat in scorelijst:
         som += resultaat
-    gemiddelde = round(som / len(lijst))
+    gemiddelde = floor(som / len(lijst))
     return gemiddelde
         
 
