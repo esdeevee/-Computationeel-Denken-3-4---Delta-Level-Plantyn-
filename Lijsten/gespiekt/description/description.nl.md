@@ -29,8 +29,8 @@ Schrijf een functie `gespiekt(lijst)` die alle verdachte en erg verdachte situat
 
 **Uitvoer:**
 
-    2 en 3 zijn verdacht
-    4 en 5 zijn erg verdacht
-    5 en 6 zijn verdacht
-    7 en 8 zijn verdacht
-    9 en 10 zijn erg verdacht
+    2 en 3 zijn verdacht.
+    4 en 5 zijn erg verdacht.
+    5 en 6 zijn verdacht.
+    7 en 8 zijn verdacht.
+    9 en 10 zijn erg verdacht.

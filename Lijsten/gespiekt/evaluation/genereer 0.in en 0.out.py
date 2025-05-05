@@ -36,10 +36,10 @@ file = open("0.out", "w")
 file.truncate()
 file.close()
 
-for i in range(1, 4):
+for i in range(1, 5):
     for k in range(25):  
         lijst = []
-        aantal = randint(2, 5*i - 2)
+        aantal = randint(2, 3*i + 1)
         for j in range(aantal):
             toss = randint(1, 5)
             if toss == 1:
@@ -65,4 +65,10 @@ for i in range(1, 4):
             file.write('\n')
             file.write(str(gespiekt_write(lijst)))
             file.write('\n')
+        with open('0.out', 'a') as file:
+            file.write('---------------------------------------------')
+            file.write('\n')
+            file.write('used output channel: stdout')
+            file.write('\n')
+        
         
