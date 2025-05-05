@@ -29,62 +29,68 @@ $$
 
 **Invoer:**
 
-    > gemiddelde([17, 22, -4])
+    > gemiddelde([-1, -8, 8, -10, 3, -3])
+
 
 **Uitvoer:**
 	
-	11.7
+	-1.8
     
 
 ### Voorbeeld 2
 
 **Invoer:**
 
-    > mediaan([9, -4, 0, -2, -3, -1])
+    > mediaan([-1, -8, 8, -10, 3, -3])
+
 
 **Uitvoer:**
 
-    -1.5
+    -2.0
 
 
 ### Voorbeeld 3
 
 **Invoer:**
 
-    > Q1([-5, -2, 3, -10, 10, 4])
+    > Q1([-1, -8, 8, -10, 3, -3])
+
 
 **Uitvoer:**
 	
-	-2
+	-8
 
 
 ### Voorbeeld 4
 
 **Invoer:**
 
-    > Q3([-2, 7, -3, 9, 0])
+    > Q3([-1, -8, 8, -10, 3, -3])
+
 
 **Uitvoer:**
 	
-	0
+	3
     
 
 ### Voorbeeld 5
 
 **Invoer:**
 
-    > IKA([-1, 6, 4, -2, -9, -6, 5])
+    > IKA([-1, -8, 8, -10, 3, -3])
+
 
 **Uitvoer:**
 
-    -5.5
+    11
+
 
 ### Voorbeeld 6
 
 **Invoer:**
 
-    > standaardafwijking([-1, -10, -4, -1, -2])
+    > standaardafwijking([-1, -8, 8, -10, 3, -3])
 
 **Uitvoer:**
 	
-	3.8
+	6.7
