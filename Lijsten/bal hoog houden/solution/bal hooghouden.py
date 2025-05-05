@@ -1,4 +1,3 @@
-from random import randint
 from math import floor
 
 def niveau(aantal_toetsen):
