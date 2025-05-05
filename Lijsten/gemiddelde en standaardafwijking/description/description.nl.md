@@ -1,7 +1,7 @@
 ### Inleiding
 
 Er zijn verschillende manieren om het centrum van een aantal getallen te karakteriseren. De bekendste zijn wellicht het gemiddelde en de mediaan. 
-Je berekent het gemiddelde van de getallen $x_1, x_2, \ldots, x_n$ als volgt:
+Je berekent het gemiddelde van de getallen $$x_1, x_2, \ldots, x_n$$ als volgt:
 $$\overline x = \frac{1}{n} \cdot \sum_{i=1}^n x_i.$$
 De mediaan van een aantal getallen vind je door ze te sorteren van klein naar groot. Bij een oneven aantal getallen is de mediaan dan gelijk aan het middelste getallen. Voor een even aantal getallen is de mediaan gelijk aan het gemiddelde van de twee middelste getallen.
 
