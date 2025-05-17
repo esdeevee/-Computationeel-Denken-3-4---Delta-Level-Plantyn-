@@ -1,15 +1,26 @@
 ### Herhaling matrices
 We zullen het in deze opgave hebben over matrices. Matrices zouden voor niemand een probleem mogen zijn, maar om zeker te zijn dat je niet struikelt over de wiskunde, wil ik toch graag een paar zaken opfrissen. Wie deze herhaling niet nodig denk te hebben, kan dit deel probleemloos overslaan.
 
- Beschouw de matrix $$A = \begin{bmatrix}
+Beschouw de matrix 
+
+$$A = \begin{bmatrix}
 1 & 2 & 3\\
 4 & 5 & 6
 \end{bmatrix}$$.
+
 We zeggen dat $$A$$ 2 rijen heeft en 3 kolommen. Formeel wordt dat genoteerd als $$A \in \mathbb{R}^{2 \times 3}$$, of ook als $$\dim A = 2 \times 3$$.
 
-Je hebt vorig jaar geleerd hoe je matrices moet vermenigvuldigen. De details doen er niet toe, maar de dimensies zijn wel belangrijk voor deze opgave. Het is namelijk zo dat $$\forall A \in \mathbb{R}^{m \times n}, \forall B \in \mathbb{R}^{n \times p}: A \cdot B \in \mathbb{R}^{m \times p}$$.
+Je hebt vorig jaar geleerd hoe je matrices moet vermenigvuldigen. De details doen er niet toe, maar de dimensies zijn wel belangrijk voor deze opgave. Het is namelijk zo dat 
 
-De getransponeerde van een matrix $$A$$ vind je door de rijen en kolommen van $$A$$ onderling te wisselen. Het element op de $$i$$-de rij en $$j$$-de kolom van $$A$$ komt zo op de $$j$$-de rij en $$i$$-de kolom van $$A^T$$. Formeel: $$\forall A \in \mathbb{R}^{m \times n}: B = A^T \in \mathbb{R}^{n \times m} \Leftrightarrow b_{ij} = a_{ji} \hspace{1cm} (\forall i, j)$$. Voor onze matrix $$A$$ is dus $$A^T = \begin{bmatrix}
+$$\forall A \in \mathbb{R}^{m \times n}, \forall B \in \mathbb{R}^{n \times p}: A \cdot B \in \mathbb{R}^{m \times p}$$.
+
+De getransponeerde van een matrix $$A$$ vind je door de rijen en kolommen van $$A$$ onderling te wisselen. Het element op de $$i$$-de rij en $$j$$-de kolom van $$A$$ komt zo op de $$j$$-de rij en $$i$$-de kolom van $$A^T$$. Formeel: 
+
+$$\forall A \in \mathbb{R}^{m \times n}: B = A^T \in \mathbb{R}^{n \times m} \Leftrightarrow b_{ij} = a_{ji} \hspace{1cm} (\forall i, j)$$. 
+
+Voor onze matrix $$A$$ is dus 
+
+$$A^T = \begin{bmatrix}
 1 & 4\\
 2 & 5\\
 3 & 6
